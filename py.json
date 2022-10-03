@@ -8,7 +8,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_kunyu77.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_kunyu77.py"
         },
         {
             "key": "py_bilivd",
@@ -18,7 +18,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_bilivd.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_bilivd.py"
         },
 {
             "key": "py_douban.py",
@@ -28,7 +28,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_douban.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_douban.py"
         },
         {
             "key": "py_3qu",
@@ -38,7 +38,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_3qu.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_3qu.py"
         },
         {
             "key": "py_cctv",
@@ -48,7 +48,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_cctv.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_cctv.py"
         },
         {
             "key": "py_czspp",
@@ -58,7 +58,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_czspp.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_czspp.py"
         },
         {
             "key": "py_cyys",
@@ -68,7 +68,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_cyys.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_cyys.py"
         },
         {
             "key": "py_zxzj",
@@ -78,7 +78,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_zxzj.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_zxzj.py"
         },
         {
             "key": "py_voflix",
@@ -88,7 +88,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_voflix.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_voflix.py"
         },
         {
             "key": "py_bilimd",
@@ -98,7 +98,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_bilimd.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_bilimd.py"
         },
         {
             "key": "py_gimytv",
@@ -108,7 +108,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_gimytv.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_gimytv.py"
         },
         {
             "key": "py_genmov",
@@ -118,7 +118,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_genmov.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_genmov.py"
         },
         {
             "key": "py_huya",
@@ -128,7 +128,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_huya.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_huya.py"
         },
         {
             "key": "py_douyu",
@@ -138,7 +138,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_douyu.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_douyu.py"
         },
         {
             "key": "py_cokemv",
@@ -148,7 +148,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_cokemv.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_cokemv.py"
         },
         {
             "key": "py_xmaomi",
@@ -158,7 +158,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_xmaomi.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_xmaomi.py"
         },
         {
             "key": "py_gitcafe",
@@ -168,7 +168,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_gitcafe.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_gitcafe.py"
         },
         {
             "key": "py_yiso",
@@ -178,7 +178,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_yiso.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_yiso.py"
         },
         {
             "key": "py_zhaozy",
@@ -188,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_zhaozy.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_zhaozy.py"
         },
         {
             "key": "py_alist",
@@ -198,7 +198,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_alist.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_alist.py"
         },
         {
             "key": "py_pansou",
@@ -208,7 +208,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://kebedd69.github.io/TVbox-interface/py/py_pansou.py"
+            "ext": "https://github.com/alantang1977/T/raw/master/PY/py_pansou.py"
         },
         {
             "key": "push_agent",
@@ -292,7 +292,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2FsYW50YW5nMTk3Ny9UL3Jhdy9tYXN0ZXIvbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="
                     ]
                 }
             ]
@@ -534,6 +534,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper": "https://picsum.photos/1080",
-    "spider": "https://kebedd69.github.io/TVbox-interface/ext/1001.jar;md5;c474a7a9d106ef348f4ebdc7705c6d38"
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+    "spider": "https://github.com/alantang1977/T/raw/master/jar/2022103PY.jar"
 }
