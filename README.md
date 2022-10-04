@@ -1,4 +1,7 @@
- **TVBox** 
+ **TangTV** 
+ 
+ https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/alist.json
+ 
 接口分享
 
 https://gitea.com/alanchaotang/TVBox/raw/branch/main/
