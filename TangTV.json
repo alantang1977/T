@@ -90,7 +90,10 @@
 {"key": "csp_xBPQ_追剧Free","name": "️🐦追剧Free(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://"},
 {"key": "csp_xBPQ_","name": "️🐦荐片影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E8%BF%BD%E5%89%A7Free(xBPQ).json"},
 {"key":"csp_biubiu_YYDS影院","name":"🧲YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/YYDS%E5%BD%B1%E9%99%A2.json"},
-
+{"key":"csp_QQ","name":"企鹅┃官采","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MGTV","name":"芒果┃官采","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"猕猴桃┃官采","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+  
 {"key": "桉t4","name": "👫豆瓣榜单（桉T4）","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=868fc73ad70d4b958bbbda93330c6c35&timeout=6","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_Alist","name":"🐷Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/Alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
