@@ -112,7 +112,6 @@
 //{"key":"csp_XYQBiu_好恐怖磁力","name":"🐟好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/xyq/haokongbuCL.json"},
 {"key":"M3U8TV采集","name":"💖M3U8TV(官)","type":1,"api":"https://www.zycaiji.net:7788/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"csp_XBiubiu_大米星球","name":"🍚大米星球","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"},
-{"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Anime1","name": "🌸小日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_蚂蚁影视","name":"🐜蚂蚁影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/mayi.json"},
