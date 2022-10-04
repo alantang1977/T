@@ -40,10 +40,9 @@
 {"key":"csp_Alist","name":"🐷Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/Alist.json"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"csp_biubiu_影视工厂","name":"🎬影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"},
-//{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/dadagui.json"},
-{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"},
-//{key:'Voflix',name:'Voflix(XB)',type:3,api:'csp_XBiubiu',searchable:1,quickSearch:1,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/sp8olkll.json'},
-
+{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/dadagui.json"},
+{"key": "RelaxSP","name": "📯轻松影视","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/jar/RelaxSP.jar"},
+ 
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/yekong.json"},
 {"key":"北雁资源","name":"🎭北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
