@@ -20,7 +20,7 @@
 //"wallpaper": "https://bg.s.welsun.win/api",
 
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWxhbmNoYW90YW5nL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlcy96Yi50eHQ="]}]}],
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2FsYW50YW5nMTk3Ny9UL3Jhdy9tYXN0ZXIvbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
 "sites":[
 
 //盘搜
