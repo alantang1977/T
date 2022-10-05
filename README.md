@@ -1,4 +1,10 @@
  **TangTV** 
+ 国内代理方式：
+ 原地址：https://raw.iqiq.io/(https://github.com/alantang1977/T/blob/master/TangTV.json)
+ 
+ 加速地址：https://raw.iqiq.io/alantang1977/T/master/TangTV.json（将https://github.com/和/blob删除）
+ 
+ 
  
  https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/alist.json
  
