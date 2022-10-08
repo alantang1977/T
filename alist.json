@@ -43,7 +43,7 @@
 {"key":"csp_biubiu_影视工厂","name":"🎬影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/XB/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/dadagui.json"},
 {"key": "RelaxSP","name": "📯轻松影视","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/jar/RelaxSP.jar"},
-{"key":"Anfuns","name":"Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"👋Anfuns","name":"Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1}, 
  
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/yekong.json"},
@@ -53,14 +53,14 @@
 {"key":"csp_XYQBiu_xmm","name":"😸小猫咪(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E5%B0%8F%E7%8C%AB%E5%92%AA.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/XYQBiu.jar"},
 {"key": "Kuaikan","name": "🈷️月光快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"土狗360","name":"🐞土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "csp_xpath_lenxitv","name": "🎞️冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/lenxi.json"},
+{"key": "csp_xpath_lenxitv","name": "🌱冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XP/lenxi.json"},
 
 {"key": "快播","name": "🐲快播","type": 1,"api": "https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key": "百度","name": "🐲百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key": "APPTT","name":"🐲图图（SP）","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "农民","name": "🎯春风(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/alantang1977/T/raw/master/XP/nongminyingshi.json"},
-{"key": "RelaxSP","name": "📯轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
+{"key": "RelaxSP","name": "📫轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
         
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
