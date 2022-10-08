@@ -17,7 +17,7 @@
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/20220923_ts0903.jar",
 //"spider":"https://github.com/alantang1977/T/raw/master/jar/1007.jar",
- "spider":"https://github.com/alantang1977/T/raw/master/jar/0928.jar",
+ "spider":"https://github.com/alantang1977/T/raw/master/jar/%E7%A5%9E%E5%99%A8.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
@@ -27,7 +27,7 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
 {"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"868fc73ad70d4b958bbbda93330c6c35"},
-{"key":"阿里盘搜","name":"⚽盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+{"key":"阿里盘搜","name":"💞️盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"Gitcafe","name":"⚽小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ali.jar"},
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"868fc73ad70d4b958bbbda93330c6c35","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
