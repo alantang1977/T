@@ -159,21 +159,21 @@
       "name": "凌云影视[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/凌云影视.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_猫了个咪",
       "name": "猫了个咪[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/猫了个咪.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
     },
     {
       "key": "drpy_js_喵喵",
       "name": "喵喵[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/喵喵.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E5%96%B5%E5%96%B5.js"
     },
     {
       "key": "drpy_js_模板",
@@ -187,21 +187,21 @@
       "name": "莫扎兔[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/莫扎兔.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E8%8E%AB%E6%89%8E%E5%85%94.js"
     },
     {
       "key": "drpy_js_牛马TV",
       "name": "牛马TV[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/牛马TV.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E7%89%9B%E9%A9%ACTV.js"
     },
     {
       "key": "drpy_js_奇优影院",
       "name": "奇优影院[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/奇优影院.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
