@@ -5,14 +5,14 @@
       "name": "360影视[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/JS/360影视.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/360%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_555影视",
       "name": "555影视[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/555影视.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/555%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_1080P",
@@ -33,7 +33,7 @@
       "name": "007影视[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/007影视.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/007%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_cokemv",
@@ -54,7 +54,7 @@
       "name": "l0l[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/l0l.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/l0l.js"
     },
     {
       "key": "drpy_js_LIBVIO",
@@ -68,63 +68,63 @@
       "name": "vip影院[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/vip影院.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/vip%E5%BD%B1%E9%99%A2.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/百忙无果.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "菜狗[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/菜狗.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E8%8F%9C%E7%8B%97.js"
     },
     {
       "key": "drpy_js_大米星球",
       "name": "大米星球[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/大米星球.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js"
     },
     {
       "key": "drpy_js_番茄影视",
       "name": "番茄影视[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/番茄影视.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E7%95%AA%E8%8C%84%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_干饭影视",
       "name": "干饭影视[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/干饭影视.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_瓜皮TV",
       "name": "瓜皮TV[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/瓜皮TV.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E7%93%9C%E7%9A%AETV.js"
     },
     {
       "key": "drpy_js_剧白白",
       "name": "剧白白[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/剧白白.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E5%89%A7%E7%99%BD%E7%99%BD.js"
     },
     {
       "key": "drpy_js_看视界",
       "name": "看视界[DRPY]",
       "type": 3,
       "api": "clan://TVbox/drpy/drpy.js",
-      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/JS/看视界.js"
+      "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/%E7%9C%8B%E8%A7%86%E7%95%8C.js"
     },
     {
       "key": "drpy_js_库马伊",
