@@ -31,7 +31,8 @@
 //{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/TangBox/raw/main/XP/dadagui.json"},
 //{"key": "RelaxSP","name": "📯轻松影视","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/jar/RelaxSP.jar"},
 {"key":"Anfuns","name":"👀Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1}, 
- 
+
+{"key": "农民","name": "农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gst163.github.io/s/nongminyingshi.json"},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/alantang1977/T/raw/master/XB/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"},
 {"key":"北雁资源","name":"🎭北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
