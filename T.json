@@ -273,7 +273,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/lgyy.json"
+            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/lgyy.json"
         },
         {
             "key": "ysgc",
@@ -283,7 +283,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/ysgc.json"
+            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/ysgc.json"
         },
         {
             "key": "瓜皮",
@@ -293,7 +293,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://dxawi.github.io/1/json/gptv.json"
+            "ext":"https://github.com/alantang1977/T/raw/master/Reptile/gptv.json"
         },
         {
             "key": "口袋影院",
@@ -303,7 +303,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/kdyy.json"
+            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/kdyy.json"
         },
         {
             "key":"csp_xpath_libv",
@@ -313,7 +313,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/libvp.json"
+            "ext":"https://github.com/alantang1977/T/raw/master/Reptile/libvp.json"
         },
         {
             "key":"csp_xpath_zxzj",
@@ -323,7 +323,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/zxzjp.json"
+            "ext":"https://github.com/alantang1977/T/raw/master/Reptile/zxzjp.json"
         },
         {   
             "key": "在线直播",
@@ -342,59 +342,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/bili.json"
+            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/bili.json"
         },
-        {
-            "key": "知识",
-            "name": "知识学堂(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
-        },
-        {
-            "key": "儿童",
-            "name": "儿童(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
-        },
-        {
-            "key": "小学",
-            "name": "小学(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
-        },
-        {
-            "key": "初中",
-            "name": "初中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
-        },
-        {
-            "key": "高中",
-            "name": "高中(爬虫)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
-        },
-        {
+       {
             "key": "推送",
             "name": "推送",
             "type":3,
