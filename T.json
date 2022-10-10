@@ -54,7 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/nongminyingshi.json"
         },
         {
             "key": "剧荒",
@@ -206,16 +206,6 @@
             "ext": "81461f2e9d0b4ffb86612db403824b8a"
         },
         {
-            "key": "csp_xpath_dm84",
-            "name": "动漫巴士(XP)",
-            "type":3,
-            "api":"csp_XPathFilter",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://dxawi.github.io/1/json/dm84.json"
-        }, 
-        {
             "key": "多多",
             "name": "多多资源(采集)",
             "type": 1,
@@ -233,7 +223,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/xyqqsp.json"
+            "ext":"https://github.com/alantang1977/T/raw/master/Reptile/xyqqsp.json"
         },
         {
             "key": "csp_XYQBiu_凌云影视",
@@ -243,7 +233,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/xyqlyys.json"
+            "ext":"https://github.com/alantang1977/T/raw/master/Reptile/xyqlyys.json"
         },
         {
             "key": "csp_XBPQ极品影视",
@@ -253,7 +243,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"https://dxawi.github.io/1/json/xbpqjpys.json"
+            "ext":"https://github.com/alantang1977/T/raw/master/Reptile/xbpqjpys.json"
         },
         {
             "key": "Voflix",
@@ -263,7 +253,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
+            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/voflix.json"
         },
         {
             "key": "蓝光影院",
