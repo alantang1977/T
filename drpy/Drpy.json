@@ -4,42 +4,42 @@
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/360%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_555影视",
       "name": "555影视[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/555%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_1080P",
       "name": "1080P[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/1080P.js"
     },
     {
       "key": "drpy_js_AnFuns",
       "name": "AnFuns[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/AnFuns.js"
     },
     {
       "key": "drpy_js_007影视",
       "name": "007影视[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/007%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "drpy_js_cokemv",
       "name": "cokemv[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/cokemv.js"
     },
     {
@@ -53,14 +53,14 @@
       "key": "drpy_js_l0l",
       "name": "l0l[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/l0l.js"
     },
     {
       "key": "drpy_js_LIBVIO",
       "name": "LIBVIO[DRPY]",
       "type": 3,
-      "api": "clan://TVbox/drpy/drpy.js",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/drpy/JS/drpy.js",
       "ext": "https://raw.githubusercontents.com/alantang1977/T/master/drpy/JS/LIBVIO.js"
     },
     {
