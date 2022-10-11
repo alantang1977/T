@@ -48,7 +48,7 @@
 {"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/Reptile/Nmys.json"},
  
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/alantang77/t/-/raw/master/XB/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"},
+{"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/alantang1977/T/raw/master/XB/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"},
 {"key":"北雁资源","name":"🎭北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
 {"key":"csp_app_独优影视","name":"🎯独优影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"多多","name":"🍎多多资源(SP)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","日韩剧","港台剧","欧美剧","综艺","动漫","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","剧情片"]},
