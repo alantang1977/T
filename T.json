@@ -45,17 +45,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1
-        },
-        {
-            "key": "农民",
-            "name": "农民(爬虫)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.com/alantang1977/T/raw/master/Reptile/nongminyingshi.json"
-        },
+        },{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/nmys.json"},
         {
             "key": "剧荒",
             "name": "剧荒(爬虫)",
