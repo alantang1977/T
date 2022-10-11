@@ -33,7 +33,7 @@
 {"key":"Anfuns","name":"👀Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1}, 
 
 //{"key": "农民","name": "🐢农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontents.com/alantang1977/T/master/XB/nongminyingshi.json"},
-{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
+{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/Reptile/Nmys.json"},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_yekong","name": "🌃夜空高清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://github.com/alantang1977/T/raw/master/XB/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"},
 {"key":"北雁资源","name":"🎭北雁资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["电影","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫"]},
@@ -50,7 +50,7 @@
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "农民","name": "🎯春风(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/alantang1977/T/raw/master/XP/nongminyingshi.json"},
 //{"key": "RelaxSP","name": "📫轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
-{"key": "csp_XYQHiker_氢视频","name": "🌑氢视频","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.iqiq.io/leevi0709/duo/main/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"},
+{"key": "csp_XYQHiker_氢视频","name": "🌑氢视频","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.com/alantang1977/T/raw/master/Reptile/%E6%B0%A2%E8%A7%86%E9%A2%91.json"},
  
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
