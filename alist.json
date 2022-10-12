@@ -39,9 +39,8 @@
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"csp_biubiu_影视工厂","name":"🎬影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"},
 {"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/dadagui.json"},
-//{"key": "RelaxSP","name": "📯轻松影视","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1,"filterable":1,"ext":"https://github.com/alantang1977/T/raw/master/jar/RelaxSP.jar"},
 {"key": "csp_XYQHiker_氢视频","name": "🌑氢视频","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/%E6%B0%A2%E8%A7%86%E9%A2%91.json"},
-{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XBPQ/Nmys.json"},
+{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gst163.github.io/s/nongminyingshi.json"},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/sp8olkll.json"},
  
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -58,7 +57,6 @@
 {"key": "百度","name": "🐲百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 {"key": "APPTT","name":"🐲图图（SP）","api": "csp_AppTT","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "RelaxSP","name": "📯轻松","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "68747470733A2F2F792E7173617070323233332E6D65","jar":"http://shuyuan.miaogongzi.net/shuyuan/1664373496.txt"},
 {"key": "csp_XBiu_cokemv","name": "cokemv(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cokemv.me/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar": "https://kebedd69.github.io/TVbox-interface/XBiu.jar;md5;f5f56c383336ab7cc88311a04cee9755"}, 
   
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
