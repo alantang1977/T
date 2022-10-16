@@ -1,5 +1,6 @@
 {
-"spider":"https://github.com/alantang1977/T/raw/master/jar/Tangtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+//"spider":"https://github.com/alantang1977/T/raw/master/jar/Tangtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
+"spider":"https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMjg2My9saXZlLnR4dA=="]}]}],
 "drives": [{"server":"","userName":"","password":"","type":"webdav"}],
 "wallpaper":"https://api.lr-jia.cn/api/dnmm",
