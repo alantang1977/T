@@ -296,6 +296,11 @@
             "type": 3,
             "url": "Demo"
         },
+ {
+            "name" : "江湖1080",
+            "type" : 1,
+            "url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+        },
         {
             "name": "Json并发",
             "type": 2,
