@@ -12,7 +12,7 @@
 "rating": [{"name": "rating","request": {"method": "GET","url": {"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},
 "response": {"result": "this","data": [{"key": "rating","value": "doubanRating"}]}}],
 
-"spider":"https://github.com/alantang1977/T/raw/master/jar/Gs1.jar",
+//"spider":"https://github.com/alantang1977/T/raw/master/jar/Gs1.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
 //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/20220923_ts0903.jar",
@@ -20,7 +20,7 @@
 //"spider":"https://github.com/alantang1977/T/raw/master/jar/Artifact.jar;md5;6d99c46de900f7b85bbfa8ced2d780b0",
 //"spider":"https://github.com/alantang1977/T/raw/master/jar/TANJUNY.jar",
 
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+//"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 //"wallpaper": "https://bg.s.welsun.win/api",
 
@@ -683,6 +683,7 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    //"wallpaper": "https://tool.weetai.cn/api",
-    //"spider": "https://kebedd69.github.io/TVbox-interface/ext/甜蜜1009.jar;md5;648653a1067c03abb0ef369a463d7e20"
+ "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+ //"spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948"
+ "spider":"https://github.com/alantang1977/T/raw/master/jar/Gs1.jar"
 }
