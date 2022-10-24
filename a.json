@@ -29,7 +29,7 @@
 "sites":[
 {"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
 {"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"8c3b651a78b5466f8d7c52478688c6cd"},
-{"key":"阿里盘搜","name":"⚽盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"8c3b651a78b5466f8d7c52478688c6cd","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+//{"key":"阿里盘搜","name":"⚽盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"8c3b651a78b5466f8d7c52478688c6cd","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"8c3b651a78b5466f8d7c52478688c6cd","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key": "Gitcafe","name": "🎭纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"8c3b651a78b5466f8d7c52478688c6cd","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
@@ -40,7 +40,7 @@
 {"key": "Cokemv","name": "🐲可乐Cokemv","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
  
-{"key": "AliPS","name": "盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
+{"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/sp8olkll.json"},
 {"key": "If101","name": "🎯101","type":3,"api": "csp_If101","searchable": 1,"quickSearch": 1,"filterable": 1}, 
