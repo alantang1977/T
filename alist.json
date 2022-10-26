@@ -39,8 +39,8 @@
 {"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearc🎯h": 1,"filterable": 1,"ext":"8c3b651a78b5466f8d7c52478688c6cd"},
 {"key": "Cokemv","name": "🐲可乐Cokemv","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Nbys","name": "泥巴(墙外)","type":3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"AppTT","name":"图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},
+{"key": "Nbys","name": "💦泥巴(墙外)","type":3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"AppTT","name":"🤡图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},
  
 {"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
@@ -57,8 +57,6 @@
 {"key": "QQ","name": "🐧腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "MGTV","name": "🥭芒果TV(解析)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Nmys","name": "👴农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"},
-{"key": "快播","name": "🐲快播","type": 1,"api": "https://www.kuaibozy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
-{"key": "百度","name": "🐲百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 1,"filterable": 0,"categories": ["动漫","国产剧","日韩剧","港台剧","欧美剧","泰剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","综艺"]},
 
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -74,7 +72,6 @@
 {"key":"csp_xBPQ_快看","name":"👀快看影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",\"分类\":\"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman\",\"分类url\":\"http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html\",\"免嗅\":\"0\",\"副标题\":\"class=\\\"score\\\">&&</span>\",\"播放数组\":\"class=\\\"playlist&&</ul>\"}"},
 {"key": "Auete","name": "🗽奥特","type":3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "IKan","name": "💖爱看(爬虫)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},  
-
 {"key":"KanSJ_spider","name":"🗽看视界(推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ts(%E7%9C%8B%E8%A7%86%E7%95%8C).jar"},
 {"key": "csp_xp_wnvod","name":"💢万能影视(推介)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/wnvod.json"},
 
@@ -98,9 +95,10 @@
 {"key":"293视频","name":"🐮293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_20220926.jar"},
 {"key":"csp_jihuang","name":"🚀剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
  
-//{"key":"csp_555","name":"💖555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Dy555","name":"💖555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},
-{"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"💦SP┃两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key": "csp_appysv2_amhys","name": "🌸爱麻花影院(SP)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
 {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
