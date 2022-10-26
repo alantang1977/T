@@ -99,7 +99,8 @@
 {"key":"293视频","name":"🐮293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_20220926.jar"},
 {"key":"csp_jihuang","name":"🚀剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
  
-{"key":"csp_555","name":"💖555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_555","name":"💖555影视(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Dy555","name":"💖555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_Bttoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_appysv2_amhys","name": "🌸爱麻花影院(SP)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"},
 {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -108,6 +109,7 @@
 {"key":"人人影视","name":"👫人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
 {"key": "Xiaoh","name": "👫Xiaoh","type":3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"Tbook","name":"听书网","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
  
 {"key":"mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "abyy","name": "🍉AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/abyy.json"},
