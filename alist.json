@@ -1,30 +1,7 @@
 //感谢各位隐姓埋名的大佬分享~所有东西都是扒拉大佬的，只是为小白提供一个方便，这个配置本质是给纯小白用的，仅限于能正常使用，更新维护都不及时，请见谅。
 
 {
-// 豆瓣热搜
-"hotSearch": [{"name": "mobilesearch","request": {"method": "GET","header": [
-{"key": "Referer","value": "https://www.douban.com/"}],"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
-"response": {"result": "$.data","data": [{"key": "keyword","value": "title"}]}}],
-// 首页推荐视频 (豆瓣)
-"recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
-"response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]},"expires" : "86400"}],
-// 评分 (数据来自 豆瓣)
-"rating": [{"name": "rating","request": {"method": "GET","url": {"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"}},
-"response": {"result": "this","data": [{"key": "rating","value": "doubanRating"}]}}],
 
-//"spider":"https://github.com/alantang1977/T/raw/master/jar/Gs1.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_sep.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/%E5%90%88%E9%9B%86%E6%9B%B4%E6%96%B0%E9%95%BF%E8%80%8177.jar",
-//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/20220923_ts0903.jar",
-//"spider":"https://gitcode.net/alantang77/t/-/raw/master/jar/0928.jar",
-//"spider":"https://github.com/alantang1977/T/raw/master/jar/Artifact.jar;md5;6d99c46de900f7b85bbfa8ced2d780b0",
-//"spider":"https://github.com/alantang1977/T/raw/master/jar/TANJUNY.jar",
-
-//"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-//"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-//"wallpaper": "https://bg.s.welsun.win/api",
-
-//"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYWxhbmNoYW90YW5nL1RWQm94L3Jhdy9icmFuY2gvbWFpbi9saXZlcy96Yi50eHQ="]}]}],
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
 {"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
