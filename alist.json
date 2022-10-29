@@ -777,6 +777,6 @@
           "cms.qdwght.com"
          ],
  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
- "spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948"
- //"spider":"https://github.com/alantang1977/T/raw/master/jar/Gs1.jar"
+ //"spider":"https://dxawi.github.io/1/jar/cs.jar;md5;5a7488362fc669c8f3e41dd094884948"
+ "spider":"https://github.com/alantang1977/T/raw/master/jar/integration.jar"
 }
