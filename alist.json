@@ -22,7 +22,7 @@
 {"key":"csp_Dy1010","name":"🎭双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan","name":"🎯低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cs.txt"},
+{"key":"Hei","name":"👽石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cs.txt"},
 
 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
@@ -79,7 +79,7 @@
 {"key":"csp_Lezhu","name":"🐷乐猪(SP)","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🐮293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/custom_20220926.jar"},
 {"key":"csp_jihuang","name":"🚀剧荒(SP)","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
- 
+{"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"Dy555","name":"💖555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},
 {"key":"csp_Bttoo","name":"💦SP┃两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -89,7 +89,7 @@
 {"key":"小强影迷","name":"🐲小强影迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"},
 {"key":"人人影视","name":"👫人人影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_XBiubiu_金眼影视","name":"🌟金眼影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
-{"key":"Tbook","name":"听书网","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Tbook","name":"👽听书网","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1},
  
 {"key":"mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "abyy","name": "🍉AB影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/abyy.json"},
@@ -103,7 +103,8 @@
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ftyyy.tk/MeowXP/yinfans.json"},
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bili.json"},
 {"key": "csp_Bili","name":"🅱哔哩会员","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bilibili.json"},
-
+{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+ 
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key": "csp_xBPQ真不卡","name": "️真不卡(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://dxawi.github.io/1/json/bk.json"},
 {"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
