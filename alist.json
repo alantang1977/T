@@ -5,7 +5,7 @@
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
 //{"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
-{"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"66255f3c550c4355bb7b880264b4e099"},
+//{"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"66255f3c550c4355bb7b880264b4e099"},
 {"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"66255f3c550c4355bb7b880264b4e099","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key": "Gitcafe","name": "🎭纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
