@@ -20,7 +20,6 @@
 {"key":"Yanet","name":"📯鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
 {"key":"csp_Alist2","name":"🅿️Alist网盘资源(SP)","type":3,"api":"csp_Alist3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/alantang1977/T/raw/master/XP/Alist.json","jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},
 {"key":"csp_Dy1010","name":"🎭双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_DiDuan","name":"🎯低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Hei","name":"👽石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cs.txt"},
 
@@ -57,11 +56,9 @@
 {"key": "IKan","name": "💖爱看(爬虫)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/T3.jar"},  
 {"key":"KanSJ_spider","name":"🗽看视界(推介)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/ts(%E7%9C%8B%E8%A7%86%E7%95%8C).jar"},
 {"key": "csp_xp_wnvod","name":"💢万能影视(推介)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/wnvod.json"},
-
 {"key":"csp_xpath_wmkk","name":"👓完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/wmkankan.json"},	
 {"key":"云播看看","name":"🌨云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"},
 {"key":"LiteApple","name":"🍎苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
-
 {"key": "Lib","name": "🍭Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Zxzj","name": "📗在线之家","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
