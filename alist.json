@@ -4,8 +4,8 @@
 
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
-//{"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
-//{"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"66255f3c550c4355bb7b880264b4e099"},
+{"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
+{"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"66255f3c550c4355bb7b880264b4e099"},
 {"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"66255f3c550c4355bb7b880264b4e099","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key": "Gitcafe","name": "🎭纸条","type":3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -39,6 +39,8 @@
 {"key": "csp_Nmys","name": "👴农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key":"csp_biubiu_创艺影视","name":"🥕创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
+{"key":"Tian","name":"🤡天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
+{"key":"Pang","name":"💖胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"}, 
  
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -100,7 +102,7 @@
 {"key": "csp_xpath_音范丝磁力","name": "🐛音范丝磁力(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ftyyy.tk/MeowXP/yinfans.json"},
 {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bili.json"},
 {"key": "csp_Bili","name":"🅱哔哩会员","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bilibili.json"},
-{"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
  
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key": "csp_xBPQ真不卡","name": "️真不卡(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://dxawi.github.io/1/json/bk.json"},
