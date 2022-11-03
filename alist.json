@@ -40,7 +40,7 @@
 {"key": "csp_Nmys","name": "👴农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key":"csp_biubiu_创艺影视","name":"🥕创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
-{"key":"Tian","name":"🤡天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
+{"key":"Tian","name":"🤡天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://pandora2277.github.io/cs.jar"},
 {"key":"Pang","name":"💖胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"}, 
  
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
@@ -617,10 +617,10 @@
           "s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com",
           "cms.qdwght.com"
          ],
- "wallpaper": "https://picsum.photos/1280/720/?blur=10",
- //"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/cs.txt"
- //"spider":"https://gitcode.net/alantang77/t/-/raw/master/jar/xo1030.jar"
-"spider":"https://dxawi.github.io/1/jar/cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
+"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+//"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/cs.txt"
+//"spider":"https://gitcode.net/alantang77/t/-/raw/master/jar/xo1030.jar"
+//"spider":"https://dxawi.github.io/1/jar/cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
 //"spider": "https://pandora2277.github.io/cs.jar"
-//"spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc"
+"spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc"
 }
