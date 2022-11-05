@@ -19,6 +19,7 @@
 {"key":"AppTT","name":"🤡图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221105.jar"},
 {"key":"Lgyy","name":"🎭蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221105.jar"},
 {"key":"Yanet","name":"📯鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221105.jar"},
+{"key":"Pang","name":"🤡胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221105.jar"},
 {"key":"AList","name": "🍀AList","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
 {"key":"csp_Dy1010","name":"🎭双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
