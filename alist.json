@@ -114,6 +114,7 @@
 
 //解析设置
 "parses": [
+{"name": "可与","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name": "可遇不可求","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩","leshi","cntv","CNTV","xigua","XIGUA"],"header": {"User-Agent": "okhttp/4.1.0"}}},       
 {"name": "解析聚合","type": 3,"url": "Demo"},
 {"name" : "江湖1080","type" : 1,"url" : "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
@@ -137,34 +138,7 @@
 {"name": "风起长林2","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
 {"name": "风起苍岚","type": 0,"url": "https://play.fositv.com/?url="},
 {"name": "风起云涌","type": 0,"url": "https://okjx.cc/?url="},
-{"name": "风起邺城","url": "http://139.159.220.126:5705/parse/api/鸿途.js?url=","type": 1,"ext": {"flag": ["qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "sohu",
-                    "xigua",
-                    "fun",
-                    "风行"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0"
-                }
-            }
-        },
+{"name": "风起邺城","url": "http://139.159.220.126:5705/parse/api/鸿途.js?url=","type": 1,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
         {
             "name": "风起江湖2",
             "url": "http://139.159.220.126:5705/parse/api/江湖.js?url=",
