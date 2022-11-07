@@ -1,7 +1,12 @@
 //感谢各位隐姓埋名的大佬分享~所有东西都是扒拉大佬的，只是为小白提供一个方便，这个配置本质是给纯小白用的，仅限于能正常使用，更新维护都不及时，请见谅。
 
 {
-
+"wallpaper": "https://picsum.photos/1280/720/?blur=10",
+"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/data221105.jar"
+//"spider":"https://github.com/alantang1977/T/raw/master/jar/Artifact.jar"
+//"spider":"https://dxawi.github.io/1/jar/cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
+//"spider": "https://pandora2277.github.io/cs.jar"
+//"spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc"
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
 {"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
@@ -113,7 +118,7 @@
 ],
 
 //解析设置
-"parses": [
+  "parses": [
     {
       "name": "解析聚合",
       "type": 3,
@@ -485,11 +490,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
-}
-"wallpaper": "https://picsum.photos/1280/720/?blur=10",
-"spider":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/data221105.jar"
-//"spider":"https://github.com/alantang1977/T/raw/master/jar/Artifact.jar"
-//"spider":"https://dxawi.github.io/1/jar/cc.jar;md5;55b762505b6d97b61040d1ed4f9d4c2c"
-//"spider": "https://pandora2277.github.io/cs.jar"
-//"spider":"./vod;md5;c4ba98711fac35daff17780d0817f5dc"
 }
