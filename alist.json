@@ -56,7 +56,7 @@
 {"key": "IQIYI","name": "🥝爱奇艺(解析)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "QQ","name": "🐧腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "MGTV","name": "🥭芒果TV(解析)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://github.com/alantang1977/T/raw/master/jar/%E4%BC%98%E9%85%B7.js"},
+{"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
 {"key": "csp_Nmys","name": "👴农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key":"csp_biubiu_创艺影视","name":"🥕创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
