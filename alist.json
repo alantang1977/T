@@ -14,10 +14,9 @@
 {"key":"csp_Alist1","name":"💦SP┃Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/alist.json"},
 {"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 
-
 {"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearc🎯h": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
-{"key": "Cokemv","name": "🐲Cokemv","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Cokemv","name": "🐲Cokemv","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
+{"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 {"key":"AppTT","name":"🤡图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 {"key":"Lgyy","name":"🎭蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 {"key":"Yanet","name":"📯鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
