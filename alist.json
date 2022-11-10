@@ -106,7 +106,7 @@
 //{"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bili.json"},
 //{"key": "csp_Bili","name":"🅱哔哩会员","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/bilibili.json"},
 //{"key":"Bili","name":"🅱哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"},
-{"key":"Bili","name":"🅱哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"},
+{"key":"Bili","name":"🅱哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 //{"key": "哔哩","name": "🅱哔哩","type": 3,"api": "csp_Bili","searchable": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
 {"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
