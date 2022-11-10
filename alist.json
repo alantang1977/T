@@ -4,8 +4,8 @@
 
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
-{"key": "yisou","name": "🌤宜搜","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0},
-{"key": "Upyunso","name": "🌤up云搜","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f"},
+{"key":"Zhaozy","name":"🍎资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
+{"key":"YiSo","name":"🌤易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"csp_GitCafe","name":"💦SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
