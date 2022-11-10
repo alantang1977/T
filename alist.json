@@ -11,8 +11,9 @@
 {"key":"csp_GitCafe","name":"💦SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
-{"key":"douban2","name":"🅱豆瓣榜单（桉T4）","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_Alist1","name":"💦SP┃Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/alist.json"},
+{"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearc🎯h": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 {"key": "Cokemv","name": "🐲Cokemv","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -108,7 +109,6 @@
 //{"key":"Bili","name":"🅱哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"},
 {"key":"Bili","name":"🅱哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 //{"key": "哔哩","name": "🅱哔哩","type": 3,"api": "csp_Bili","searchable": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
-{"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xbb_茶杯狐","name":"🍀茶杯狐(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
 {"key": "csp_xBPQ真不卡","name": "️🍀真不卡(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://dxawi.github.io/1/json/bk.json"},
 {"key":"csp_xbb_饭团HD","name":"🍀饭团HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"}
