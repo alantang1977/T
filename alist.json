@@ -16,7 +16,7 @@
 
 {"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearc🎯h": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 //{"key": "Cokemv","name": "🐲Cokemv","type":3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Cokemv","name":"🐲可乐Cokemv","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70},
+{"key":"Cokemv","name":"🐲可乐Cokemv","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
 //{"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Zjdr","name":"😸追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 
