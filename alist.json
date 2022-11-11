@@ -24,7 +24,8 @@
 {"key":"csp_Dy1010","name":"🎭双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b457","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 {"key":"Hei","name":"👽石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
-{"key": "哔滴影视","name": "📯哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "哔滴影视","name": "📯哔滴影视(爬虫)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Bd","name":"📯哔滴影视(爬虫)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"csp_xbb_voflix","name":"🍀Voflix HD(推介)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/sp8olkll.json"},
