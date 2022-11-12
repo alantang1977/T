@@ -7,10 +7,10 @@
 {"key":"Zhaozy","name":"🍎资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key":"YiSo","name":"🌤易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
 {"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
-{"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
+{"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"6480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"csp_GitCafe","name":"💦SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
-{"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
+{"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"6480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
+{"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"26480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_Alist1","name":"💦SP┃Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/alist.json"},
 {"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 
