@@ -74,7 +74,9 @@
 {"key":"csp_XYQBiu_凌云影视","name":"🍭凌云视频(韩国)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E5%87%8C%E4%BA%91%E8%A7%86%E9%A2%91%E9%9F%A9%E5%9B%BD.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/XYQBiu_0828.jar"},
 {"key": "9E03", "name": "🐞9E国语", "type":3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/9E03.jar"},		
 {"key":"csp_xpath_007","name":"🐷玲玲七(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
-{"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0912.jar"},
+//{"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0912.jar"},
+{"key": "Tkys","name": "🍀天空影视(爬虫)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Nkdy","name": "🐲难看电影(爬虫)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},    
 {"key":"Ddys","name":"🐞低端影视(推介SP)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
 
 {"key": "简影","name": "🌟简影","type": 4,"api": "https://vod.kooo.eu.org/t4/vip11b016","searchable": 1,"quickSearch": 1,"filterable": 1},
