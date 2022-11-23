@@ -64,7 +64,7 @@
 {"key": "csp_xp_wnvod","name":"💢万能影视(推介)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/XB/wnvod.json"},
 {"key":"csp_xpath_wmkk","name":"👓完美看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/wmkankan.json"},	
 {"key":"云播看看","name":"🌨云播看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"},
-{"key":"LiteApple","name":"🍎苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e},
+{"key":"LiteApple","name":"🍎苹果","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1},
 {"key": "Lib","name": "🍭Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xb_auete","name": "AUETE(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://home.jundie.top:666/json/XBiu/auete.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/top98.jar"},
 {"key": "Zxzj","name": "📗在线之家","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
