@@ -13,7 +13,8 @@
 //{"key":"csp_Zhaozy","name":"🔍找资源+原画（仅支持搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"6480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_AliPS","name":"📀喵狸盘搜+原画(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"26480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/painting.jar"},
 {"key":"csp_Alist1","name":"💦SP┃Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/Bili/alist.json"},
-{"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"js豆瓣","name":"🅱豆瓣热播┃神器妹推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 
 {"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
 {"key": "csp_xb_cokemv","name": "🍑cokemv(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/top98.jar"},
