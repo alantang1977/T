@@ -18,7 +18,7 @@
 {"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
 {"key": "csp_xb_cokemv","name": "🍑cokemv(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/top98.jar"},
 {"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Lgyy","name":"🎭蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"Lgyy","name":"🎭蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 {"key":"Yanet","name":"📯鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
 {"key":"csp_Dy1010","name":"🎭双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b457","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
