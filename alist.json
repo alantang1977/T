@@ -3,8 +3,8 @@
 {
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
-{"key":"Zhaozy","name":"🌤找资源┃搜索","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/alist.jar;md5;517cbee472fc544a9d629eec245dea63"},
-{"key":"YiSo","name":"🍟易搜┃搜索","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/alist.jar;md5;517cbee472fc544a9d629eec245dea63"},
+//{"key":"Zhaozy","name":"🌤找资源┃搜索","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/alist.jar;md5;517cbee472fc544a9d629eec245dea63"},
+{"key":"YiSo","name":"🌤易搜┃搜索","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://agit.ai/suanjin/apk/raw/branch/jar/TVJAR/alist.jar;md5;517cbee472fc544a9d629eec245dea63"},
 {"key":"Zhaozy","name":"🍎资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"6480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"csp_GitCafe","name":"💦SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
