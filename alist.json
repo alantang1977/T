@@ -3,7 +3,7 @@
 {
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
 "sites":[
-{"key":"YiSo","name":"💦易搜┃搜索","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"YiSo","name":"💦易搜┃搜索","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 {"key":"Zhaozy","name":"🍎资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
 //{"key":"YiSo","name":"🌤易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
 //{"key": "AliPS","name": "🍟盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"}, 
@@ -15,14 +15,14 @@
 //{"key":"T4_douban","name":"🎭影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"js豆瓣","name":"🅱豆瓣热播┃神器妹推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 
-{"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key": "push_agent","name": "📯PushAgent","type":3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"2c4e979f13574a4d8dd6335ee7c81c2f","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 {"key": "csp_xb_cokemv","name": "🍑cokemv(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/top98.jar"},
 {"key": "Zjdr","name": "😸追剧达人","type":3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Lgyy","name":"🎭蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
-{"key":"Yanet","name":"📯鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"Yanet","name":"📯鸭奶飞","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 {"key":"csp_Dy1010","name":"🎭双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b457","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
-{"key":"Hei","name":"👽石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"csp_Nkdy","name":"🥕南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b457","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
+{"key":"Hei","name":"👽石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 {"key":"csp_Bd","name":"📯哔滴影视(爬虫)","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
  {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
@@ -41,8 +41,8 @@
 {"key": "csp_Nmys","name": "👴农民影视(SP)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://kebedd69.github.io/TVbox-interface/json/nmys.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2811/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=e9v4QKma5fzqYXyi8noR30G3cwv63VOSuyetYW7l3tw%3D%3A0"},
 {"key":"csp_biubiu_创艺影视","name":"🥕创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
-{"key":"Tian","name":"🤡天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
-{"key":"Pang","name":"💖胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"Tian","name":"🤡天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
+{"key":"Pang","name":"💖胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
  
 {"key":"饭团影视","name":"🍎饭团影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/%E9%A5%AD%E5%9B%A2HD.json"},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -66,7 +66,7 @@
 {"key": "Lib","name": "🍭Libvio","type":3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xb_auete","name": "🐮AUETE(XBiu)","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://home.jundie.top:666/json/XBiu/auete.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/top98.jar"},
 {"key": "Zxzj","name": "📗在线之家","type":3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Czsapp","name":"🍭厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"Czsapp","name":"🍭厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 
 //{"key":"csp_XYQBiu_lyys","name":"🍭凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/lyys.json"},
 {"key":"csp_XYQBiu_凌云影视","name":"🍭凌云视频(韩国)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E5%87%8C%E4%BA%91%E8%A7%86%E9%A2%91%E9%9F%A9%E5%9B%BD.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/XYQBiu_0828.jar"},
@@ -75,7 +75,7 @@
 //{"key":"csp_Tkys","name":"🥇天空(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/0912.jar"},
 {"key": "Tkys","name": "🍀天空影视(爬虫)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Nkdy","name": "🐲难看电影(爬虫)","type": 3,"api": "csp_Nkdy","searchable": 1,"quickSearch": 1,"filterable": 1},    
-{"key":"Ddys","name":"🐞低端影视(推介SP)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://github.com/alantang1977/T/raw/master/jar/custom_spider.jar"},
+{"key":"Ddys","name":"🐞低端影视(推介SP)","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 
 {"key": "简影","name": "🌟简影","type": 4,"api": "https://vod.kooo.eu.org/t4/vip11b016","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Smdyy","name": "🐴神马","type":3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
