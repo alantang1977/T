@@ -32,6 +32,8 @@ https://kvymin.github.io/CatVodTVJsonEditor/
 
 https://hfr1107.github.io/CatVodTVJsonEditor/
 
+https://xn--m7rp06gw5k.ml/
+
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
