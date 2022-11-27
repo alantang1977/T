@@ -1,10 +1,13 @@
 {
 "sites":[
 ##搜索系列
-{"key":"Zhaozy","name":"资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
+//{"key":"YiSo","name":"🍀易搜┃搜索","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/Chao.jar"},
 //{"key":"Zhaozy","name":"🍎资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
-{"key":"AliPS","name":"🎭盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
-{"key":"Upso","name":"🚁云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
+//{"key":"AliPS","name":"🎭盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
+{"key":"Zhaozy","name":"🍎资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
+{"key":"YiSo","name":"🍀易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
+{"key":"AliPS","name":"🎭盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
+//{"key":"Upso","name":"🚁云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
 {"key":"push_agent","name":"⚽推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"6480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"csp_GitCafe","name":"🐝SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
 {"name": "🅿️Alist网盘","key": "csp_Alist1","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/alanchaotang/TangTV/raw/master/jar/alist.json"},
@@ -23,9 +26,6 @@
 {"key": "QQ","name": "🐧SP┃腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "MGTV","name": "🥭SP┃芒果TV(解析)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
-
-{"key":"csp_QQ","name":"🐧SP┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"categories":["电视剧","电影","综艺","动漫","少儿","纪录片","知识","学堂"]},
-//{"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
 {"key":"csp_Xxys","name":"🐝SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🐝SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🐝SP┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
