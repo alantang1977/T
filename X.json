@@ -82,7 +82,7 @@
 {"key":"mjxq_spider","name":"🐝SP┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐝SP┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🐝SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_biubiu_创艺影视","name":"🥕创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/创艺影视.json"},
+{"key":"csp_biubiu_创艺影视","name":"🥕创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.json"},
 
  
 ##官系列
