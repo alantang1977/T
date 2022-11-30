@@ -27,6 +27,7 @@
 {"key": "csp_QQ","name": "🐧SP┃腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/%E7%88%B1%E4%BC%98%E8%85%BE.jar"},
 {"key": "MGTV","name": "🥭SP┃芒果TV(解析)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
+{"key":"youku","name":"💦官方┃优酷视频","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["动画片","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","奇幻片"]},
 {"key":"csp_Xxys","name":"🐝SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🐝SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🐝SP┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
