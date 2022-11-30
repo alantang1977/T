@@ -26,7 +26,7 @@
 //{"key": "QQ","name": "🐧SP┃腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_QQ","name": "🐧SP┃腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/%E7%88%B1%E4%BC%98%E8%85%BE.jar"},
 {"key": "MGTV","name": "🥭SP┃芒果TV(解析)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
+//{"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
 {"key": "dr_优酷","name": "⚽Drpy┃优酷(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/优酷.js"},
 {"key":"csp_Xxys","name":"🐝SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🐝SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
