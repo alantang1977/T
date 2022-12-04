@@ -58,7 +58,7 @@
 {"key":"csp_Nkdy","name":"🐝SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🐝SP┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🐝SP┃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫","欧美","日韩","bilibili"]},
-
+{"key": "csp_XBPQ_南瓜影视","name": "SP┃南瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"},
 ##Dora系列
 {"key":"世界杯","name":"🗽Dora┃一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"Zjdr","name":"🗽Dora┃追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
