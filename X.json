@@ -155,7 +155,7 @@
 
 
 "wallpaper" : "http://刚刚.live/图",
-"spider":"https://gitee.com/alanchaotang/new/raw/master/jar/tangchao.txt", 
+"spider":"https://gitee.com/alanchaotang/new/raw/master/jar/tangchao.txt;md5;b7c21f167594e0f27da423785c0b8d00", 
 //"spider":"https://gitee.com/suanjin/jar/raw/main/shenqi.jar;md5;b7c21f167594e0f27da423785c0b8d00",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
 "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYWxhbmNoYW90YW5nL1RhbmdUVi9yYXcvbWFzdGVyL2xpdmVzL3R2bGl2ZS50eHQ="]}]}],
