@@ -40,8 +40,8 @@
 {"key":"csp_Tkys","name":"🐝SP┃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫","欧美","日韩","bilibili"]},
 {"key": "csp_XBPQ_南瓜影视","name": "🍈SP┃南瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/top98.jar"},
 {"key":"csp_xbb_骚火VIP","name":"🍉SP┃骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/shdy.json"},
-{"key":"csp_ny","name":"🐮念影┃SP","type":3,"api":"csp_Nianying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Jianying","name":"✨简影丨SP","api":"csp_JianYing","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"},
+{"key":"csp_ny","name":"🐮念影┃SP","type":3,"api":"csp_Nianying","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/xo.jar"},
+{"key": "简影","name": "🌟简影","type": 4,"api": "https://vod.kooo.eu.org/t4/vip11b016","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 ##Dora系列
 {"key":"世界杯","name":"🗽Dora┃一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
