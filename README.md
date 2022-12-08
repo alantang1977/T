@@ -34,6 +34,8 @@ https://hfr1107.github.io/CatVodTVJsonEditor/
 
 https://xn--m7rp06gw5k.ml/
 
+加密解密：https://base64.supfree.net/
+
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 //"wallpaper": "https://picsum.photos/1280/720/?blur=10",
