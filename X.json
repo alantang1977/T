@@ -3,10 +3,8 @@
 ##搜索系列
 {"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"Upyunso","name":"😻云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"Upyunso","name":"🌤云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Alips","name":"🦊盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-//{"key":"YiSo","name":"🍀易搜","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
-//{"key":"AliPS","name":"🎭盘搜","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 //{"key":"Upso","name":"🚁云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/new/raw/master/json/alitoken.json"},
 {"key":"push_agent","name":"⚽┃推送","type":3,"api":"csp_Push","searchable":1,"quickSearch":1,"filterable":1,"ext":"6480478f32bb495d9d144dc1938db7af","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/li.jar"},
 {"key":"csp_GitCafe","name":"🐝SP┃小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/alitoken.json"},
@@ -14,7 +12,6 @@
 {"key":"js豆瓣","name":"🌶豆瓣热播┃神器妹推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 //{"key":"Alist111","name":"🚁Alist","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json"},
-//{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/bilibili.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/xo.jar"},
 {"key":"csp_Biliych","name":"🅱SP┃看演唱会","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/biliych.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/xo.jar"},
 {"key":"Bili","name":"🌶SP┃哔哩","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 
