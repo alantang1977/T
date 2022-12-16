@@ -3,15 +3,15 @@
   "classes": [
     {
       "type_name": "影视",
-      "type_id": "预告片"
+      "type_id": "预告片，热门，豆瓣"
     },
     {
       "type_name": "美食",
       "type_id": "美食"
     },
     {
-      "type_name": "动态",
-      "type_id": "动态"
+      "type_name": "汽车",
+      "type_id": "汽车"
     },
     {
       "type_name": "国创",
