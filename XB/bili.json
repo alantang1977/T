@@ -6,6 +6,10 @@
       "type_id": "美食"
     },
     {
+      "type_name": "动态",
+      "type_id": "动态"
+    },
+    {
       "type_name": "国创",
       "type_id": "国创"
     },
