@@ -9,12 +9,12 @@
       "type_id": "鬼畜"
     },
     {
-      "type_name": "Sports",
-      "type_id": "球星"
+      "type_name": "电影",
+      "type_id": "影视"
     },
     {
-      "type_name": "戏曲",
-      "type_id": "戏曲"
+      "type_name": "影视",
+      "type_id": "预告"
     },
     {
       "type_name": "演唱会",
@@ -29,12 +29,12 @@
       "type_id": "窗白噪音"
     },
     {
-      "type_name": "相声小品",
-      "type_id": "相声小品"
+      "type_name": "娱乐",
+      "type_id": "综艺"
     },
     {
-      "type_name": "儿童",
-      "type_id": "儿童"
+      "type_name": "国创",
+      "type_id": "全部"
     }
   ],
   "filter": {
