@@ -7,7 +7,7 @@
     },
     {
       "type_name": "国创",
-      "type_id": "国创"
+      "type_id": "最近更新"
     },
     {
       "type_name": "4K",
@@ -16,6 +16,10 @@
      {
       "type_name": "美食",
       "type_id": "美食"
+    },
+     {
+      "type_name": "音乐",
+      "type_id": "原创音乐"
     },
      {
       "type_name": "娱乐",
