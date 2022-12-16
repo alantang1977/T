@@ -13,7 +13,7 @@
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 //{"key":"Alist111","name":"🚁Alist","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/alist.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/txt/json/alist.json"},
 {"key":"csp_Biliych","name":"🅱SP┃看演唱会","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/biliych.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/xo.jar"},
-{"key":"Bili","name":"🌶SP┃哔哩bilibili","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://gitee.com/alanchaotang/new/raw/master/json/bili.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
+{"key":"Bili","name":"🌶SP┃哔哩bilibili","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://github.com/alantang1977/T/raw/master/XB/bili.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 
 ##SP系列
 {"key": "csp_新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/new/raw/master/jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
