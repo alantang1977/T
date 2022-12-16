@@ -2,6 +2,10 @@
   "cookie": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/XP/cookie.txt",
   "classes": [
     {
+      "type_name": "影视",
+      "type_id": "预告"
+    },
+    {
       "type_name": "美食",
       "type_id": "美食"
     },
@@ -30,8 +34,8 @@
       "type_id": "娱乐"
     },
      {
-      "type_name": "影视",
-      "type_id": "预告"
+      "type_name": "番剧",
+      "type_id": "热门新番更新"
     },
     {
       "type_name": "纪录片",
