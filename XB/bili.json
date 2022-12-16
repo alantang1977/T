@@ -3,7 +3,7 @@
   "classes": [
     {
       "type_name": "影视",
-      "type_id": "预告"
+      "type_id": "预告片"
     },
     {
       "type_name": "美食",
@@ -20,6 +20,10 @@
     {
       "type_name": "4K",
       "type_id": "4K"
+    },
+    {
+      "type_name": "排行榜",
+      "type_id": "番剧"
     },
      {
       "type_name": "美食",
