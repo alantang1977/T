@@ -2,7 +2,8 @@
 "sites":[
 ##搜索系列
 {"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+//{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key":"Zhaozy","name":"🐺┃资源","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"Upyunso","name":"🌤云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 {"key":"Alips","name":"🦊盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
 //{"key":"Upso","name":"🚁云搜","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://gitee.com/alanchaotang/new/raw/master/json/alitoken.json"},
@@ -42,7 +43,6 @@
 {"key":"csp_Tkys","name":"🐝SP┃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫","欧美","日韩","bilibili"]},
 
 ##Dora系列
-{"key":"push_agent","name":"🗽Dora┃PushAgent","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"世界杯","name":"🗽Dora┃一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"Zjdr","name":"🗽Dora┃追剧达人","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"Tian","name":"🗽Dora┃天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
