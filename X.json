@@ -32,6 +32,7 @@
 {"key":"csp_xbb_骚火VIP","name":"🏮SP┃骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/shdy.json"},
 {"key":"csp_biubiu_创艺影视","name":"🥕SP┃创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_Dm84","name":"🚌SP┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "Juhuang","name": "🐟SP┃剧荒(爬虫)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/cc.jar"},
 {"key":"csp_77","name":"🐟SP┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"🐟SP┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"360_spider","name":"🐟SP┃360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
