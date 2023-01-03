@@ -30,7 +30,17 @@
 {"key": "csp_QQ","name": "🐧SP┃腾讯视频(解析)","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/%E7%88%B1%E4%BC%98%E8%85%BE.jar"},
 {"key": "MGTV","name": "🍓SP┃芒果TV(解析)","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key" : "drpy_js_优酷","name" : "💦JS┃优酷视频","type" : 3,"api" : "https://suanjin.github.io/main/JS/lib/drpy.min.js","ext" : "https://suanjin.github.io/main/JS/js/优酷.js"},
-{"key": "dr_优酷","name": "🍉Drpy┃优酷(drpy)","type": 3,"api": "https://gitee.com/alanchaotang/new/raw/master/js/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/alanchaotang/new/raw/master/js/youku.js"},
+{"key": "dr_优酷","name": "🍉Drpy┃优酷(drpy)","type": 3,"api": "http://101.34.67.237/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "http://101.34.67.237/js/优酷.js"},
+{
+            "key": "dr_优酷",
+            "name": "优酷(drpy)",
+            "type": 3,
+            "api": "https://gitee.com/alanchaotang/new/raw/master/js/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gitee.com/alanchaotang/new/raw/master/js/youku.js"},
+
 {"key": "csp_XBPQ_南瓜影视","name": "🍈SP┃南瓜影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/top98.jar"},
 {"key":"csp_xbb_骚火VIP","name":"🏮SP┃骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/shdy.json"},
 {"key":"csp_biubiu_创艺影视","name":"🥕SP┃创艺影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.json"},
