@@ -18,7 +18,7 @@
 {"key":"Bili","name":"🐌SP┃哔哩bilibili","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/XB/bili.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/tang221111.jar"},
 
 ##SP系列
-{"key": "csp_新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/new/raw/master/jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
+{"key": "csp_新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/new/raw/master/json/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
 //{"key": "csp_xBPQ新视觉","name": "🌟┃新视觉┃影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/alanchaotang/new/raw/master/json/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json"},
 {"key":"csp_xbb_voflix","name":"🌾SP┃Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XP/sp8olkll.json"},
 {"key":"csp_xbb_茶杯狐","name":"🐯SP┃茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"},
