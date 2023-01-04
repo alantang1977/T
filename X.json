@@ -19,8 +19,8 @@
 
 ##SP系列
 //{"key": "csp_新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/new/raw/master/jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
-{"key": "csp_xBPQ新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/XB/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json"},
-{"key": "csp_app_阿里","name": "🐜┃阿里影视","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/new/raw/master/jar/aliyundrive.jar"},
+{"key": "csp_xBPQ新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/master/XB/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E9%99%A2.json"},
+{"key": "csp_app_阿里","name": "🐜┃阿里影视","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/alanchaotang/new/raw/master/jar/panda1206.jar"},
 {"key":"csp_xbb_茶杯狐","name":"🐯SP┃茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E8%8C%B6%E6%9D%AF%E7%8B%90.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/tangchao2023.txt"},
 {"key":"csp_XYQBiu_凌云影视","name":"🍭SP┃凌云影视(韩国)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/%E5%87%8C%E4%BA%91%E8%A7%86%E9%A2%91%E9%9F%A9%E5%9B%BD.json","jar":"https://gitee.com/alanchaotang/TangTV/raw/master/jar/XYQBiu_0828.jar"},
 {"key": "BuLei","name": "💥SP┃布雷(解析)","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/cc.jar"},
