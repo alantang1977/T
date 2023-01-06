@@ -39,7 +39,7 @@
 {"key":"Lezhu_spider","name":"✌SP┃乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"csp_Nmys","name":"✌SP┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/Nmys.json"},
 {"key":"csp_fant","name":"✌🍙SP┃饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Xxys","name":"✌SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Xxys","name":"✌SP┃小熊","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/alanchaotang/new/raw/master/jar/%E5%B0%8F%E7%86%8A.jar"},
 {"key":"csp_Nkdy","name":"✌SP┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"✌SP┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"✌SP┃天空","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电影","电视剧","综艺","动漫","欧美","日韩","bilibili"]},
