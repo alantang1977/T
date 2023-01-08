@@ -158,7 +158,8 @@
 ],
 
 //"wallpaper" : "http://刚刚.live/图",
-"wallpaper": "https://picsum.photos/1280/720/?blur=5",
+//"wallpaper": "https://picsum.photos/1280/720/?blur=5",
+"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "spider":"https://gitee.com/alanchaotang/new/raw/master/jar/tangchao.txt;md5;b7c21f167594e0f27da423785c0b8d00", 
 //"spider":"https://gitee.com/suanjin/jar/raw/main/shenqi.jar;md5;b7c21f167594e0f27da423785c0b8d00",
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdWFuamluLmdpdGh1Yi5pby9tYWluL3R2L2NiLnR4dA=="]}]}],
