@@ -67,6 +67,7 @@
 {"key":"Lib","name":"🗽Dora┃Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"Dy555","name":"🗽Dora┃555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 {"key":"Zxzj","name":"🗽Dora┃在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
+{"key": "Tbook","name": "🗽Dora┃听书网","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/custom_spider.txt"},
 
 ##QiaoJi系列
 { "key": "YQK_spider", "name": "🚁QJ┃看TV", "api": "csp_YQKAPP", "type": 3, "filterable": 1, "quickSearch": 1, "searchable": 1, "ext": "https://api-tx.shumaxc.xyz" ,"jar":"https://gitee.com/alanchaotang/new/raw/master/jar/xo.jar"},
