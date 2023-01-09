@@ -101,7 +101,9 @@
 {"key":"csp_Cokemv","name":"📯SP┃Cok","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"📯SP┃美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"📯SP┃日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Zxzj","name":"📯SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1}],
+{"key":"csp_Zxzj","name":"📯SP┃在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xp_yingba","name":"🍀XP┃电影吧","type":3,"api":"csp_XPath3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://suanjin.github.io/main/XPath/yingba.json"}
+],
 
 //"wallpaper" : "http://刚刚.live/图",
 //"wallpaper": "https://picsum.photos/1280/720/?blur=5",
