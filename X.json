@@ -16,7 +16,7 @@
 {"key":"js豆瓣","name":"🌶豆瓣热播┃神器妹推荐首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js"},
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"key":"csp_Biliych","name":"🅱SP┃看演唱会","type": 3,"api": "csp_Bili","playerType":2,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/alanchaotang/new/raw/master/json/biliych.json","jar":"https://gitee.com/alanchaotang/new/raw/master/jar/xo.jar"},
-{"key":"csp_Bili","name":"🅱┃哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://w.g9.pub:66/381203888/json/bilibili_2.json"},
+{"key":"csp_Bili","name":"🅱┃哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://github.com/alantang1977/T/raw/master/JS/bilibili.json"},
 
 ##SP系列
 //{"key": "csp_新视觉","name": "🍁SP┃新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/new/raw/master/jar/%E6%96%B0%E8%A7%86%E8%A7%89.jar"},
