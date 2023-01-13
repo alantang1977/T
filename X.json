@@ -79,7 +79,7 @@
 {"key":"SP360","name":"🗽Dora┃SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
 {"key":"Lib","name":"🗽Dora┃Libvio","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
 {"key":"Dy555","name":"🗽Dora┃555","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
-{"key":"Zxzj","name":"🗽Dora┃在线","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
+{"key":"Zxzj","name":"🗽Dora┃在线之家","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
 {"key": "Tbook","name": "🗽Dora┃听书网","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
 
 ##QiaoJi系列
