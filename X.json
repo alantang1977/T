@@ -47,7 +47,7 @@
 {"key": "csp_biubiu_voflix","name": "🌀┃Voflix影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/alanchaotang/data/raw/master/js/voflix.json"},
 {"key":"csp_Dy1010","name":"❤️┃双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌SP┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Juhuang","name": "✌SP┃剧荒(爬虫)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/data/raw/master/jar/xo.jar"},
+{"key": "Juhuang","name": "✌SP┃剧荒(爬虫)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/alanchaotang/data/raw/master/jar/drpy.jar"},
 {"key":"csp_77","name":"✌SP┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"AppTT","name":"✌SP┃图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/alanchaotang/data/raw/master/jar/custom_spider.jar"},
 {"key":"360_spider","name":"✌SP┃360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
