@@ -34,6 +34,9 @@ jobs:
           mkdir -p data/valid
           > data/valid/working_links.txt
           > data/valid/invalid_links.txt
+
+          # 禁用退出状态码错误中断
+          set +e
           while read -r link; do
             status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link" || true)
             if [ "$status" -eq 200 ]; then
@@ -42,6 +45,9 @@ jobs:
               echo "$link" >> data/valid/invalid_links.txt
             fi
           done < data/temp_links.txt
+
+          # 恢复默认错误中断行为
+          set -e
 
       # 生成有效的 M3U 和 TXT 文件
       - name: Generate valid M3U and TXT files
