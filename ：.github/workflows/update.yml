@@ -1,0 +1,31 @@
+name: Update IPTV Sources
+
+on:
+  schedule:
+    # 每天凌晨 3 点运行
+    - cron: '0 3 * * *'
+  workflow_dispatch: # 手动触发工作流
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # 检查出仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 拉取最新直播源
+      - name: Fetch latest IPTV sources
+        run: |
+          mkdir -p data
+          curl -o data/iptv.m3u https://iptv-org.github.io/iptv/index.m3u
+          curl -o data/channels.json https://iptv-org.github.io/iptv/channels.json
+
+      # 提交更新到仓库
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Updated IPTV sources [skip ci]"
+          git push
