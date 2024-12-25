@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-id="CanalLocal.cl" tvg-logo="https://i.imgur.com/ReZXqWR.png" group-title="General",Canal Local (1080p)
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLocalGrosblie.fr" tvg-logo="https://i.imgur.com/0U8mci6.png" group-title="General",Canal Local Grosbliederstroff
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+https://ythls.armelin.one/channel/UCjbvuMcOCvyYFZKKPvU6QHw.m3u8
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+--
+https://webstreaming.viewmedia.tv/web_020/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Localish.us" tvg-logo="https://i.imgur.com/ACEbGD5.png" group-title="Lifestyle",Localish (720p)
+https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+http://95.216.180.111:1935/live/68/playlist.m3u8
+--
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
