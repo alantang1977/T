@@ -1,9 +1,3 @@
-hbo_hub,#genre#
-Afizzionados (576p),https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
-BBS TV (180p),https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8
-Film Hub (720p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-WBTV HBO Boxing (1080p) [Geo-blocked],https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
-湖北卫视 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 hk_tw,#genre#
 FTV Taiwan (民視台灣台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=tw
 Taiwan Indigenous TV (原住民電視) (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
