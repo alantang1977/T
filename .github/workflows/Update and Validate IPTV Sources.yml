@@ -1,4 +1,4 @@
-name: Update and Validate IPTV Sources
+name: Update and Validate Specific IPTV Sources
 
 on:
   schedule:
@@ -20,18 +20,19 @@ jobs:
           mkdir -p data
           curl -o data/iptv.m3u https://iptv-org.github.io/iptv/index.m3u
 
-      # 筛选目标频道并按分组
-      - name: Filter specific channels with grouping
+      # 筛选特定分组（香港、台湾）和直播源（HBO、Hub）
+      - name: Filter specific groups and keywords
         run: |
-          echo "Filtering specific channels (CCTV, 卫视, 地方台)..."
+          echo "Filtering Hong Kong, Taiwan, HBO, and Hub channels..."
           mkdir -p data/groups
           
-          # 创建分组文件
-          grep -E "(CCTV)" -A1 data/iptv.m3u > data/groups/cctv.m3u
-          grep -E "(卫视|Satellite TV)" -A1 data/iptv.m3u > data/groups/satellite.m3u
-          grep -E "(地方台|Local)" -A1 data/iptv.m3u > data/groups/local.m3u
+          # 筛选香港和台湾的频道分组
+          grep -E "(香港|Taiwan|台灣)" -A1 data/iptv.m3u > data/groups/hk_tw.m3u
+          
+          # 筛选 HBO 和 Hub 直播源
+          grep -E "(HBO|Hub)" -A1 data/iptv.m3u > data/groups/hbo_hub.m3u
 
-          # 合并到总文件
+          # 合并筛选后的频道到总文件
           cat data/groups/*.m3u > data/filtered_iptv.m3u
 
       # 验证直播源链接
@@ -56,12 +57,14 @@ jobs:
           # 恢复默认错误中断行为
           set -e
 
-      # 生成按分组的 M3U 和 TXT 文件
+      # 生成分组的 M3U 和 TXT 文件
       - name: Generate grouped M3U and TXT files
         run: |
           echo "Generating grouped M3U and TXT files..."
           mkdir -p data/valid/groups
-          for group in cctv satellite local; do
+          
+          # 分别处理香港和台湾的分组，以及 HBO 和 Hub 的关键词
+          for group in hk_tw hbo_hub; do
             # 生成分组 M3U 文件
             awk 'NR==FNR{a[NR]=$0;next}{print a[FNR] "\n" $0}' data/groups/$group.m3u data/valid/working_links.txt > data/valid/groups/$group.m3u
             
@@ -80,5 +83,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Updated grouped and valid IPTV sources with working links [skip ci]"
+          git commit -m "Updated Hong Kong, Taiwan, HBO, Hub IPTV sources with working links [skip ci]"
           git push
