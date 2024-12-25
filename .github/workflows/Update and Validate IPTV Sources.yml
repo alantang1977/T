@@ -1,4 +1,4 @@
-name: Update and Validate Specific IPTV Sources
+name: Update and Convert IPTV Sources
 
 on:
   schedule:
@@ -57,25 +57,24 @@ jobs:
           # 恢复默认错误中断行为
           set -e
 
-      # 生成分组的 M3U 和 TXT 文件
-      - name: Generate grouped M3U and TXT files
+      # 转换 M3U 到 TXT 格式
+      - name: Convert M3U to TXT
         run: |
-          echo "Generating grouped M3U and TXT files..."
-          mkdir -p data/valid/groups
-          
-          # 分别处理香港和台湾的分组，以及 HBO 和 Hub 的关键词
+          echo "Converting M3U to TXT format..."
+          mkdir -p data/valid/groups/txt
+
+          # 转换每个分组文件
           for group in hk_tw hbo_hub; do
-            # 生成分组 M3U 文件
-            awk 'NR==FNR{a[NR]=$0;next}{print a[FNR] "\n" $0}' data/groups/$group.m3u data/valid/working_links.txt > data/valid/groups/$group.m3u
-            
-            # 生成分组 TXT 文件
-            echo "$group,#genre#" > data/valid/groups/$group.txt
-            awk 'NR==FNR{a[NR]=$0;next}{print $0 "," a[FNR]}' data/valid/working_links.txt data/groups/$group.m3u >> data/valid/groups/$group.txt
+            input_file="data/groups/$group.m3u"
+            output_file="data/valid/groups/txt/$group.txt"
+            echo "$group,#genre#" > "$output_file"
+
+            # 解析 M3U 并生成 TXT 格式
+            awk '/^#EXTINF/ { name=gensub(/.*,(.*)$/, "\\1", "g", $0); next } /http/ { print name "," $0 }' "$input_file" >> "$output_file"
           done
 
-          # 合并分组到总文件
-          cat data/valid/groups/*.m3u > data/valid/valid_iptv.m3u
-          cat data/valid/groups/*.txt > data/valid/valid_iptv.txt
+          # 合并所有 TXT 文件
+          cat data/valid/groups/txt/*.txt > data/valid/valid_iptv.txt
 
       # 提交更新到仓库
       - name: Commit and push updates
@@ -83,5 +82,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Updated Hong Kong, Taiwan, HBO, Hub IPTV sources with working links [skip ci]"
+          git commit -m "Updated and converted IPTV sources to TXT format [skip ci]"
           git push
