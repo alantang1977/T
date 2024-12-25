@@ -1,0 +1,60 @@
+name: Update and Validate IPTV Sources
+
+on:
+  schedule:
+    # 每天凌晨 3 点运行
+    - cron: '0 3 * * *'
+  workflow_dispatch: # 手动触发工作流
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      # 检查出仓库代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 拉取最新直播源
+      - name: Fetch latest IPTV sources
+        run: |
+          mkdir -p data
+          curl -o data/iptv.m3u https://iptv-org.github.io/iptv/index.m3u
+
+      # 筛选目标频道
+      - name: Filter specific channels
+        run: |
+          echo "Filtering specific channels (HBO, Hub, Hong Kong, Taiwan)..."
+          grep -E "(HBO|Hub|Hong Kong|Taiwan)" -A1 data/iptv.m3u > data/filtered_iptv.m3u
+          grep -E "(HBO|Hub|Hong Kong|Taiwan)" -A1 data/iptv.m3u | grep "http" > data/temp_links.txt
+
+      # 验证直播源链接
+      - name: Validate and filter working links
+        run: |
+          echo "Validating live stream links for availability..."
+          mkdir -p data/valid
+          > data/valid/working_links.txt
+          > data/valid/invalid_links.txt
+          while read -r link; do
+            status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link")
+            if [ "$status" -eq 200 ]; then
+              echo "$link" >> data/valid/working_links.txt
+            else
+              echo "$link" >> data/valid/invalid_links.txt
+            fi
+          done < data/temp_links.txt
+
+      # 生成有效的 M3U 和 TXT 文件
+      - name: Generate valid M3U and TXT files
+        run: |
+          echo "Generating valid M3U and TXT files..."
+          awk 'NR==FNR{a[NR]=$0;next}{print a[FNR] "\n" $0}' data/filtered_iptv.m3u data/valid/working_links.txt > data/valid/valid_iptv.m3u
+          cp data/valid/working_links.txt data/valid/valid_iptv.txt
+
+      # 提交更新到仓库
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Updated valid IPTV sources with working links [skip ci]"
+          git push
