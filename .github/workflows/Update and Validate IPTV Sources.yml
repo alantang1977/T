@@ -20,12 +20,19 @@ jobs:
           mkdir -p data
           curl -o data/iptv.m3u https://iptv-org.github.io/iptv/index.m3u
 
-      # 筛选目标频道
-      - name: Filter specific channels
+      # 筛选目标频道并按分组
+      - name: Filter specific channels with grouping
         run: |
-          echo "Filtering specific channels (HBO, Hub, Hong Kong, Taiwan)..."
-          grep -E "(HBO|Hub|Hong Kong|Taiwan)" -A1 data/iptv.m3u > data/filtered_iptv.m3u
-          grep -E "(HBO|Hub|Hong Kong|Taiwan)" -A1 data/iptv.m3u | grep "http" > data/temp_links.txt
+          echo "Filtering specific channels (CCTV, 卫视, 地方台)..."
+          mkdir -p data/groups
+          
+          # 创建分组文件
+          grep -E "(CCTV)" -A1 data/iptv.m3u > data/groups/cctv.m3u
+          grep -E "(卫视|Satellite TV)" -A1 data/iptv.m3u > data/groups/satellite.m3u
+          grep -E "(地方台|Local)" -A1 data/iptv.m3u > data/groups/local.m3u
+
+          # 合并到总文件
+          cat data/groups/*.m3u > data/filtered_iptv.m3u
 
       # 验证直播源链接
       - name: Validate and filter working links
@@ -37,24 +44,35 @@ jobs:
 
           # 禁用退出状态码错误中断
           set +e
-          while read -r link; do
+          awk '/http/{print $0}' data/filtered_iptv.m3u | while read -r link; do
             status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link" || true)
             if [ "$status" -eq 200 ]; then
               echo "$link" >> data/valid/working_links.txt
             else
               echo "$link" >> data/valid/invalid_links.txt
             fi
-          done < data/temp_links.txt
+          done
 
           # 恢复默认错误中断行为
           set -e
 
-      # 生成有效的 M3U 和 TXT 文件
-      - name: Generate valid M3U and TXT files
+      # 生成按分组的 M3U 和 TXT 文件
+      - name: Generate grouped M3U and TXT files
         run: |
-          echo "Generating valid M3U and TXT files..."
-          awk 'NR==FNR{a[NR]=$0;next}{print a[FNR] "\n" $0}' data/filtered_iptv.m3u data/valid/working_links.txt > data/valid/valid_iptv.m3u
-          cp data/valid/working_links.txt data/valid/valid_iptv.txt
+          echo "Generating grouped M3U and TXT files..."
+          mkdir -p data/valid/groups
+          for group in cctv satellite local; do
+            # 生成分组 M3U 文件
+            awk 'NR==FNR{a[NR]=$0;next}{print a[FNR] "\n" $0}' data/groups/$group.m3u data/valid/working_links.txt > data/valid/groups/$group.m3u
+            
+            # 生成分组 TXT 文件
+            echo "$group,#genre#" > data/valid/groups/$group.txt
+            awk 'NR==FNR{a[NR]=$0;next}{print $0 "," a[FNR]}' data/valid/working_links.txt data/groups/$group.m3u >> data/valid/groups/$group.txt
+          done
+
+          # 合并分组到总文件
+          cat data/valid/groups/*.m3u > data/valid/valid_iptv.m3u
+          cat data/valid/groups/*.txt > data/valid/valid_iptv.txt
 
       # 提交更新到仓库
       - name: Commit and push updates
@@ -62,5 +80,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Updated valid IPTV sources with working links [skip ci]"
+          git commit -m "Updated grouped and valid IPTV sources with working links [skip ci]"
           git push
