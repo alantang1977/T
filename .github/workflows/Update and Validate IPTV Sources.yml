@@ -35,7 +35,7 @@ jobs:
           > data/valid/working_links.txt
           > data/valid/invalid_links.txt
           while read -r link; do
-            status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link")
+            status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link" || true)
             if [ "$status" -eq 200 ]; then
               echo "$link" >> data/valid/working_links.txt
             else
