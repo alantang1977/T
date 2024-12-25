@@ -63,6 +63,21 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo" tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="Undefined",Red CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Sports",Afizzionados (576p)
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="BBSTV.ug" tvg-logo="https://i.imgur.com/Hub1AXv.png" group-title="General",BBS TV (180p)
+https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/MRU0d3y.png" group-title="Movies",Film Hub (720p)
+https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
+#EXTINF:-1 tvg-id="HubeiSatelliteTV.cn" tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="Undefined",湖北卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="News",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/index.m3u8
 #EXTINF:-1 tvg-id="CanalLocal.cl" tvg-logo="https://i.imgur.com/ReZXqWR.png" group-title="General",Canal Local (1080p)
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 #EXTINF:-1 tvg-id="CanalLocalGrosblie.fr" tvg-logo="https://i.imgur.com/0U8mci6.png" group-title="General",Canal Local Grosbliederstroff

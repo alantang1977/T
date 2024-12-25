@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="News",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+http://seb.sason.top/ptv/ftv.php?id=tw
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+--
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+https://webstreaming.viewmedia.tv/web_020/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+--
+https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",凤凰香港 (720p)
+http://95.216.180.111:1935/live/68/playlist.m3u8
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8

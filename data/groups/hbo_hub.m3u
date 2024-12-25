@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Sports",Afizzionados (576p)
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="BBSTV.ug" tvg-logo="https://i.imgur.com/Hub1AXv.png" group-title="General",BBS TV (180p)
+https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8
+--
+#EXTINF:-1 tvg-id="FilmHub.us" tvg-logo="https://i.imgur.com/MRU0d3y.png" group-title="Movies",Film Hub (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+--
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WBTV HBO Boxing (1080p) [Geo-blocked]
+https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
+--
+#EXTINF:-1 tvg-id="HubeiSatelliteTV.cn" tvg-logo="https://i.imgur.com/CTRa9BJ.png" group-title="Undefined",湖北卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
