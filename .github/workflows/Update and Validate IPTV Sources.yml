@@ -17,41 +17,68 @@ jobs:
       # 拉取最新直播源
       - name: Fetch latest IPTV sources
         run: |
+          echo "Fetching the latest IPTV sources..."
           mkdir -p data
           curl -o data/iptv.m3u https://iptv-org.github.io/iptv/index.m3u
 
-      # 筛选特定分组（香港、台湾）和直播源（HBO、Hub）
-      - name: Filter specific groups and keywords
+      # 自动创建分组文件夹并筛选节目
+      - name: Create groups and filter channels
         run: |
-          echo "Filtering Hong Kong, Taiwan, HBO, and Hub channels..."
+          echo "Creating groups and filtering channels..."
           mkdir -p data/groups
           
-          # 筛选香港和台湾的频道分组
-          grep -E "(香港|Taiwan|台灣)" -A1 data/iptv.m3u > data/groups/hk_tw.m3u
-          
-          # 筛选 HBO 和 Hub 直播源
-          grep -E "(HBO|Hub)" -A1 data/iptv.m3u > data/groups/hbo_hub.m3u
+          # 定义分组名称和关键词
+          cat <<EOF > group_config.txt
+          首选直播源,首选|主推
+          IPV6央卫数字,IPV6|中央|数字
+          IPV4地方频道,IPV4|地方
+          直播中国,中国|直播
+          代理源(180),代理|180
+          AKTV(61),AKTV|61
+          四季TV(62),四季TV|62
+          HLS-TV(18),HLS|18
+          JDSP源(23),JDSP|23
+          测试直播源,测试|实验
+          动作片1224,动作片|1224
+          科幻片1224,科幻|1224
+          恐怖片1224,恐怖片|1224
+          战争片1224,战争片|1224
+          台湾地区FM,台湾|FM
+          大陆地区FM,大陆|FM
+          国家级FM,国家级|FM
+          EOF
 
-          # 合并筛选后的频道到总文件
-          cat data/groups/*.m3u > data/filtered_iptv.m3u
+          # 遍历分组文件创建文件夹并筛选内容
+          while IFS= read -r group; do
+            group_name=$(echo "$group" | cut -d ',' -f1)
+            keywords=$(echo "$group" | cut -d ',' -f2)
+            mkdir -p "data/groups/$group_name"
+            grep -E "($keywords)" -A1 data/iptv.m3u > "data/groups/$group_name/${group_name}.m3u"
+          done < group_config.txt
 
-      # 验证直播源链接
-      - name: Validate and filter working links
+      # 验证直播源链接有效性
+      - name: Validate live stream links
         run: |
-          echo "Validating live stream links for availability..."
+          echo "Validating live stream links..."
           mkdir -p data/valid
           > data/valid/working_links.txt
           > data/valid/invalid_links.txt
 
           # 禁用退出状态码错误中断
           set +e
-          awk '/http/{print $0}' data/filtered_iptv.m3u | while read -r link; do
-            status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link" || true)
-            if [ "$status" -eq 200 ]; then
-              echo "$link" >> data/valid/working_links.txt
-            else
-              echo "$link" >> data/valid/invalid_links.txt
-            fi
+          find data/groups -name "*.m3u" | while read -r group_file; do
+            group_name=$(basename "$(dirname "$group_file")")
+            mkdir -p "data/valid/$group_name"
+            
+            # 验证每个分组的链接
+            awk '/http/{print $0}' "$group_file" | while read -r link; do
+              status=$(curl -s -o /dev/null -w "%{http_code}" --max-time 3 "$link" || true)
+              if [ "$status" -eq 200 ]; then
+                echo "$link" >> "data/valid/$group_name/working_links.txt"
+              else
+                echo "$link" >> "data/valid/$group_name/invalid_links.txt"
+              fi
+            done
           done
 
           # 恢复默认错误中断行为
@@ -60,17 +87,15 @@ jobs:
       # 转换 M3U 到 TXT 格式
       - name: Convert M3U to TXT
         run: |
-          echo "Converting M3U to TXT format..."
+          echo "Converting M3U files to TXT format..."
           mkdir -p data/valid/groups/txt
 
-          # 转换每个分组文件
-          for group in hk_tw hbo_hub; do
-            input_file="data/groups/$group.m3u"
-            output_file="data/valid/groups/txt/$group.txt"
-            echo "$group,#genre#" > "$output_file"
-
-            # 解析 M3U 并生成 TXT 格式
-            awk '/^#EXTINF/ { name=gensub(/.*,(.*)$/, "\\1", "g", $0); next } /http/ { print name "," $0 }' "$input_file" >> "$output_file"
+          find data/valid -name "working_links.txt" | while read -r valid_file; do
+            group_name=$(basename "$(dirname "$valid_file")")
+            output_file="data/valid/groups/txt/${group_name}.txt"
+            echo "$group_name,#genre#" > "$output_file"
+            
+            awk '{print "ChannelName," $0}' "$valid_file" >> "$output_file"
           done
 
           # 合并所有 TXT 文件
