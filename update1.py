@@ -63,6 +63,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/temp1.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt',
         'https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/monlingwu.txt',
+        'https://raw.githubusercontent.com/zt8209/zt8209/refs/heads/master/zhibo/%E5%9B%BD%E5%A4%96%E5%BD%B1%E8%A7%86.txt',
         'https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/madou.txt',
         'https://raw.githubusercontent.com/lndsqhj/zblive/refs/heads/main/yg.txt',
         'https://raw.githubusercontent.com/sublime2025/IPTV/refs/heads/main/adult',
