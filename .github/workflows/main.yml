@@ -4,8 +4,8 @@ name: sync myb
 # 触发条件
 on:
   schedule:
-    # 每天 UTC 时间 00:00 和 12:00 运行
-    - cron: '0 */4 * * *'
+    # 每天 UTC 时间 01:00 运行
+    - cron: '0 1 * * *'
   workflow_dispatch: # 允许手动触发
 
 permissions:
