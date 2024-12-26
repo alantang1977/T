@@ -18,12 +18,14 @@ jobs:
           mkdir -p data
           curl -o data/iptv.m3u https://iptv-org.github.io/iptv/index.m3u
 
-      - name: Validate inputs
+      - name: Debug IPTV file
         run: |
+          echo "Checking IPTV source file..."
           if [ ! -s data/iptv.m3u ]; then
-            echo "Error: IPTV source file is missing or empty!"
+            echo "Error: IPTV file is empty or missing!"
             exit 1
           fi
+          head -n 20 data/iptv.m3u
 
       - name: Create group_config.txt
         run: |
@@ -49,11 +51,6 @@ jobs:
           EOF
           cat group_config.txt
 
-      - name: Debug group_config.txt
-        run: |
-          echo "Checking group_config.txt content..."
-          cat group_config.txt
-
       - name: Create groups and filter channels
         run: |
           echo "Creating groups and filtering channels..."
@@ -61,6 +58,10 @@ jobs:
           while IFS= read -r group; do
             group_name=$(echo "$group" | cut -d ',' -f1)
             keywords=$(echo "$group" | cut -d ',' -f2)
+
+            echo "Processing group: $group_name with keywords: $keywords"
             mkdir -p "data/groups/$group_name"
-            grep -E "($keywords)" -A1 data/iptv.m3u > "data/groups/$group_name/${group_name}.m3u"
+
+            # 筛选并处理未匹配情况
+            grep -E "($keywords)" -A1 data/iptv.m3u > "data/groups/$group_name/${group_name}.m3u" || echo "No matches found for $group_name" > "data/groups/$group_name/${group_name}.m3u"
           done < group_config.txt
