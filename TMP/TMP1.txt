@@ -492,7 +492,7 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 浙江卫视, http://148.135.93.213:81/live.php?id=浙江卫视
 江苏卫视, http://148.135.93.213:81/live.php?id=江苏卫视
 陕西卫视, http://148.135.93.213:81/live.php?id=陕西卫视
-湖北卫视, http://cc2022.ifengli.com:2000/live/hbws-sd/1500.m3u8?innersid=2025
+湖北卫视, http://148.135.93.213:81/live.php?id=湖北卫视
 内蒙古卫视, http://148.135.93.213:81/live.php?id=内蒙古卫视
 江西卫视, http://148.135.93.213:81/live.php?id=江西卫视
 广东卫视, http://148.135.93.213:81/live.php?id=广东卫视
@@ -506,7 +506,7 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 山西卫视, http://148.135.93.213:81/live.php?id=山西卫视
 广西卫视, http://148.135.93.213:81/live.php?id=广西卫视
 河北卫视, http://148.135.93.213:81/live.php?id=河北卫视
-河南卫视, http://cc2022.ifengli.com:2000/live/hnws-sd/1500.m3u8?innersid=2025
+河南卫视, http://148.135.93.213:81/live.php?id=河南卫视
 深圳卫视, http://148.135.93.213:81/live.php?id=深圳卫视
 甘肃卫视, http://148.135.93.213:81/live.php?id=甘肃卫视
 贵州卫视, http://148.135.93.213:81/live.php?id=贵州卫视
@@ -514,6 +514,7 @@ CHC动作电影, http://148.135.93.213:81/live.php?id=CHC动作电影
 重庆卫视, http://148.135.93.213:81/live.php?id=重庆卫视
 黑龙江卫视, http://148.135.93.213:81/live.php?id=黑龙江卫视
 海南卫视, http://148.135.93.213:81/live.php?id=海南卫视
+大湾区卫视, http://148.135.93.213:81/live.php?id=大湾区卫视
 西藏卫视, http://148.135.93.213:81/live.php?id=西藏卫视
 云南卫视, http://cc2022.ifengli.com:2000/live/ynws-hd/2500.m3u8?innersid=2025
 新疆卫视, http://cc2022.ifengli.com:2000/live/xjws-sd/1500.m3u8?innersid=2025
@@ -735,9 +736,9 @@ tvg-id="爱动漫", http://[2409:8087:5e00:24::2d]:6610/000000001000/1/200000000
 宠物小精灵, http://1.94.31.214:35455/huya/23749096
 
 IHOT频道,#genre#
-iHOT, http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000032
-iHOT, http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000033
-iHOT, http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000034
+iHOT, http://nas.zyylover.homes:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
+iHOT, http://nas.zyylover.homes:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
+iHOT, http://nas.zyylover.homes:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000035/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000035&livemode=1&stbId=YanG-1989
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000036/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000036&livemode=1&stbId=YanG-1989
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000038/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000038&livemode=1&stbId=YanG-1989
@@ -752,10 +753,10 @@ iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000059/ind
 iHOT, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000004000000060/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=YanG-1989
 
 NewTV频道,#genre#
-NewTV, http://itv.nctv.top:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV, http://itv.nctv.top:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-NewTV, http://itv.nctv.top:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-NewTV, http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+NewTV, http://nas.zyylover.homes:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989
@@ -782,7 +783,7 @@ NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/in
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
 NewTV, http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV, http://itv.nctv.top:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+NewTV, http://nas.zyylover.homes:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 
 百事通,#genre#
 星光影院, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288013/index.m3u8?channel-id=bestzb&Contentid=5000000011000288013&livemode=1&stbId=YanG-1989
