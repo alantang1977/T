@@ -49,7 +49,7 @@ CGTN, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?GuardE
 CCTV-15, http://tv.20191209.xyz:37377/migu/673168223.m3u8?migutoken=91bfd27ec54e6b68df329e3a36e211ea78e34558edc20ae3d76e0cbf89e6012d4e33c760dd200a4a41b2587c50dee210ca66da4ff8be48c4a97a2c7ab22d824ea440cc9c06961aa846be65a0
 CCTV-16, http://113.234.120.63:777/hls/16/index.m3u8
 CGTN, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-CCTV-16, http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=0e0d161b408da1b1e56d6b4aa399badec2cd44497aa5026f96c4807e820f84ca_1738684174_604800$LR•IPV4
+CCTV-16, http://www.52iptv.vip:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-17, http://sc.rrs.169ol.com/PLTV/88888888/224/3221227577/index.m3u8
 CGTN法语, http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnmNWt4gIKrkCWjuWofLapQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-17, http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
@@ -655,6 +655,8 @@ CAT电影, http://litv.zapi.us.kg/?id=4gtv-4gtv076
 龙华电影, http://37.27.111.214:8080/live/19/hls.m3u8
 靖天电影, http://litv.zapi.us.kg/?id=4gtv-4gtv061
 HOY, http://cdn.132.us.kg/live/hoy/stream.m3u8
+港台电视31, http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+港台电视32, http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 
 动画频道,#genre#
 卡酷少儿, http://ct.370829.xyz:35455/itv/5000000011000265008.m3u8?cdn=bestzb
@@ -6178,7 +6180,6 @@ CHC动作电影, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32
 CHC影迷电影, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
 CHC家庭影院, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 畅享影院, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226300/index.m3u8
-超级体育, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 哒啵电竞, http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226265/index.m3u8
 哒啵赛事, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 点掌财经, https://volcanopull.aniu.tv/live/aniu2/index.m3u8
@@ -6234,16 +6235,9 @@ CHC家庭影院, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32
 2023, https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 外语,#genre#
-Al, http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-AmazonSat, https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 Arirang, http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-BBC, http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 CNN, https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-Fashion, http://91.247.68.229:8000/play/Fashion/index.m3u8
 KBS, https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-Newsmax, http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-NHK, https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NHK, https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 Russia, https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 TBS, http://143.244.60.30/TBS/index.m3u8
 VOA, https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
@@ -6269,7 +6263,6 @@ VOA, https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 安徽影视, http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽综艺体育, http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安庆.潜山综合, https://qsxw.gov.cn/rtmp_export/video22.m3u8
-池州文教生活, http://wjsp.chiznews.com:8037/live/wjsh.m3u8
 滁州新闻综合, http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共频道, http://live.cztv.cc:85/live/ggpd.m3u8
 滁州科教频道, http://live.cztv.cc:85/live/sjpd.m3u8
@@ -6287,18 +6280,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 铜梁综合, http://183.64.174.171:40123/ch1.m3u8
 潼南综合, http://183.230.184.51:65500/tntv1.m3u8
 
-福建,#genre#
-福州新闻综合, http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-福州少儿, http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-福州生活, http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-
-甘肃,#genre#
-定西综合, https://play.kankanlive.com/live/1707969054968992.m3u8
-定西文旅生活, https://play.kankanlive.com/live/1707482307440963.m3u8
-陇南综合频道, https://play.kankanlive.com/live/1709171819929902.m3u8
-陇南公共频道, https://play.kankanlive.com/live/1709171893138901.m3u8
-陇南.武都综合, http://play.kankanlive.com/live/1703747194431958.m3u8
-
 广东,#genre#
 广东民生, http://183.11.239.36:808/hls/18/index.m3u8
 嘉佳卡通, http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
@@ -6310,14 +6291,11 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 云浮文旅, http://livestream.oeeee.com/slive/17807.m3u8
 
 广西,#genre#
-刘三姐, https://live.gxrb.com.cn/hls/lsj/index.m3u8
 南宁新闻综合, https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁公共, https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 南宁文旅生活, https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐, https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 南宁慢直播, https://hls.nntv.cn/nnlive/LYL1_24.m3u8
-百色综合, http://live.gxrb.com.cn/tv/bstv_zh/index.m3u8
-北海新闻综合, http://live.gxrb.com.cn/gx/beihai/index.m3u8
 贺州综合, http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 
 贵州,#genre#
@@ -6349,7 +6327,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 哈尔滨.五常综合, https://rmplive.hljtv.com/live/wuchang.m3u8
 哈尔滨.延寿综合, https://rmplive.hljtv.com/live/yanshou.m3u8
 哈尔滨.依兰综合, https://rmplive.hljtv.com/live/yilan.m3u8
-大庆市新闻综合, https://rmplive.hljtv.com/live/daqing.m3u8
 大庆.林甸综合频道, https://rmplive.hljtv.com/live/lindian.m3u8
 大庆.肇源综合频道, https://rmplive.hljtv.com/live/zhaoyuan.m3u8
 大庆.肇州综合, https://rmplive.hljtv.com/live/zhaozhou.m3u8
@@ -6359,55 +6336,45 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 大兴安岭.塔河综合频道, https://rmplive.hljtv.com/live/tahe.m3u8
 鹤岗新闻综合, https://rmplive.hljtv.com/live/hegang.m3u8
 鹤岗.萝北综合, https://rmplive.hljtv.com/live/luobei.m3u8
-鹤岗.绥滨综合, https://rmplive.hljtv.com/live/suibin.m3u8
 黑河新闻综合, https://rmplive.hljtv.com/live/heihe.m3u8
 黑河.北安综合, https://rmplive.hljtv.com/live/beian.m3u8
 黑河.嫩江综合, https://rmplive.hljtv.com/live/nenjiang.m3u8
-黑河.孙吴综合, https://rmplive.hljtv.com/live/sunwu.m3u8
 黑河.五大连池综合, https://rmplive.hljtv.com/live/wudalianchi.m3u8
-黑河.逊克综合, https://rmplive.hljtv.com/live/xunke.m3u8
-鸡西市新闻综合, https://rmplive.hljtv.com/live/jixi.m3u8
+鸡西新闻综合, https://rmplive.hljtv.com/live/jixi.m3u8
 鸡西.虎林综合频道, https://rmplive.hljtv.com/live/hulin.m3u8
-鸡西.鸡东综合, http://rmplive.hljtv.com/live/jidong.m3u8
 鸡西.密山综合, https://rmplive.hljtv.com/live/mishan.m3u8
-佳木斯市新闻综合, https://rmplive.hljtv.com/live/jiamusi.m3u8
 佳木斯.抚远综合, https://rmplive.hljtv.com/live/fuyuan.m3u8
-佳木斯.富锦电视台, https://rmplive.hljtv.com/live/fujin.m3u8
-佳木斯.桦川新闻综合, https://rmplive.hljtv.com/live/huachuan.m3u8
 佳木斯.桦南综合, https://rmplive.hljtv.com/live/huanan.m3u8
 佳木斯.汤原综合, https://rmplive.hljtv.com/live/tangyuan.m3u8
 佳木斯.同江电视台, https://rmplive.hljtv.com/live/tongjiang.m3u8
 牡丹江.东宁综合频道, https://rmplive.hljtv.com/live/dongning.m3u8
-牡丹江.海林综合, https://rmplive.hljtv.com/live/hailin.m3u8
-牡丹江.林口综合, https://rmplive.hljtv.com/live/linkou.m3u8
-牡丹江.穆棱综合, https://rmplive.hljtv.com/live/muleng.m3u8
+牡丹江.海林综合频道, https://rmplive.hljtv.com/live/hailin.m3u8
+牡丹江.林口综合频道, https://rmplive.hljtv.com/live/linkou.m3u8
+牡丹江.穆棱综合频道, https://rmplive.hljtv.com/live/muleng.m3u8
 牡丹江.宁安综合, https://rmplive.hljtv.com/live/ningan.m3u8
 牡丹江.绥芬河综合, https://rmplive.hljtv.com/live/suifenhe.m3u8
 七台河新闻综合, https://rmplive.hljtv.com/live/qitaihe.m3u8
-七台河.勃利综合, https://rmplive.hljtv.com/live/boli.m3u8
+七台河.勃利综合频道, https://rmplive.hljtv.com/live/boli.m3u8
 齐齐哈尔新闻综合, https://rmplive.hljtv.com/live/qiqihaer.m3u8
 齐齐哈尔.拜泉综合, https://rmplive.hljtv.com/live/baiquan.m3u8
 齐齐哈尔.富裕综合, https://rmplive.hljtv.com/live/fuyu.m3u8
-齐齐哈尔.甘南县综合, https://rmplive.hljtv.com/live/gannan.m3u8
+齐齐哈尔.甘南综合, https://rmplive.hljtv.com/live/gannan.m3u8
 齐齐哈尔.克东综合, https://rmplive.hljtv.com/live/kedong.m3u8
 齐齐哈尔.克山综合, https://rmplive.hljtv.com/live/keshan.m3u8
 齐齐哈尔.龙江综合频道, https://rmplive.hljtv.com/live/longjiang.m3u8
 齐齐哈尔.讷河综合, https://rmplive.hljtv.com/live/nehe.m3u8
 齐齐哈尔.泰来综合, https://rmplive.hljtv.com/live/tailai.m3u8
 齐齐哈尔.依安综合, https://rmplive.hljtv.com/live/yian.m3u8
-双鸭山.宝清综合, https://rmplive.hljtv.com/live/baoqing.m3u8
-双鸭山.集贤综合, https://rmplive.hljtv.com/live/jixian.m3u8
 双鸭山.饶河综合, https://rmplive.hljtv.com/live/raohe.m3u8
 双鸭山.友谊综合, https://rmplive.hljtv.com/live/youyi.m3u8
 绥化新闻综合, https://rmplive.hljtv.com/live/suihua.m3u8
-绥化.安达综合, https://rmplive.hljtv.com/live/anda.m3u8
 绥化.海伦市综合频道, https://rmplive.hljtv.com/live/hailun.m3u8
 绥化.兰西综合频道, https://rmplive.hljtv.com/live/lanxi.m3u8
 绥化.明水综合, https://rmplive.hljtv.com/live/mingshui.m3u8
 绥化.青冈综合, https://rmplive.hljtv.com/live/qinggang.m3u8
 绥化.庆安县综合频道, https://rmplive.hljtv.com/live/qingan.m3u8
 绥化.绥棱综合, https://rmplive.hljtv.com/live/suileng.m3u8
-绥化.望奎综合, https://rmplive.hljtv.com/live/wangkui.m3u8
+绥化.望奎综合频道, https://rmplive.hljtv.com/live/wangkui.m3u8
 绥化.肇东综合, https://rmplive.hljtv.com/live/zhaodong.m3u8
 伊春综合, https://rmplive.hljtv.com/live/yichun.m3u8
 伊春.嘉荫综合, https://rmplive.hljtv.com/live/jiayin.m3u8
@@ -6432,11 +6399,10 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 长春.双阳综合, http://stream11.jlntv.cn/shuangyang/sd/live.m3u8
 白山.江源1, http://stream10.jlntv.cn/jiangyuantv/sd/live.m3u8
 白山.靖宇综合, http://stream8.jlntv.cn/jytv/sd/live.m3u8
-白山.松原公共, http://stream8.jlntv.cn/sytv2/sd/live.m3u8
+白山.松原生活, http://stream8.jlntv.cn/sytv2/sd/live.m3u8
 吉林.桦甸综合频道, http://stream10.jlntv.cn/huadian/sd/live.m3u8
 吉林.磐石综合频道, http://stream5.jlntv.cn/ps/sd/live.m3u8
 吉林.永吉综合, http://stream10.jlntv.cn/yongji/sd/live.m3u8
-辽源.东丰综合, http://stream5.jlntv.cn/df/sd/live.m3u8
 通化.辉南新闻综合, http://stream5.jlntv.cn/hn/sd/live.m3u8
 通化.通化县综合, http://stream5.jlntv.cn/thx/sd/live.m3u8
 延边1台, https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
@@ -6461,9 +6427,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 宿迁.泗阳综合, http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
 宿迁.泗阳资讯, http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
 无锡.江阴新闻综合, http://221.228.70.101:8080/live/xinwen.m3u8
-徐州综合, http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
-徐州3台, http://stream3.huaihai.tv/xz3t/sd/live.m3u8
-徐州4台, http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 徐州.沛县新闻综合, http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
 徐州.睢宁综合, http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
 徐州.睢宁三农, http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
@@ -6472,7 +6435,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 镇江新闻综合, http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 镇江2台, http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江.句容新闻综合, http://jrlive.jrntv.com/live/jrxwzh/playlist.m3u8
-镇江.句容党建频道, http://jrlive.jrntv.com/live/dangjian/playlist.m3u8
 镇江.句容生活频道, http://jrlive.jrntv.com/live/shenghuo/playlist.m3u8
 镇江.句容影视频道, http://jrlive.jrntv.com/live/yingshi/playlist.m3u8
 
@@ -6490,7 +6452,7 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 西宁生活服务, https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁.大通电视台, http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 海东.民和综合, http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
-海南.同德综合, https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
+海南.同德, https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
 海南.兴海县广播电视台, http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 
 山东,#genre#
@@ -6500,7 +6462,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 临沂经济, http://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 泰安综合, http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
 泰安经济生活, http://zzbb.1545ts.com:8068/live/tatv222.m3u8
-潍坊县市区.奎文频道, https://wfrtv-live-tz.wfcmw.cn:81/live/52-xsq-wfkuiwen.m3u8
 枣庄新闻综合, http://stream.zztvzd.com/1/sd/live.m3u8
 枣庄公共频道, http://stream.zztvzd.com/3/sd/live.m3u8
 枣庄经济生活, http://stream.zztvzd.com/2/sd/live.m3u8
@@ -6524,7 +6485,7 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 中心医院, http://111.9.163.109:8080/live/test.m3u8
 阿坝.松潘, http://live.spccmc.com:90/live/spxwzh.m3u8
 达州新闻综合, http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
-达州通川, http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+达州.通川频道, http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 达州文化生活, http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
 达州.万源新闻综合, http://live.wanyuannews.com/wytv/playlist.m3u8
 德阳文旅科教, http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
@@ -6555,7 +6516,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 云南,#genre#
 德宏.瑞丽综合, http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
 曲靖1台, http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
-清廉曲靖, http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
 
 浙江,#genre#
 浙江新闻, https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -6610,7 +6570,6 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 舟山.嵊泗新闻综合, http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 
 香港,#genre#
-创世电视, https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 凤凰香港, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰中文, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
