@@ -6134,9 +6134,10 @@ CETV2教育教学频道, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3
 CETV4职业教育频道, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225937/index.m3u8
 CGTN, https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录, https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CIBN书画频道, http://211.103.180.178:8233/live_hls/hdmi.m3u8
-CNC新华新闻, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
-CNC新华全球连线, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
+书画频道, http://211.103.180.178:8233/live_hls/hdmi.m3u8
+中国天气, http://zcj.work.gd/ZhongGuoTianQi.m3u8
+新华新闻, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
+新华全球连线, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 
 卫视,#genre#
 江西卫视, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
