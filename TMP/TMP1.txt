@@ -690,12 +690,11 @@ TVB无线星河, http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB娱乐新闻, http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
 TVB翡翠台, http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB翡翠台, https://stream1.freetv.fun/fei-cui-8.m3u8
+TVB翡翠台, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台（备用）, http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB明珠台, http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB, https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 TVB, https://stream1.freetv.fun/tvb-j2-2.ctv
-TVB, https://stream1.freetv.fun/tvb-plus-9.m3u8
 星空卫视, http://wouu.net:9977/udp/239.93.0.156:2193
 星光影视, http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 环球电视, http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -963,9 +962,9 @@ NewTV, http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 咪咕直播38, http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 
 电影频道,#genre#
-欧美大片, http://tc-tct.douyucdn2.cn/dyliveflv1a/2793084rIbiQ5ENq_2000.xs?wsAuth=e4f61a80fbd39502e58524bfc7bee217&token=web-h5-0-2793084-3f569b7e953394a7cfee075c2c4417db51e642dcbf319d4b&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
-漫威影院, http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
-邵氏影院, http://tc-tct.douyucdn2.cn/dyliveflv1a/4246519rQqvCVqbw_4000.xs?wsAuth=ce75f6cd957b292b7be9ebd25530dee9&token=web-h5-0-4246519-126295b0785b4fb54b77a0f6e5d0d2962fd9dac31912c9da&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
+欧美大片, http://1.94.31.214:35455/douyu/2793084
+漫威影院, http://1.94.31.214:35455/douyu/1713615
+邵氏影院, http://1.94.31.214:35455/douyu/4246519
 神乐欧美影院, http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 神乐华语影院, http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
 贝爷欧美影院, http://tc-tct.douyucdn2.cn/dyliveflv1a/252802r9ADrCZlEH_2000.xs?wsAuth=e6f0dcddab9fc91054c85ab3f859e4db&token=web-h5-0-252802-536492a84fc6fe0c5dc51394f3baa3efb83053784dcd97d9&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
