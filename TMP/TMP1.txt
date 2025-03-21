@@ -739,7 +739,6 @@ ZooMoo, http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 東方衛視國際頻道, http://aktv_stream1.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
 無線衛星新聞台, http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 Asian, http://aktv_stream1.m16tv.cfd/stream/astro_a1/asianaction/AKTV.m3u8
-Astro, http://aktv_stream1.m16tv.cfd/stream/astro_a1/astroaec/AKTV.m3u8
 Celestial, http://aktv_stream1.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
 CINEMAWORLD, http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
 FIGHT, http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
@@ -761,9 +760,7 @@ TVBS精采台, http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 中視新聞, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 台視, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 台視新聞, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-寰宇新聞台, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
 愛爾達娛樂台, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-東森新聞台, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 民視, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
 民視台灣台, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 民視新聞台, http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
@@ -777,9 +774,6 @@ TVBS精采台, http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
 Astro, http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 Astro, http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 Astro, http://aktv_stream1.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-C+, http://aktv_stream1.m16tv.cfd/stream/tuntun/c/AKTV.m3u8
-Love, http://aktv_stream1.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-Red, http://aktv_stream1.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
 NTV, http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 viuTV, http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
