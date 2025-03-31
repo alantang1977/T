@@ -55,7 +55,7 @@ CCTV-16, http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
 CETV-1, http://sc.rrs.169ol.com/PLTV/88888888/224/3221227339/index.m3u8
 CGTN, http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
 CCTV-17, http://tv.20191209.xyz:37377/migu/673168256.m3u8?migutoken=eb3fbda758006d66837b5b6ef1b7ab6847a99f05f6b3303861d81e6e1335349499a40c8479d9a801327519db10547f9870398da6796159db51812e236c1b6c07d2c0f7e5bc32101c9cc222dc
-CCTV, http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
+CCTV, https://stream1.freetv.fun/cctv4k-4.m3u8
 CCTV, https://stream1.freetv.fun/cctv8k-3.m3u8
 CGTN, http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 CCTV-兵器科技, http://dassby.qqff.top:99/live/兵器科技/index.m3u8
@@ -770,6 +770,7 @@ Astro, http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
 Astro, http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
 NTV, http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 viuTV, http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+朝鲜恩情台, http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
 动画频道,#genre#
 卡酷少儿, http://home.wwang.pw:35455/itv/5000000011000265008.m3u8?cdn=bestzb
@@ -1397,17 +1398,28 @@ VOA, https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 南昌资讯, http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
 
 安徽,#genre#
-安徽经济生活, http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-安徽影视, http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽综艺体育, http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+安徽公共, http://43.129.81.169/live.ahsx.ahtv.cn/live/ggtv.m3u8
+安徽国际, http://43.129.81.169/live.ahsx.ahtv.cn/live/gjtv.m3u8
+安徽经济生活, http://43.129.81.169/live.ahsx.ahtv.cn/live/jjshtv.m3u8
+安徽农业科教, http://43.129.81.169/live.ahsx.ahtv.cn/live/nykjtv.m3u8
+安徽影视, http://43.129.81.169/live.ahsx.ahtv.cn/live/ystv.m3u8
+安徽综艺体育, http://43.129.81.169/live.ahsx.ahtv.cn/live/zytytv.m3u8
+安庆综合, http://43.129.81.169/nrtapush.ahsx.ahtv.cn/live/aqpd.m3u8
 安庆.潜山综合, https://qsxw.gov.cn/rtmp_export/video22.m3u8
+蚌埠综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/bbtv.m3u8
 滁州新闻综合, http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共频道, http://live.cztv.cc:85/live/ggpd.m3u8
 滁州科教频道, http://live.cztv.cc:85/live/sjpd.m3u8
 毫州, http://112.30.194.221:20080/live/83c292f300f44da6a403dc86878311b1/hls.m3u8
 毫州农村频道, http://zbbf2.ahbztv.com/live/418.m3u8
+淮北新闻综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/hbds.m3u8
 淮南新闻综合, http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 淮南民生, http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
+黄山新闻综合, http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
+黄山文旅频道, http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+六安综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/latv.m3u8
+芜湖新闻综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/whpd.m3u8
+宣城综合, http://43.129.81.169/live.ahsx.ahtv.cn/live/xctv.m3u8
 
 北京,#genre#
 纪实科教, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
@@ -1439,6 +1451,11 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 贵州,#genre#
 黔南1台, http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 黔南2台, http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
+
+海南,#genre#
+海口1台, http://183.255.46.4:16080/live/tv01qnuu8lxfc0rj.m3u8
+海口2台, http://183.255.46.4:16080/live/tv02bueim7p8prw4.m3u8
+海口3台, http://183.255.46.4:16080/live/tv03fu70esbaw9si.m3u8
 
 河北,#genre#
 张家口1台, http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
@@ -1600,11 +1617,15 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 临沂经济, http://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 泰安综合, http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
 泰安经济生活, http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+威海新闻综合, http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
+威海都市生活, http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
+威海海洋, http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 枣庄新闻综合, http://stream.zztvzd.com/1/sd/live.m3u8
 枣庄公共频道, http://stream.zztvzd.com/3/sd/live.m3u8
 枣庄经济生活, http://stream.zztvzd.com/2/sd/live.m3u8
 
 山西,#genre#
+长治.黎城综合, http://111.53.96.67:8081/live/1/index.m3u8
 晋城新闻综合, http://live.jinnews.com.cn/xwzh/sd/live.m3u8
 晋城文化生活, http://live.jinnews.com.cn/ggpd/sd/live.m3u8
 晋中公共, http://jzlive.jztvnews.com:90/live/jzgg.m3u8
@@ -1618,6 +1639,12 @@ KAKU少儿, http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/ind
 陕西体育休闲, http://gxlive.snrtv.com/sx7-SD.m3u8
 陕西西部电影, http://gxlive.snrtv.com/sx8-SD.m3u8
 陕西银龄, http://gxlive.snrtv.com/sx3-SD.m3u8
+西安新闻, http://xatv-yt.xiancity.cn/live/1/index.m3u8
+西安都市, http://xatv-yt.xiancity.cn/live/2/index.m3u8
+西安商务, http://xatv-yt.xiancity.cn/live/3/index.m3u8
+西安丝路, http://xatv-yt.xiancity.cn/live/5/index.m3u8
+西安戏剧, http://xatv-yt.xiancity.cn/live/4/index.m3u8
+西安移动, http://xatv-yt.xiancity.cn/live/7/index.m3u8
 
 四川,#genre#
 中心医院, http://111.9.163.109:8080/live/test.m3u8
