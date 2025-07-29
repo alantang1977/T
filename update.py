@@ -67,7 +67,7 @@ if __name__ == "__main__":
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
         'https://smart.pendy.dpdns.org/m3u/Smart.m3u',
         'http://kxrj.site:55/lib/kx2024.txt',
-        'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
+        'http://gg.7749.org/z/i/gdss.txt',
     ]  
   
     fetch_and_replace(urls)
