@@ -11,7 +11,7 @@ urls = [
     'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
     'https://qu.ax/kBip.m3u',
     'https://huangsuming.github.io/iptv/list/tvlist.txt',
-    'https://www.mytvsuper.com.mp/m3u/Live.m3u',
+    'http://gg.7749.org/z/i/gdss.txt',
 ]
 
 # 初始化字典
