@@ -1,7 +1,11 @@
 import requests  
 import time  
 import re
-from fuzzywuzzy import fuzz  # 需安装：pip install fuzzywuzzy python-Levenshtein
+try:
+    from fuzzywuzzy import fuzz  # 需安装：pip install fuzzywuzzy python-Levenshtein
+except ImportError:
+    print("请先安装依赖库：pip install fuzzywuzzy python-Levenshtein")
+    exit(1)
 from collections import defaultdict
 
 # 预设主要分类关键词（可根据实际频道类型扩展）
@@ -9,6 +13,8 @@ CATEGORY_KEYWORDS = {
     "央视": ["cctv", "央视", "中央"],
     "卫视": ["卫视", "省级台"],
     "地方台": ["省", "市", "县", "区", "地方"],
+    "香港": ["香港", "hk", "hong kong", "tvb", "凤凰"],
+    "台湾": ["台湾", "taiwan", "台视", "中视", "华视"],
     "电影": ["电影", "影院", "mov", "film"],
     "电视剧": ["剧集", "电视剧", "连续剧", " drama"],
     "动漫": ["动漫", "动画", "卡通", "anime", "cartoon"],
@@ -20,7 +26,7 @@ CATEGORY_KEYWORDS = {
 }
 
 def get_category(channel_name):
-    """根据频道名判断分类（优先关键词匹配，再模糊匹配）"""
+    """根据频道名判断分类（优先关键词匹配）"""
     name_lower = channel_name.lower()
     # 1. 关键词匹配
     for category, keywords in CATEGORY_KEYWORDS.items():
@@ -54,11 +60,12 @@ def group_similar_channels(channels, threshold=70):
 
 def natural_sort_key(s):
     """自然排序键（支持数字和字母混合排序）"""
-    return [int(text) if text.isdigit() else text.lower() for text in re.split('(\d+)', s)]
+    # 修复正则表达式转义问题，使用原始字符串
+    return [int(text) if text.isdigit() else text.lower() for text in re.split(r'(\d+)', s)]
 
 def fetch_and_replace(urls):  
     # 按主分类存储频道 {主分类: {子分类: [频道列表]}}
-    category_dict = defaultdict(lambda: defaultdict(list))
+    category_dict = defaultdict(list)
     seen_lines = set()  # 全局去重
     
     for url in urls:  
@@ -113,7 +120,7 @@ def fetch_and_replace(urls):
         similar_groups = group_similar_channels(channels)
         # 对每个子组排序并添加到最终结果
         for group in similar_groups:
-            # 用组内第一个频道名作为子分类名（可简化为"主分类-子组"）
+            # 用组内第一个频道名作为子分类名
             sub_cat = group[0]["name"] if group else "未命名"
             # 按自然排序对组内频道排序
             sorted_group = sorted(group, key=lambda x: natural_sort_key(x["name"]))
