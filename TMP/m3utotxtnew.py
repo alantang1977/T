@@ -19,9 +19,17 @@ all_channels_dict = defaultdict(list)
 
 # 遍历 URL 列表并处理每个 m3u 文件
 for url in urls:
-    # 发送请求获取文件内容
-    response = requests.get(url)
-    m3u_content = response.text
+    try:
+        # 发送请求获取文件内容，添加超时设置（15秒）
+        response = requests.get(url, timeout=15)
+        # 检查响应状态码，非200则抛出异常
+        response.raise_for_status()
+        m3u_content = response.text
+        print(f"成功获取 {url} 的内容")
+    except requests.exceptions.RequestException as e:
+        # 捕获所有请求相关异常（连接错误、超时、HTTP错误等）
+        print(f"处理 URL {url} 时出错: {str(e)}")
+        continue  # 跳过当前错误URL，继续处理下一个
 
     # 初始化频道信息
     channels = []
@@ -42,13 +50,15 @@ for url in urls:
                 channel_name = match.group(2)  # 提取频道名称
                 tvg_logo = match.group(3)     # 提取频道 Logo URL
             else:
-                # 如果正则没有匹配，可以尝试其他方式提取信息
+                # 备选提取方式，兼容不同格式的EXTINF行
                 channel_info = line.split(",")
                 if len(channel_info) > 1:
                     channel_name = channel_info[1].split(" ")[0]
-                group_title_items = [item.split("group-title=")[1].split('"')[1] for item in channel_info if "group-title=" in item]
+                # 提取group-title
+                group_title_items = [item.split("group-title=")[1].split('"')[1] 
+                                   for item in channel_info if "group-title=" in item]
                 group_title = group_title_items[0] if group_title_items else group_title
-        elif line.startswith("http"):
+        elif line.startswith(("http://", "https://")):
             # 处理流媒体 URL 行
             streaming_url = line
             if channel_name and streaming_url:  # 确保频道名称和 URL 非空
@@ -69,30 +79,31 @@ for url in urls:
     for channel in channels:
         all_channels_dict[channel["group_title"]].append(channel)
 
+# 确保输出目录存在
+os.makedirs(os.path.dirname("TMP/TMP1.txt"), exist_ok=True)
+
 # 输出到文件
 output_file_path = "TMP/TMP1.txt"
 with open(output_file_path, "w", encoding="utf-8") as output_file:
     prev_group_title = None
     for group_title, channels_in_group in all_channels_dict.items():
-        sorted_channels_in_group = sorted(channels_in_group, key=lambda x: x["line_index"])  # 确保每个分组内的频道也是排序的
+        # 按行索引排序，保持原文件顺序
+        sorted_channels_in_group = sorted(channels_in_group, key=lambda x: x["line_index"])
         
-        # 将 group-title 转换成你要求的格式
+        # 输出分组标题
         if group_title != prev_group_title:
             if prev_group_title:
-                output_file.write("\n")  # 在每个分组后添加一个空行
+                output_file.write("\n")  # 在分组间添加空行
             if group_title:
-                # 修改分组标题的输出格式，例如：将 group-title 输出为 '央视频道,#genre#'
                 output_file.write(f"{group_title},#genre#\n")
             prev_group_title = group_title
         
+        # 输出频道信息
         for channel in sorted_channels_in_group:
             channel_name = channel["channel_name"]
-            tvg_logo = channel["tvg_logo"]
             streaming_url = channel["streaming_url"]
 
-            # 防止输出格式为 ",http://xxx"
             if channel_name and streaming_url:
-                # 输出为一行：频道名称和流媒体 URL，逗号分隔
                 output_file.write(f"{channel_name}, {streaming_url}\n")
 
 print(f"提取完成,结果已保存到 {output_file_path}")
