@@ -54,14 +54,14 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
+        'https://gh.tryxd.cn/https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
         'http://rihou.cc:555/gggg.nzk',
-        'http://aktv.top/live.txt',
-        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
-        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'http://47.99.102.252/live.txt',
-        'http://kxrj.site:55/lib/kx2024.txt',
-        'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
+        'https://cnb.cool/junchao.tang/live/-/git/raw/main/全网通',
+        'https://gh.tryxd.cn/https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
+        'https://gh.tryxd.cn/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        'https://gh.tryxd.cn/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt',
+        'https://smart.pendy.dpdns.org/m3u/Smart.m3u',
+        'https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u',
     ]  
   
     fetch_and_replace(urls)
