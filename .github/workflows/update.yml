@@ -38,7 +38,10 @@ jobs:
     - name: Run script
       run: |
         python update.py
-
+        
+    - name: Install dependencies
+      run: pip install fuzzywuzzy python-Levenshtein requests
+      
     # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
     - name: List files in workspace
       run: ls -la
