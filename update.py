@@ -2,24 +2,26 @@ import requests
 import time  
 import re
 from collections import defaultdict
+from fuzzywuzzy import fuzz  # 需要安装fuzzywuzzy库：pip install fuzzywuzzy
 
 def fetch_and_replace(urls):
-    # 读取demo.txt中的频道列表，用于过滤
-    demo_channels = set()
+    # 读取demo.txt中的频道列表，用于过滤和匹配
+    demo_channels = []
     try:
         with open('demo.txt', 'r', encoding='UTF-8') as f:
             for line in f:
                 line = line.strip()
                 if line and ',' in line:
-                    # 提取逗号前的频道名称（忽略空链接的情况）
                     channel_name = line.split(',')[0].strip()
                     if channel_name:
-                        demo_channels.add(channel_name)
+                        demo_channels.append(channel_name)
         print(f"成功加载demo.txt中的频道，共{len(demo_channels)}个")
     except FileNotFoundError:
-        print("警告：未找到demo.txt文件，将记录所有频道")
+        print("错误：未找到demo.txt文件，无法继续执行")
+        return
     except Exception as e:
-        print(f"读取demo.txt时出错：{e}，将记录所有频道")
+        print(f"读取demo.txt时出错：{e}，无法继续执行")
+        return
 
     # 定义分类规则：(关键词列表, 目标分类)
     category_rules = [
@@ -38,10 +40,8 @@ def fetch_and_replace(urls):
         (['纪录片', '纪实'], '纪录频道')
     ]
 
-    # 存储分类后的频道 {分类: {频道名: 链接}}
-    categorized = defaultdict(dict)
-    # 未匹配到规则的频道归入"其他频道"
-    other_channels = {}
+    # 存储匹配到的demo频道 {基准频道名: {分类: 链接}}
+    matched_channels = defaultdict(lambda: defaultdict(str))
 
     for url in urls:
         try:
@@ -69,28 +69,34 @@ def fetch_and_replace(urls):
                         parts = [p.strip() for p in processed_line.split(',', 1)]
                         channel_name, link = parts[0], parts[1] if len(parts) > 1 else ''
                         
-                        # 过滤demo中的频道
-                        if channel_name in demo_channels:
-                            continue
-                        
                         # 跳过空名称或空链接
                         if not channel_name or (not link.startswith(('http://', 'https://')) and link != ''):
                             continue
                     else:
                         continue  # 跳过不符合格式的行
 
-                    # 归类频道
-                    category = None
-                    for keywords, cat in category_rules:
-                        if any(keyword in channel_name for keyword in keywords):
-                            category = cat
-                            break
-                    
-                    # 存储频道（去重处理）
-                    if category:
-                        categorized[category][channel_name] = link
-                    else:
-                        other_channels[channel_name] = link  # 未匹配规则的归入其他频道
+                    # 模糊匹配demo中的频道（相似度阈值设为70，可调整）
+                    best_match = None
+                    best_score = 0
+                    for demo_name in demo_channels:
+                        score = fuzz.partial_ratio(channel_name, demo_name)
+                        if score > best_score and score >= 70:
+                            best_score = score
+                            best_match = demo_name
+
+                    if best_match:
+                        # 确定分类
+                        category = None
+                        for keywords, cat in category_rules:
+                            if any(keyword in best_match for keyword in keywords):
+                                category = cat
+                                break
+                        if not category:
+                            category = '其他频道'
+
+                        # 只保留第一个匹配的有效链接
+                        if not matched_channels[best_match][category]:
+                            matched_channels[best_match][category] = link
 
             else:
                 print(f"Failed to retrieve {url} with status code {response.status_code}.")
@@ -100,20 +106,21 @@ def fetch_and_replace(urls):
         except requests.exceptions.RequestException as e:
             print(f"An error occurred while requesting {url}: {e}")
 
-    # 将其他频道加入分类字典
-    if other_channels:
-        categorized['其他频道'] = other_channels
+    # 整理输出格式
+    all_channels = defaultdict(list)
+    for base_name, cat_links in matched_channels.items():
+        for category, link in cat_links.items():
+            all_channels[category].append((base_name, link))
 
-    # 合并分类并排序
-    all_channels = {}
-    # 按分类名称排序
-    for cat in sorted(categorized.keys()):
-        # 按频道名称自然排序（数字按数值，字母按字母表）
-        sorted_channels = sorted(categorized[cat].items(), key=lambda x: (
+    # 排序处理
+    sorted_channels = {}
+    for cat in sorted(all_channels.keys()):
+        # 按频道名称自然排序
+        sorted_items = sorted(all_channels[cat], key=lambda x: (
             re.sub(r'(\d+)', lambda m: f'{int(m.group(1)):010d}', x[0].lower()),
             x[0].lower()
         ))
-        all_channels[cat] = sorted_channels
+        sorted_channels[cat] = sorted_items
 
     # 保存到文件
     timestamp = time.strftime("%Y%m%d%H%M%S") 
@@ -121,7 +128,7 @@ def fetch_and_replace(urls):
     
     with open('my.txt', 'w', encoding='UTF-8') as file:
         file.write(notice)
-        for category, channels in all_channels.items():
+        for category, channels in sorted_channels.items():
             # 写入分类标题
             file.write(f"\n{category},#genre#\n")
             # 写入该分类下的所有频道
