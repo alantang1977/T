@@ -5,11 +5,11 @@ import re
 
 # 文件 URL 列表
 urls = [
-    'https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
-    'https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u',
-    'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-    'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
-    'https://qu.ax/kBip.m3u',
+    'https://gh.tryxd.cn/https://raw.githubusercontent.com/clion007/livetv/refs/heads/main/m3u/scu.m3u',
+    'https://gh.tryxd.cn/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u',
+    'https://gh.tryxd.cn/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
+    'https://gh.tryxd.cn/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
+    'https://7220.kstore.space/sxrtv.txt',
     'https://huangsuming.github.io/iptv/list/tvlist.txt',
     'http://gg.7749.org/z/i/gdss.txt',
 ]
