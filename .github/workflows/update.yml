@@ -1,90 +1,65 @@
 name: update
 
-# 触发条件：每天UTC 02:00自动运行，支持手动触发
+# 触发条件
 on:
   schedule:
-    - cron: '0 2 * * *'  # 保持原有触发时间
-  workflow_dispatch:
+    # 每天 UTC 时间 02:00 运行
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 允许手动触发
 
 permissions:
-  contents: write  # 确保有写入权限
+  contents: write  # 确保 GITHUB_TOKEN 具有写入权限
 
 jobs:
   fetch_streams:
     runs-on: ubuntu-latest
 
     steps:
-    # 1. 检出代码仓库（使用fetch-depth: 0确保完整历史）
+    # 1. 检出项目仓库
     - name: Checkout repository
       uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  # 避免因浅克隆导致提交失败
 
-    # 2. 设置Python环境（与其他workflow版本一致）
+    # 2. 设置 Python 环境
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.x'
-        cache: 'pip'  # 缓存依赖，加速执行
 
-    # 3. 安装依赖（新增fuzzywuzzy支持模糊匹配）
+    # 3. 安装依赖
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas requests fuzzywuzzy
+        pip install pandas requests
 
-    # 4. 确保demo.txt存在（避免脚本因文件缺失报错）
-    - name: Ensure demo.txt exists
-      run: |
-        if [ ! -f "demo.txt" ]; then
-          echo "创建空的demo.txt文件"
-          touch demo.txt
-        fi
-
-    # 5. 运行update.py脚本（增加执行超时控制）
-    - name: Run update script
+    # 4. 运行 Python 脚本
+    - name: Run script
       run: |
         python update.py
-      timeout-minutes: 10  # 防止脚本无限运行
 
-    # 6. 验证输出文件存在性
-    - name: Verify output file
-      run: |
-        if [ ! -f "my.txt" ]; then
-          echo "错误：my.txt未生成"
-          exit 1
-        fi
-        echo "my.txt生成成功，内容行数：$(wc -l my.txt)"
+    # 5. 列出当前目录中的文件，确保 final_streams.txt 存在
+    - name: List files in workspace
+      run: ls -la
 
-    # 7. 检查文件变化（仅在有变化时提交）
-    - name: Check for changes
-      id: check_changes
-      run: |
-        if git diff --quiet my.txt; then
-          echo "changes=false" >> $GITHUB_OUTPUT
-        else
-          echo "changes=true" >> $GITHUB_OUTPUT
-        fi
+    # 6. 检查 Git 状态，确保文件已经被添加
+    - name: Git status
+      run: git status
 
-    # 8. 配置Git信息
+    # 7. 配置 Git 信息
     - name: Configure Git
-      if: steps.check_changes.outputs.changes == 'true'
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
 
-    # 9. 提交并推送更改（仅在有变化时执行）
+    # 8. 提交并推送文件到项目仓库
     - name: Commit and Push changes
-      if: steps.check_changes.outputs.changes == 'true'
       run: |
-        git add $(pwd)/my.txt
-        git commit -m "Update my.txt with filtered channels (UTC $(date -u +'%Y-%m-%d %H:%M'))"
-        git push origin HEAD:main
+        git add $(pwd)/my.txt  # 使用绝对路径确保路径正确
+        git commit -m "Update my with new streams" --allow-empty
+        git push origin HEAD:main  # 如果使用的是其他分支，请修改
 
-    # 10. 上传输出文件作为工件
+    # 9. 上传输出文件作为 GitHub Action 的工件 (artifact)
     - name: Upload streams file
       uses: actions/upload-artifact@v4
       with:
         name: my
         path: my.txt
-        retention-days: 7  # 工件保留7天，节省存储空间
