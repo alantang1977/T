@@ -65,7 +65,7 @@ if __name__ == "__main__":
         'https://aktv.top/live.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'http://47.99.102.252/live.txt',
+        'https://smart.pendy.dpdns.org/m3u/Smart.m3u',
         'http://kxrj.site:55/lib/kx2024.txt',
         'https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt',
     ]  
