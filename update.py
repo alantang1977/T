@@ -60,12 +60,12 @@ def fetch_and_replace(urls):
 if __name__ == "__main__":  
     # 定义多个URL  
     urls = [
-        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
+        'https://smart.pendy.dpdns.org/m3u/Smart.m3u',  
         'http://rihou.cc:555/gggg.nzk',
         'https://aktv.top/live.txt',
         'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP1.txt',
         'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'https://smart.pendy.dpdns.org/m3u/Smart.m3u',
+        'https://raw.githubusercontent.com/jack2713/my/refs/heads/main/my03.txt',
         'http://kxrj.site:55/lib/kx2024.txt',
         'http://gg.7749.org/z/i/gdss.txt',
     ]  
