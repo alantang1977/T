@@ -1,5 +1,5 @@
 注意事项,#genre#
-20250731034353仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20250801035726仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 MY,#genre#
 南充综合,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
 南充科教,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
@@ -906,62 +906,533 @@ CGTN,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 邓州新闻,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
-足球粤评,#genre#
-07-31英超-夏季赛⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-09:30曼联🆚般尼茅夫,http://dd.rihou.cc:555/mp4
-粤🔊奥斯旁述,https://pullhw.zhaoyangyang.cn/live/8814248.flv?auth_info=YSLWphZWr7flHSihBmb8Um8x7lqWXUCqPRsi9QOX%2FxE%3D.495265657649333430496c324d727943
-粤🔊2k速旁述,https://pullhw.zhaoyangyang.cn/live/8814252.flv?auth_info=6gnIaeYep4kuli5MlouCs8Po4aSFQmn9HVnbOBGMwcs%3D.5a454854326b5a4c4f516d4c51657254
-粤🔊小肥旁述,https://pullhw.zhaoyangyang.cn/live/8814158.flv?auth_info=sP2iss7GjVzZTRWBHHqRaVXxeSnXBydZlkdV2i6OymU%3D.6f76486b65784b55504f34504a4c4972
-粤🔊阿细旁述,https://pullhw.zhaoyangyang.cn/live/8814246.flv?auth_info=4V1xSfcJEuidLq%2FMA9NSmT5d6%2FofbK4LnJ3TYzZwQJM%3D.735055744b707756657a6479535a7069
-国🔊春秋评述,https://pullhw.zhaoyangyang.cn/live/8814244.flv?auth_info=GkxYtsiptqMZAMP62%2Fubhr6uDNqlR7y74v6%2FSbO5DI8%3D.316a3236683175424f75307134794e64
-国🔊高老师评,https://pullhw.zhaoyangyang.cn/live/8814250.flv?auth_info=dQjKvsgoPPfkmxFOChgXDk6gOytnHpBh8FhI5f6Am%2F0%3D.4f625256586c3235713944577164677a
-国🔊咪咕评述,https://bf.njscwh.com/live/sd-1-4310545.m3u8?txSecret=ca941e9115f481937fef54d153ee3f87&txTime=688ac748
-国🔊小富评述,https://pullhw.zhaoyangyang.cn/live/8814218.flv?auth_info=YHa8%2FRzp8PH2%2F0PxKgDthaeExUu3rkOixlH%2BVGdXkKI%3D.545870315a657852576d4b394e417676
-07-31球会友谊赛⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-18:00AC米兰🆚珀斯光荣,http://dd.rihou.cc:555/mp4
-粤🔊旁述
-粤🔊旁述,http://dd.rihou.cc:555/mp4
-国🔊4k
-国🔊评述,http://dd.rihou.cc:555/mp4
-国🔊评述
-国🔊咪咕
-19:00巴塞罗那🆚FC首尔,http://dd.rihou.cc:555/mp4
-粤🔊1旁述,http://dd.rihou.cc:555/mp4
-国🔊1评述,http://dd.rihou.cc:555/mp4
-07-31英超夏季赛⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-19:30阿仙奴🆚热刺,http://dd.rihou.cc:555/mp4
-粤🔊2旁述,http://dd.rihou.cc:555/mp4
-国🔊2评述,http://dd.rihou.cc:555/mp4
-中超粤评,#genre#
-08-02中超第19轮⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-18:00云南玉昆🆚上海申花,http://dd.rihou.cc:555/mp4
-19:35青岛西岸🆚河南俱乐,http://dd.rihou.cc:555/mp4
-19:35成都蓉城🆚山东泰山,http://dd.rihou.cc:555/mp4
-20:00梅州客家🆚上海海港,http://dd.rihou.cc:555/mp4
-粤🔊3旁述,http://dd.rihou.cc:555/mp4
-国🔊3评述,http://dd.rihou.cc:555/mp4
-08-03中超第19轮⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-19:00大连英博🆚青岛海牛,http://dd.rihou.cc:555/mp4
-粤🔊4旁述,http://dd.rihou.cc:555/mp4
-国🔊4评述,http://dd.rihou.cc:555/mp4
-19:35北京国安🆚天津门虎,http://dd.rihou.cc:555/mp4
-粤🔊5旁述,http://dd.rihou.cc:555/mp4
-国🔊5评述,http://dd.rihou.cc:555/mp4
-19:35武汉三镇🆚长春亚泰,http://dd.rihou.cc:555/mp4
-粤🔊6旁述,http://dd.rihou.cc:555/mp4
-国🔊6评述,http://dd.rihou.cc:555/mp4
-20:00深圳鹏城🆚浙江俱乐,http://dd.rihou.cc:555/mp4
-粤🔊7旁述,http://dd.rihou.cc:555/mp4
-国🔊7评述,http://dd.rihou.cc:555/mp4
-苏超粤评,#genre#
-08-02江苏联第8轮⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-19:30徐州队🆚扬州队,http://dd.rihou.cc:555/mp4
-19:30镇江队🆚南通队,http://dd.rihou.cc:555/mp4
-19:35淮安队🆚苏州队,http://dd.rihou.cc:555/mp4
-08-03江苏联第8轮⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
-19:00连云港🆚泰州队,http://dd.rihou.cc:555/mp4
-19:30宿迁队🆚无锡队,http://dd.rihou.cc:555/mp4
-19:30盐城队🆚常州队,http://dd.rihou.cc:555/mp4
+广电,#genre#
+CCTV1,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV2,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV3,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV4,http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV5,http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV5+,http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV6,http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV7,http://live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV8,http://live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV9,http://live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV10,http://live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV11,http://live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV12,http://live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV13,http://live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV14,http://live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV15,http://live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV16,http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV17,http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV4K,http://live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CETV1,http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CETV4,http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+安徽卫视,http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+北京卫视,http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+兵团卫视,http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+重庆卫视,http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+东方卫视,http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+东南卫视,http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+甘肃卫视,http://live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广东卫视,http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广西卫视,http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+贵州卫视,http://live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+海南卫视,http://live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+河南卫视,http://live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+湖南卫视,http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+吉林卫视,http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+江苏卫视,http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+江西卫视,http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+康巴卫视,http://live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+辽宁卫视,http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+山东卫视,http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+山西卫视,http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+陕西卫视,http://live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+深圳卫视,http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+天津卫视,http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+西藏卫视,http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+云南卫视,http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+浙江卫视,http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+黑龙江卫视,http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+内蒙古卫视,http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+山东教育卫视,http://live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+中央新影-老故事,http://live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+中央新影-中学生,http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+中央新影-发现之旅,http://live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CHC高清电影,http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CHC动作电影,http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+重温经典,http://live2.rxip.sc96655.com/live/CWJD_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川文化,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川经济,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川影视,http://live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川妇女,http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川科教,http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四川乡村,http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+峨嵋电影,http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都新闻,http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都经济,http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都都市,http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都影视,http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都公共,http://live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都购物,http://live2.rxip.sc96655.com/live/mrgw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+新视觉,http://live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+动漫秀场,http://live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+都市剧场,http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+法治天地,http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+纪实科教,http://live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+嘉佳卡通,http://live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+家庭理财,http://live2.rxip.sc96655.com/live/jtlc_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+财富天下,http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+金鹰纪实,http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+金鹰卡通,http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+劲爆体育,http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+卡酷少儿,http://live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+快乐垂钓,http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+梨园频道,http://live2.rxip.sc96655.com/live/ly_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+魅力足球,http://live2.rxip.sc96655.com/live/mlyy_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+生活时尚,http://live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+四海钓鱼,http://live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+天元围棋,http://live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+武术世界,http://live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+先锋乒羽,http://live2.rxip.sc96655.com/live/xfpy_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+证劵服务,http://live2.rxip.sc96655.com/live/jz_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+中国天气,http://live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+川网导视,http://live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+精品导视,http://live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+沙湾融媒,http://live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+安居综合,http://live2.rxip.sc96655.com/live/ajxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+安岳综合,http://live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+安州综合,http://live2.rxip.sc96655.com/live/azgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+巴中文旅,http://live2.rxip.sc96655.com/live/bzetH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+巴中综合,http://live2.rxip.sc96655.com/live/bzytH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+巴州电视,http://live2.rxip.sc96655.com/live/bzxw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+宝兴综合,http://live2.rxip.sc96655.com/live/bxdst_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+北川综合,http://live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+苍溪综合,http://live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+长宁综合,http://live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+朝天综合,http://live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+船山综合,http://live2.rxip.sc96655.com/live/csxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+达川新闻,http://live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+达州导视,http://live2.rxip.sc96655.com/live/dzds_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+达州公共,http://live2.rxip.sc96655.com/live/dzgg_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+达州新闻,http://live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+大英新闻,http://live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+丹棱综合,http://live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+东兴综合,http://live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+峨眉综合,http://live2.rxip.sc96655.com/live/emsxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+恩阳新闻,http://live2.rxip.sc96655.com/live/eyxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+涪城综合,http://live2.rxip.sc96655.com/live/fcgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+富顺综合,http://live2.rxip.sc96655.com/live/fszh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+甘孜综合,http://live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+古蔺新闻,http://live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广安公共,http://live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广安新闻,http://live2.rxip.sc96655.com/live/gaxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广汉综合,http://live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广元文化,http://live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广元综合,http://live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+汉源综合,http://live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+合江新闻,http://live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+洪雅新闻,http://live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+华蓥综合,http://live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+会理新闻,http://live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+夹江新闻,http://live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+简阳新闻,http://live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+剑阁综合,http://live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+江油综合,http://live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+开江新闻,http://live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+乐山公共,http://live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+乐山新闻,http://live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+利州综合,http://live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+凉山新闻,http://live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+凉山彝语,http://live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+龙泉综合,http://live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+隆昌综合,http://live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+芦山综合,http://live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+马边综合,http://live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+眉山综合,http://live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+米易综合,http://live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+绵阳科技,http://live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+绵阳新闻,http://live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+冕宁综合,http://live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+南部综合,http://live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+南充综合,http://live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+南溪综合,http://live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+内江公共,http://live2.rxip.sc96655.com/live/njgg_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+内江综合,http://live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+宁南综合,http://live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+攀钢新闻,http://live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+彭山综合,http://live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+彭州综合,http://live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+蓬安综合,http://live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+蓬溪新闻,http://live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+平昌综合,http://live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+平武综合,http://live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+屏山综合,http://live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+蒲江综合,http://live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+普格综合,http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+青川综合,http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+青神综合,http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+渠县新闻,http://live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+仁和新闻,http://live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+荣县综合,http://live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+射洪综合,http://live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+双流综合,http://live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+遂宁综合,http://live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+天全新闻,http://live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+通江综合,http://live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+旺苍新闻,http://live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+温江综合,http://live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+武胜综合,http://live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+西充综合,http://live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+新都综合,http://live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+叙州新闻,http://live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+宣汉综合,http://live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+雅安公共,http://live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+雅安新闻,http://live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+雅安雨城,http://live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+仪陇新闻,http://live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+宜宾公共,http://live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+宜宾新闻,http://live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+越西综合,http://live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+昭化综合,http://live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+中江新闻,http://live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+资阳新闻,http://live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+资中综合,http://live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+自贡文化,http://live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+自贡综合,http://live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+郫县新闻,http://live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+阆中综合,http://live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+沐川综合,http://live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+泸定综合,http://live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+泸县综合,http://live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+珙县新闻,http://live2.rxip.sc96655.com/live/gxzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+梓潼综合,http://live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+犍为新闻,http://live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+成都高新区,http://live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+阿坝州藏语,http://live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+大邑电视台,http://live2.rxip.sc96655.com/live/dyytH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+金口河综合,http://live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+攀枝花新闻,http://live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+青白江综合,http://live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+盐边电视台,http://live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+纳溪1,http://live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+盐亭1,http://live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+乐游,http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+崇州,http://live2.rxip.sc96655.com/live/czyt_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+德昌,http://live2.rxip.sc96655.com/live/dcxw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+峨边,http://live2.rxip.sc96655.com/live/ebdst_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+高县-1,http://live2.rxip.sc96655.com/live/gxt_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+江安,http://live2.rxip.sc96655.com/live/jat_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+金牛,http://live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+金堂,http://live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+邻水,http://live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+罗江,http://live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+绵竹,http://live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+名山,http://live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+木里,http://live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+南江,http://live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+前锋,http://live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+三台TV,http://live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+石棉,http://live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+松潘,http://live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+万源,http://live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+西昌,http://live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+喜德,http://live2.rxip.sc96655.com/live/xdxw_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+新津,http://live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+叙永,http://live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+雁江,http://live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+营山,http://live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+岳池,http://live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+荥经,http://live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+筠连,http://live2.rxip.sc96655.com/live/ylyt_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+都江堰,http://live2.rxip.sc96655.com/live/djyzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+广安区,http://live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+马尔康,http://live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+通川区,http://live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+五通桥,http://live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+兴文台,http://live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+阿坝州TV,http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+青羊电视,http://live2.rxip.sc96655.com/live/qyzh_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+欢笑剧场4K,http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV16-4k,http://live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+4K超电影 4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+凤中文,http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+凤资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CGTN-英语,http://live2.rxip.sc96655.com/live/CGTN_4000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CGTN-西语,http://live2.rxip.sc96655.com/live/xbyy_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CGTN-法语,http://live2.rxip.sc96655.com/live/fy_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CGTN-俄语,http://live2.rxip.sc96655.com/live/ey_2000.m3u8?E=1705228046&U=741795b2-076a-484d-9854-0bd6671db188&A=2&K=10&P=011&S=1cb136df7e1a114f30a35ec5721c5688
+CCTV-1 综合,http://live2.rxip.sc96655.com/live/CCTV-1H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-2 财经,http://live2.rxip.sc96655.com/live/CCTV-2H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-3 综艺,http://live2.rxip.sc96655.com/live/CCTV-3H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-4 中文国际,http://live2.rxip.sc96655.com/live/CCTV-4H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-5 体育,http://live2.rxip.sc96655.com/live/CCTV-5H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-5+ 体育赛事,http://live2.rxip.sc96655.com/live/CCTV-5plusH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-6 电影,http://live2.rxip.sc96655.com/live/CCTV-6H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-7 国防军事,http://live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-8 电视剧,http://live2.rxip.sc96655.com/live/CCTV-8H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-9 纪录,http://live2.rxip.sc96655.com/live/CCTV-9H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-10 科教,http://live2.rxip.sc96655.com/live/CCTV-10H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-11 戏曲,http://live2.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-12 社会与法,http://live2.rxip.sc96655.com/live/CCTV-12H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-13 新闻,http://live2.rxip.sc96655.com/live/CCTV-xw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-14 少儿,http://live2.rxip.sc96655.com/live/CCTV-14H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-15 音乐,http://live2.rxip.sc96655.com/live/CCTV-15-yyH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-16 奥林匹克,http://live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-16 奥林匹克 4K,http://live2.rxip.sc96655.com/live/CCTV-16-4K_8000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-17 农业农村,http://live2.rxip.sc96655.com/live/CCTV-17_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CCTV-4K 超高清,http://live2.rxip.sc96655.com/live/ys4Kcq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+4K超高清电影 4K,http://live2.rxip.sc96655.com/live/emdy4k_8000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+欢笑剧场4K,http://live2.rxip.sc96655.com/live/hxjc-4k_8000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+凤凰中文,http://live2.rxip.sc96655.com/live/test1_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+凤凰资讯,http://live2.rxip.sc96655.com/live/test2_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+安徽卫视,http://live2.rxip.sc96655.com/live/ahwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+北京卫视,http://live2.rxip.sc96655.com/live/bjwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+兵团卫视,http://live2.rxip.sc96655.com/live/btws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+重庆卫视,http://live2.rxip.sc96655.com/live/cqwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+东方卫视,http://live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+东南卫视,http://live2.rxip.sc96655.com/live/dnwsfjwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+甘肃卫视,http://live2.rxip.sc96655.com/live/gsws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广东卫视,http://live2.rxip.sc96655.com/live/gdwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广西卫视,http://live2.rxip.sc96655.com/live/gxws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+贵州卫视,http://live2.rxip.sc96655.com/live/gzwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+海南卫视,http://live2.rxip.sc96655.com/live/hnws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+河南卫视,http://live2.rxip.sc96655.com/live/hnws35_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+黑龙江卫视,http://live2.rxip.sc96655.com/live/hljwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+湖北卫视,http://live2.rxip.sc96655.com/live/hbwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+湖南卫视,http://live2.rxip.sc96655.com/live/hnwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+吉林卫视,http://live2.rxip.sc96655.com/live/jlwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+江苏卫视,http://live2.rxip.sc96655.com/live/jswsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+江西卫视,http://live2.rxip.sc96655.com/live/jxwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+康巴卫视,http://live2.rxip.sc96655.com/live/kbwsH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+辽宁卫视,http://live2.rxip.sc96655.com/live/lnwsHDH264_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+内蒙古卫视,http://live2.rxip.sc96655.com/live/nmgws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+山东教育卫视,http://live2.rxip.sc96655.com/live/sdjy_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+山东卫视,http://live2.rxip.sc96655.com/live/sdwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+山西卫视,http://live2.rxip.sc96655.com/live/sxws42_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+陕西卫视,http://live2.rxip.sc96655.com/live/sxws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+深圳卫视,http://live2.rxip.sc96655.com/live/szwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川卫视,http://live2.rxip.sc96655.com/live/scwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+天津卫视,http://live2.rxip.sc96655.com/live/tjwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+西藏卫视,http://live2.rxip.sc96655.com/live/xzwsH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+云南卫视,http://live2.rxip.sc96655.com/live/ynws_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+浙江卫视,http://live2.rxip.sc96655.com/live/zjwsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CETV-1,http://live2.rxip.sc96655.com/live/CETV-1H264_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CETV-4,http://live2.rxip.sc96655.com/live/CETV-4H264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CHC动作电影,http://live2.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CHC高清电影,http://live2.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+CHC家庭影院,http://live2.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+动漫秀场,http://live2.rxip.sc96655.com/live/yybb-dmxc-H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+都市剧场,http://live2.rxip.sc96655.com/live/yxfydsjcHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+法治天地,http://live2.rxip.sc96655.com/live/fztx_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+极速汽车,http://live2.rxip.sc96655.com/live/jsqcH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+纪实科教,http://live2.rxip.sc96655.com/live/bjjs_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+嘉佳卡通,http://live2.rxip.sc96655.com/live/jjkt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+家庭理财,http://live2.rxip.sc96655.com/live/jtlc_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+江苏财富天下,http://live2.rxip.sc96655.com/live/cftx_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+金鹰纪实,http://live2.rxip.sc96655.com/live/jyjsHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+金鹰卡通,http://live2.rxip.sc96655.com/live/jykt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+劲爆体育,http://live2.rxip.sc96655.com/live/lqhxjcHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+卡酷少儿,http://live2.rxip.sc96655.com/live/kkkt_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+快乐垂钓,http://live2.rxip.sc96655.com/live/fyzqklcdHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+乐游,http://live2.rxip.sc96655.com/live/qjs-HDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+梨园频道,http://live2.rxip.sc96655.com/live/ly_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+魅力足球,http://live2.rxip.sc96655.com/live/mlyy_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+七彩戏剧,http://live2.rxip.sc96655.com/live/qcxj_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+生活时尚,http://live2.rxip.sc96655.com/live/shssH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四海钓鱼,http://live2.rxip.sc96655.com/live/shdy_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+天元围棋,http://live2.rxip.sc96655.com/live/tywq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+武术世界,http://live2.rxip.sc96655.com/live/wssj_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+先锋乒羽,http://live2.rxip.sc96655.com/live/xfpy_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+新视觉,http://live2.rxip.sc96655.com/live/ycxsjH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+证劵服务,http://live2.rxip.sc96655.com/live/jz_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+中国天气,http://live2.rxip.sc96655.com/live/zgqx_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+中央新影-发现之旅,http://live2.rxip.sc96655.com/live/fxzl_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+中央新影-老故事,http://live2.rxip.sc96655.com/live/lgs_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川文化旅游,http://live2.rxip.sc96655.com/live/SCTV-2-H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川经济,http://live2.rxip.sc96655.com/live/SCTV-3-H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川新闻,http://live2.rxip.sc96655.com/live/SCTV-4H265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川影视文艺,http://live2.rxip.sc96655.com/live/SCTV-5-scysH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川妇女儿童,http://live2.rxip.sc96655.com/live/SCTV-7-_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川科教,http://live2.rxip.sc96655.com/live/SCTV-ggSCTV-8_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川乡村,http://live2.rxip.sc96655.com/live/SCTV-kjSCTV-9-_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+四川峨嵋电影,http://live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都新闻综合,http://live2.rxip.sc96655.com/live/CDTV-1_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都经济资讯,http://live2.rxip.sc96655.com/live/CDTV-2_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都都市生活,http://live2.rxip.sc96655.com/live/CDTV-3_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都影视文艺,http://live2.rxip.sc96655.com/live/CDTV-4_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都公共频道,http://live2.rxip.sc96655.com/live/CDTV-5_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都购物,http://live2.rxip.sc96655.com/live/mrgw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+川网导视,http://live2.rxip.sc96655.com/live/cwdsHDH264_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+精品导视,http://live2.rxip.sc96655.com/live/jpdsH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+沙湾融媒,http://live2.rxip.sc96655.com/live/swxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+安居综合,http://live2.rxip.sc96655.com/live/ajxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+安岳综合,http://live2.rxip.sc96655.com/live/ayxwzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+安州综合,http://live2.rxip.sc96655.com/live/azgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+巴中文旅,http://live2.rxip.sc96655.com/live/bzetH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+巴中综合,http://live2.rxip.sc96655.com/live/bzytH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+巴州电视,http://live2.rxip.sc96655.com/live/bzxw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+宝兴综合,http://live2.rxip.sc96655.com/live/bxdst_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+北川综合,http://live2.rxip.sc96655.com/live/bcxwHD_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+苍溪综合,http://live2.rxip.sc96655.com/live/cxxwgqH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+长宁综合,http://live2.rxip.sc96655.com/live/znzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+朝天综合,http://live2.rxip.sc96655.com/live/ctxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+船山综合,http://live2.rxip.sc96655.com/live/csxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+达川新闻,http://live2.rxip.sc96655.com/live/dcxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+达州导视,http://live2.rxip.sc96655.com/live/dzds_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+达州公共,http://live2.rxip.sc96655.com/live/dzgg_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+达州新闻,http://live2.rxip.sc96655.com/live/dzxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+大英新闻,http://live2.rxip.sc96655.com/live/dyxwzhH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+丹棱综合,http://live2.rxip.sc96655.com/live/dlxwzhH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+东兴综合,http://live2.rxip.sc96655.com/live/dxxwzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+峨眉综合,http://live2.rxip.sc96655.com/live/emsxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+恩阳新闻,http://live2.rxip.sc96655.com/live/eyxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+涪城综合,http://live2.rxip.sc96655.com/live/fcgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+富顺综合,http://live2.rxip.sc96655.com/live/fszh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+甘孜综合,http://live2.rxip.sc96655.com/live/gzxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+古蔺新闻,http://live2.rxip.sc96655.com/live/glxwzhgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广安公共,http://live2.rxip.sc96655.com/live/gagg_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广安新闻,http://live2.rxip.sc96655.com/live/gaxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广汉综合,http://live2.rxip.sc96655.com/live/ghxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广元文化,http://live2.rxip.sc96655.com/live/gyggH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广元综合,http://live2.rxip.sc96655.com/live/gyzhH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+汉源综合,http://live2.rxip.sc96655.com/live/hyxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+合江新闻,http://live2.rxip.sc96655.com/live/hjxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+洪雅新闻,http://live2.rxip.sc96655.com/live/hyzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+华蓥综合,http://live2.rxip.sc96655.com/live/hyxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+会理新闻,http://live2.rxip.sc96655.com/live/hlyt_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+夹江新闻,http://live2.rxip.sc96655.com/live/jjxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+简阳新闻,http://live2.rxip.sc96655.com/live/jyxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+剑阁综合,http://live2.rxip.sc96655.com/live/jgxwzhH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+江油综合,http://live2.rxip.sc96655.com/live/jyxwHD_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+开江新闻,http://live2.rxip.sc96655.com/live/kjxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+乐山公共,http://live2.rxip.sc96655.com/live/lsggpd_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+乐山新闻,http://live2.rxip.sc96655.com/live/lsxwzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+利州综合,http://live2.rxip.sc96655.com/live/lzxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+凉山新闻,http://live2.rxip.sc96655.com/live/lsxwHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+凉山彝语,http://live2.rxip.sc96655.com/live/yyzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+龙泉综合,http://live2.rxip.sc96655.com/live/lqxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+隆昌综合,http://live2.rxip.sc96655.com/live/lcxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+芦山综合,http://live2.rxip.sc96655.com/live/lszh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+马边综合,http://live2.rxip.sc96655.com/live/mbxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+眉山综合,http://live2.rxip.sc96655.com/live/msxwzhgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+米易综合,http://live2.rxip.sc96655.com/live/myxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+绵阳科技,http://live2.rxip.sc96655.com/live/myetH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+绵阳新闻,http://live2.rxip.sc96655.com/live/myytH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+冕宁综合,http://live2.rxip.sc96655.com/live/mnxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+南部综合,http://live2.rxip.sc96655.com/live/nbxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+南充综合,http://live2.rxip.sc96655.com/live/ncxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+南溪综合,http://live2.rxip.sc96655.com/live/nxt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+内江公共,http://live2.rxip.sc96655.com/live/njgg_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+内江综合,http://live2.rxip.sc96655.com/live/njzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+宁南综合,http://live2.rxip.sc96655.com/live/nnt_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+攀钢新闻,http://live2.rxip.sc96655.com/live/pgxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+彭山综合,http://live2.rxip.sc96655.com/live/pszh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+彭州综合,http://live2.rxip.sc96655.com/live/pzxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+蓬安综合,http://live2.rxip.sc96655.com/live/pazh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+蓬溪新闻,http://live2.rxip.sc96655.com/live/pxxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+平昌综合,http://live2.rxip.sc96655.com/live/pcxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+平武综合,http://live2.rxip.sc96655.com/live/pwgq_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+屏山综合,http://live2.rxip.sc96655.com/live/psxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+蒲江综合,http://live2.rxip.sc96655.com/live/pjxw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+普格综合,http://live2.rxip.sc96655.com/live/pgt_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+青川综合,http://live2.rxip.sc96655.com/live/qcxwzhH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+青神综合,http://live2.rxip.sc96655.com/live/qszh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+渠县新闻,http://live2.rxip.sc96655.com/live/qxxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+仁和新闻,http://live2.rxip.sc96655.com/live/rhxwH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+荣县综合,http://live2.rxip.sc96655.com/live/rxzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+射洪综合,http://live2.rxip.sc96655.com/live/shzhH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+双流综合,http://live2.rxip.sc96655.com/live/slgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+遂宁综合,http://live2.rxip.sc96655.com/live/snxwzhHDH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+天全新闻,http://live2.rxip.sc96655.com/live/tqzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+通江综合,http://live2.rxip.sc96655.com/live/tjxwH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+旺苍新闻,http://live2.rxip.sc96655.com/live/wcxwzhH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+温江综合,http://live2.rxip.sc96655.com/live/wjytH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+武胜综合,http://live2.rxip.sc96655.com/live/wsxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+西充综合,http://live2.rxip.sc96655.com/live/xczh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+新都综合,http://live2.rxip.sc96655.com/live/xdzhpd_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+叙州新闻,http://live2.rxip.sc96655.com/live/ybx_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+宣汉综合,http://live2.rxip.sc96655.com/live/xhxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+雅安公共,http://live2.rxip.sc96655.com/live/yagg_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+雅安新闻,http://live2.rxip.sc96655.com/live/yazh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+雅安雨城,http://live2.rxip.sc96655.com/live/ycpd_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+仪陇新闻,http://live2.rxip.sc96655.com/live/ylxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+宜宾公共,http://live2.rxip.sc96655.com/live/ybetH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+宜宾新闻,http://live2.rxip.sc96655.com/live/ybytH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+越西综合,http://live2.rxip.sc96655.com/live/yxt_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+昭化综合,http://live2.rxip.sc96655.com/live/zhxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+中江新闻,http://live2.rxip.sc96655.com/live/zjxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+资阳新闻,http://live2.rxip.sc96655.com/live/zyxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+资中综合,http://live2.rxip.sc96655.com/live/zzzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+自贡文化,http://live2.rxip.sc96655.com/live/zggg_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+自贡综合,http://live2.rxip.sc96655.com/live/zgxw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+郫县新闻,http://live2.rxip.sc96655.com/live/pxds1_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+阆中综合,http://live2.rxip.sc96655.com/live/lzxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+沐川综合,http://live2.rxip.sc96655.com/live/mcxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+泸定综合,http://live2.rxip.sc96655.com/live/ldxw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+泸县综合,http://live2.rxip.sc96655.com/live/lxxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+珙县新闻,http://live2.rxip.sc96655.com/live/gxzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+梓潼综合,http://live2.rxip.sc96655.com/live/ztgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+犍为新闻,http://live2.rxip.sc96655.com/live/qwxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+成都高新区,http://live2.rxip.sc96655.com/live/cdgxdstgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+阿坝州藏语,http://live2.rxip.sc96655.com/live/wypdgqH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+大邑电视台,http://live2.rxip.sc96655.com/live/dyytH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+金口河综合,http://live2.rxip.sc96655.com/live/jkhdst_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+攀枝花新闻,http://live2.rxip.sc96655.com/live/pzhytH265_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+青白江综合,http://live2.rxip.sc96655.com/live/qbjxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+盐边电视台,http://live2.rxip.sc96655.com/live/ybtgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+纳溪1,http://live2.rxip.sc96655.com/live/nxxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+盐亭1,http://live2.rxip.sc96655.com/live/ytzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+崇州,http://live2.rxip.sc96655.com/live/czyt_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+德昌,http://live2.rxip.sc96655.com/live/dcxw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+峨边,http://live2.rxip.sc96655.com/live/ebdst_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+高县-1,http://live2.rxip.sc96655.com/live/gxt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+江安,http://live2.rxip.sc96655.com/live/jat_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+金牛,http://live2.rxip.sc96655.com/live/jnyx_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+金堂,http://live2.rxip.sc96655.com/live/jtzhpd_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+邻水,http://live2.rxip.sc96655.com/live/lsxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+罗江,http://live2.rxip.sc96655.com/live/ljxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+绵竹,http://live2.rxip.sc96655.com/live/mzxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+名山,http://live2.rxip.sc96655.com/live/msdstH265_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+木里,http://live2.rxip.sc96655.com/live/mltHD_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+南江,http://live2.rxip.sc96655.com/live/njxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+前锋,http://live2.rxip.sc96655.com/live/qfxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+三台TV,http://live2.rxip.sc96655.com/live/stxwHD_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+石棉,http://live2.rxip.sc96655.com/live/smxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+松潘,http://live2.rxip.sc96655.com/live/spxwzhpdH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+万源,http://live2.rxip.sc96655.com/live/wyxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+西昌,http://live2.rxip.sc96655.com/live/xctHD_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+喜德,http://live2.rxip.sc96655.com/live/xdxw_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+新津,http://live2.rxip.sc96655.com/live/xjzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+叙永,http://live2.rxip.sc96655.com/live/xyxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+雁江,http://live2.rxip.sc96655.com/live/yjxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+乐至,http://live2.rxip.sc96655.com/live/lezhixwzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+营山,http://live2.rxip.sc96655.com/live/ysxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+岳池,http://live2.rxip.sc96655.com/live/ycxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+荥经,http://live2.rxip.sc96655.com/live/xjdst_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+筠连,http://live2.rxip.sc96655.com/live/ylyt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+都江堰,http://live2.rxip.sc96655.com/live/djyzh_4000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+广安区,http://live2.rxip.sc96655.com/live/gaqxw_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+马尔康,http://live2.rxip.sc96655.com/live/mekxwzhpd_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+通川区,http://live2.rxip.sc96655.com/live/xcxwzhH264_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+五通桥,http://live2.rxip.sc96655.com/live/wtqxwzh_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+兴文台,http://live2.rxip.sc96655.com/live/xwt_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+阿坝州TV,http://live2.rxip.sc96655.com/live/abxwzhpdgq_2000.m3u8?E=1705159521&U=8ef008e8-6af1-4126-88d6-ab2793cb12da&A=1&K=9&P=011&S=
+猫TV影视,#genre#
+抖舞陪看,http://lxajh.top/tv/douyu.php?id=11531165
+白嫖软件,http://fmbox.cc/huya.php?id=11336587
+免费观看,http://lxajh.top/tv/douyu.php?id=1226741
+大街网源,http://lxajh.top/tv/douyu.php?id=8912325
+互相搬助,http://yemingjkl.x3322.net:35455/yy/1354926637
+能看就行,http://lxajh.top/tv/douyu.php?id=7919720
+分享更新,http://lxajh.top/tv/douyu.php?id=11878141
+爱扒随便,http://lxajh.top/tv/douyu.php?id=2940299
+不必纠结,http://lxajh.top/tv/douyu.php?id=8764282
 赛事咪咕,#genre#
 抖姐舞陪你看,http://lxajh.top/tv/douyu.php?id=11531165
 赛事睛彩竞技,http://124.235.225.122:2284/itv/3000000020000011528.m3u8?cdn=FifastbLive
@@ -1217,6 +1688,8 @@ Plus综合频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 pₒₚc电影频道,https://fr-us7.jdiptv.cc/live/popc.m3u8
 pₒₚc电影频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogepopc.flv
 pₒₚc电影频道,http://tl.061833.xyz/tl/popc
+Now爆谷频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/vhNli7a2uwqrSArlhBpDjs0wLosrFVLkMnb9OJ2Hzj14qlP0TO.flv
+Now星影频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yU8AAUm9MpL5qwiSyewAkms5LtKjQp9G9LEk5mnLosrF1EgdRk.flv
 中天新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 有线新闻频道,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 有线新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
@@ -1365,7 +1838,31 @@ ELta娱乐频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 定风波第33集
 定风波第34集
 定风波第35集
-定风波第36集
+定风波第36
+⬇️暗潮缉凶⬇️,http://dd.rihou.cc:555/mp4
+暗潮缉凶01集,https://vip.dytt-cinema.com/20250731/28753_83c706bc/index.m3u8
+暗潮缉凶02集,https://vip.dytt-cinema.com/20250731/28754_fe53ff5f/index.m3u8
+暗潮缉凶03集,https://vip.dytt-cinema.com/20250731/28755_86c26c7e/index.m3u8
+暗潮缉凶04集,https://vip.dytt-cinema.com/20250731/28756_04851785/index.m3u8
+暗潮缉凶05集
+暗潮缉凶06集
+暗潮缉凶07集
+暗潮缉凶08集
+暗潮缉凶09集
+暗潮缉凶10集
+暗潮缉凶11集
+暗潮缉凶12集
+暗潮缉凶13集
+暗潮缉凶14集
+暗潮缉凶15集
+暗潮缉凶16集
+暗潮缉凶17集
+暗潮缉凶18集
+⬇️华山论剑之东邪西毒⬇️,http://dd.rihou.cc:555/mp4
+东邪西毒01集,https://vip.dytt-cinema.com/20250731/28751_7b061988/index.m3u8
+东邪西毒02集,https://vip.dytt-cinema.com/20250731/28752_57b9c682/index.m3u8
+东邪西毒03集,https://vip.dytt-cinema.com/20250731/28795_e02721e8/index.m3u8
+东邪西毒04集,https://vip.dytt-cinema.com/20250731/28796_e082709f/index.m3u8
 ⬇️利剑玫瑰⬇️,http://dd.rihou.cc:555/mp4
 利剑玫瑰01集,https://vip.dytt-cinema.com/20250728/28426_53e97b1c/index.m3u8
 利剑玫瑰02集,https://vip.dytt-cinema.com/20250728/28427_07614251/index.m3u8
@@ -1375,8 +1872,8 @@ ELta娱乐频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 利剑玫瑰06集,https://vip.dytt-cinema.com/20250729/28549_254b0024/index.m3u8
 利剑玫瑰07集,https://vip.dytt-cinema.com/20250730/28647_4825f2b2/index.m3u8
 利剑玫瑰08集,https://vip.dytt-cinema.com/20250730/28648_b5f73d2f/index.m3u8
-利剑玫瑰09集
-利剑玫瑰10集
+利剑玫瑰09集,https://vip.dytt-cinema.com/20250731/28787_476650d6/index.m3u8
+利剑玫瑰10集,https://vip.dytt-cinema.com/20250731/28788_33a7dc86/index.m3u8
 利剑玫瑰11集
 利剑玫瑰12集
 利剑玫瑰13集
@@ -1410,7 +1907,7 @@ ELta娱乐频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 凡人修仙传08,https://vip.dytt-cinema.com/20250729/28499_06f59493/index.m3u8
 凡人修仙传09,https://vip.dytt-cinema.com/20250730/28619_81e2631c/index.m3u8
 凡人修仙传10,https://vip.dytt-cinema.com/20250730/28627_b67d084d/index.m3u8
-凡人修仙传11
+凡人修仙传11,https://vip.dytt-cinema.com/20250731/28735_f9dd94e7/index.m3u8
 凡人修仙传12
 凡人修仙传13
 凡人修仙传14
@@ -1449,8 +1946,8 @@ ELta娱乐频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 明媒善娶16集,https://vip.dytt-cinema.com/20250729/28547_6abdec26/index.m3u8
 明媒善娶17集,https://vip.dytt-cinema.com/20250730/28640_a12848ae/index.m3u8
 明媒善娶18集,https://vip.dytt-cinema.com/20250730/28641_1e5afae2/index.m3u8
-明媒善娶19集
-明媒善娶20集
+明媒善娶19集,https://vip.dytt-cinema.com/20250731/28762_9f3a4ff8/index.m3u8
+明媒善娶20集,https://vip.dytt-cinema.com/20250731/28762_9f3a4ff8/index.m3u8
 明媒善娶21集
 明媒善娶22集
 明媒善娶23集
@@ -1475,8 +1972,8 @@ ELta娱乐频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 深情眼第17集,https://vip.dytt-cinema.com/20250729/28552_d741ff8c/index.m3u8
 深情眼第18集,https://vip.dytt-cinema.com/20250730/28652_c98cf9a1/index.m3u8
 深情眼第19集,https://vip.dytt-cinema.com/20250730/28669_2210bc8c/index.m3u8
-深情眼第20集
-深情眼第21集
+深情眼第20集,https://vip.dytt-cinema.com/20250731/28792_6431422b/index.m3u8
+深情眼第21集,https://vip.dytt-cinema.com/20250731/28793_0107acb4/index.m3u8
 深情眼第22集
 深情眼第23集
 深情眼第24集
@@ -1504,8 +2001,6 @@ ELta娱乐频道,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
 浴血荣光19集,https://vip.dytt-cinema.com/20250729/28562_cdd7da5c/index.m3u8
 浴血荣光20集,https://vip.dytt-cinema.com/20250730/28667_1ff6e4e2/index.m3u8
 浴血荣光21集,https://vip.dytt-cinema.com/20250730/28668_2ef13886/index.m3u8
-浴血荣光22集
-浴血荣光23集
 浴血荣光24集
 浴血荣光25集
 浴血荣光26集
@@ -1660,151 +2155,6 @@ TNT_体2AKtv,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
 TNT_体3AKtv,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
 Sky体-F1AKtv,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 animax漫AKtv,http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-闽南4Gtv,#genre#
-中天新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv009
-寰宇新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn14
-东森新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv152
-tvbs新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv072
-三立新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live089
-三立新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=iNEWS
-非凡新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv010
-闽镜新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv075
-民视新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv13
-中视新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv074
-华视新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv052
-台视新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv051
-民视闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv002
-民视闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv155
-中视闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv040
-华视闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv041
-台视闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv066
-寰宇闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv156
-tvbs闽南4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv073
-民视台湾4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv001
-民视第一4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv003
-民视旅游4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv07
-民视影剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv09
-民视综艺4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv004
-中视菁采4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv064
-中视经典4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv080
-台视财经4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv056
-公视戏剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv042
-闽南戏剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn22
-国际财经4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv104
-全球财经4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live060
-东森财经4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv153
-寰宇财经4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv158
-cnbc财经4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live130
-tvbs精采4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv067
-tvbs欢乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv068
-tvbs综艺4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live087
-tvbs台剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live088
-八大精彩4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv034
-八大综艺4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv039
-三立综合4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live207
-爱达娱乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv070
-靖洋戏剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv045
-靖洋卡通4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv057
-靖天卡通4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv044
-靖天综合4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv046
-靖天日本4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv047
-靖天欢乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv054
-靖天映画4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv055
-靖天戏剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv058
-靖天电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv061
-靖天育乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv062
-靖天国际4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv063
-靖天资讯4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv065
-龙华卡通4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn01
-龙华日韩4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn11
-龙华偶像4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn12
-龙华电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn03
-龙华洋片4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn02
-龙华戏剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn18
-龙华经典4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn21
-国会频壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv084
-国会频贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv085
-好消息壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv16
-好消息贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv17
-大爱壹高4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live007
-大爱贰高4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live106
-人间卫视4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live008
-原住民族4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live014
-唐人亚太4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live050
-智林体育4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv101
-博斯魅力4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn04
-博斯网球4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn09
-博高球壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn05
-博高球贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn06
-博运动壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn07
-博运动贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn08
-博无限壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn10
-博无限贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn13
-阿里郎台4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv079
-滚动人生4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live012
-达文西台4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv018
-猪哥亮厅4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv006
-亚洲旅游4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv076
-ELta旅游4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live120
-美国之音4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv03
-半岛新闻4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv10
-非凡商业4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv048
-第壹商业4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv109
-影迷纪实4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-ftv15
-经典电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live021
-经典卡通4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live022
-精选动漫4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live024
-戏剧壹台4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live010
-古典音乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv059
-客家电视4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv043
-华仁纪实4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv013
-时尚运动4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv014
-空间居家4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live206
-生活英语4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn20
-互动英语4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live030
-采昌影剧4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv049
-数位电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv011
-欧洲电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live157
-Amc电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv017
-CINEMA-4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live069
-TRA体育4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv077
-车迷体育4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live201
-SMArt台4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=litv-longturn19
-罪案侦查4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live027
-霹雳布袋4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live145
-金光布袋4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live144
-nick动漫4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live032
-nick少儿4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live105
-MO-亲子4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live107
-DreamW4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live017
-LUXE-TV4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live121
-rock娱乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live080
-rock电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live138
-HItS电影4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live620
-magellan4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live123
-INULTRa4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live096
-LifeTime4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live029
-电影原声4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live031
-MTVLive4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live025
-PETClUB4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live110
-FUN娱乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live011
-韩国娱乐4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv016
-GLOBAL4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live112
-TV5mon4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live122
-TRACEU4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv082
-BLoomb4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live059
-FRANCE4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live146
-MEZZOl4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv083
-GINX_TV4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv053
-DW-之声4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live071
-历史频道4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live026
-国家地理4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live208
-东森购壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live047
-东森购壹4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv102
-东森购贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live046
-东森购贰4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-4gtv103
-东森购叁4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live048
-东森购五4Gtv,https://iptvcdn.pendy.dpdns.org/judy.php?id=4gtv-live049
 央卫高码,#genre#
 CCTV-01高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV-02高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
@@ -2141,109 +2491,6 @@ TLC-旅游频临,http://t.061899.xyz/tl/js/tw.php?id=tlchdlypd
 JET-综合频临,http://t.061899.xyz/tl/js/tw.php?id=jetzht
 Discover频临,http://t.061899.xyz/tl/js/tw.php?id=discoveryhd
 Cinema_频临,http://t.061899.xyz/tl/js/tw.php?id=cinemaworldhd
-特区网页,#genre#
-Plus综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-25-0.html
-凤凰中文网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-4-0.html
-凤凰资讯网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-5-0.html
-凤凰香港网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-3-0.html
-有线新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
-有线新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
-无线新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-30-0.html
-Now新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-18-0.html
-无线翡翠网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-0-0.html
-无线华丽网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-1-0.html
-无线明珠网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-12-0.html
-无线娱乐网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-34-0.html
-有线综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-14-0.html
-有线赛讯网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-15-0.html
-有线赛马网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-35-0.html
-Now财经网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-17-0.html
-VIUTV-粤网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-10-0.html
-VIUTV-英网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-26-0.html
-RTHK-31网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-8-0.html
-美亚电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-11-0.html
-闽南网页,#genre#
-中天新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
-寰宇新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-35-0.html
-东森新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-21-0.html
-tvbs新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-167-0.html
-年代新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-43-0.html
-非凡新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-131-0.html
-闽镜新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-148-0.html
-民视新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-161-0.html
-华视新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-141-0.html
-台视新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-83-0.html
-公视闽南网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-139-0.html
-民视闽南网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-117-0.html
-中视闽南网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-118-0.html
-华视闽南网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-111-0.html
-台视闽南网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-113-0.html
-tvbs闽南网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-164-0.html
-民视第一网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-96-0.html
-民视旅游网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-112-0.html
-民视综艺网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-114-0.html
-中视经典网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-166-0.html
-中视精采网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-165-0.html
-中天综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-132-0.html
-中天亚州网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-129-0.html
-台视财经网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-140-0.html
-东森财经网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-168-0.html
-三立综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-143-0.html
-三立台湾网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-145-0.html
-八大第一网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-36-0.html
-八大综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-47-0.html
-八大精彩网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-8-0.html
-龙华偶像网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-103-0.html
-龙华日韩网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-104-0.html
-龙华卡通网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-102-0.html
-龙华经典网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-101-0.html
-纬来育乐网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-171-0.html
-东森超视网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-25-0.html
-MO_综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-53-0.html
-闽南戏剧网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-149-0.html
-非凡商业网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-60-0.html
-靖天综合网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-94-0.html
-靖天日本网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-90-0.html
-靖天国际网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-87-0.html
-靖天育乐网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-93-0.html
-靖天戏剧网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-91-0.html
-靖天欢乐网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-88-0.html
-靖天电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-86-0.html
-靖天资讯网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-95-0.html
-靖洋卡通网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-97-0.html
-靖洋戏剧网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-98-0.html
-闽南'Plus网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-135-0.html
-ELta体壹网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-155-0.html
-ELta体贰网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-28-0.html
-ELta体肆网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-50-0.html
-DNZA-壹网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-153-0.html
-DNZA-贰网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-152-0.html
-好莱电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-38-0.html
-Amc电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-1-0.html
-FgM电影网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-159-0.html
-影迷纪实网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-160-0.html
-采昌影剧网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-21-0.html
-国会频壹网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-64-0.html
-国会频贰网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-65-0.html
-好消息壹网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-66-0.html
-好消息贰网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-67-0.html
-Smart-综网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-133-0.html
-客家电视网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-72-0.html
-韩国娱乐网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-77-0.html
-阿里郎频网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-3-0.html
-生活英语网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-57-0.html
-时尚运动网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-134-0.html
-追踪体育网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-137-0.html
-追踪城市网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-138-0.html
-达芬奇综网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-27-0.html
-博斯高球贰页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-14-0.html
-博斯无限壹页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-17-0.html
-博斯无限贰页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-18-0.html
-博斯运动壹页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-19-0.html
-博斯运动贰页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-20-0.html
-智林体育网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-163-0.html
-亚洲旅游网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-162-0.html
-cNN新闻网页,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-3-78-0.html
 荔枝网页,#genre#
 广东卫视4k页,video://https://www.gdtv.cn/tvChannelDetail/110
 广东4k超网页,video://https://www.gdtv.cn/tvChannelDetail/16
@@ -2459,144 +2706,6 @@ JJ斗地主网页,video://https://www.huya.com/14079954
 电视剧九网页,video://https://www.huya.com/21059594
 电视剧十网页,video://https://www.huya.com/11336592
 电视剧十一页,video://https://www.huya.com/11602088
-央卫频斯,#genre#
-CCTV-01频斯,http://free.cnlive.club/channel/47cdbb52.m3u8
-CCTV-02频斯,http://free.cnlive.club/channel/47d01112.m3u8
-CCTV-03频斯,http://free.cnlive.club/channel/47ced282.m3u8
-CCTV-04频斯,http://free.cnlive.club/channel/7a879c85.m3u8
-CCTV-05频斯,http://free.cnlive.club/channel/47c9f401.m3u8
-CCTV 5+频斯,http://free.cnlive.club/channel/n374503fe.m3u8
-CCTV-06频斯,http://free.cnlive.club/channel/47cedd7d.m3u8
-CCTV-07频斯,http://free.cnlive.club/channel/n7ba2911b.m3u8
-CCTV-08频斯,http://free.cnlive.club/channel/n4dd18c29.m3u8
-CCTV-09频斯,http://free.cnlive.club/channel/47d2f363.m3u8
-CCTV-10频斯,http://free.cnlive.club/channel/n4fe64a4e.m3u8
-CCTV-11频斯,http://free.cnlive.club/channel/n4fe8b4d4.m3u8
-CCTV-12频斯,http://free.cnlive.club/channel/13604deb.m3u8
-CCTV-13频斯,http://free.cnlive.club/channel/n4fe72c8e.m3u8
-CCTV-14频斯,http://free.cnlive.club/channel/n4fe8272c.m3u8
-CCTV-15频斯,http://free.cnlive.club/channel/n4fe0755e.m3u8
-CCTV-17频斯,http://free.cnlive.club/channel/9e11396.m3u8
-北京卫视频斯,http://free.cnlive.club/channel/5dcc0104.m3u8
-东方卫视频斯,http://free.cnlive.club/channel/5bdef3ac.m3u8
-浙江卫视频斯,http://free.cnlive.club/channel/6a2b2475.m3u8
-江苏卫视频斯,http://free.cnlive.club/channel/6a0dba1f.m3u8
-湖南卫视频斯,http://free.cnlive.club/channel/6a402f50.m3u8
-深圳卫视频斯,http://free.cnlive.club/channel/6a20c2b1.m3u8
-广东卫视频斯,http://free.cnlive.club/channel/62f9400c.m3u8
-湖北卫视频斯,http://free.cnlive.club/channel/6a3f3f10.m3u8
-四川卫视频斯,http://free.cnlive.club/channel/5fbb3db1.m3u8
-广西卫视频斯,http://free.cnlive.club/channel/63d82eaf.m3u8
-东南卫视频斯,http://free.cnlive.club/channel/5b99f1ca.m3u8
-湾区卫视频斯,http://free.cnlive.club/channel/n406d2eb6.m3u8
-广东珠江频斯,http://free.cnlive.club/channel/n7017ab43.m3u8
-特区频斯,#genre#
-Plus综合频斯,http://free.cnlive.club/channel/6429ae4c.m3u8
-凤凰卫视频斯,http://free.cnlive.club/channel/n496e6eec.m3u8
-凤凰资讯频斯,http://free.cnlive.club/channel/n4966a4fb.m3u8
-凤凰香港频斯,http://free.cnlive.club/channel/n49654430.m3u8
-中天新闻频斯,http://free.cnlive.club/channel/41d8a09d.m3u8
-有线新闻频斯,http://free.cnlive.club/channel/7289243e.m3u8
-无线新闻频斯,http://free.cnlive.club/channel/n3fad9608.m3u8
-无线翡翠频斯,http://free.cnlive.club/channel/n7549189d.m3u8
-无线华丽频斯,http://free.cnlive.club/channel/n177a7044.m3u8
-无线明珠频斯,http://free.cnlive.club/channel/n75ab7db0.m3u8
-无线娱乐频斯,http://free.cnlive.club/channel/nac85e88.m3u8
-千禧经典频斯,http://free.cnlive.club/channel/n1ab8717e.m3u8
-VIUTV'粤频斯,http://free.cnlive.club/channel/78204936.m3u8
-VIUTV'英频斯,http://free.cnlive.club/channel/necd2834.m3u8
-RTHK-31频斯,http://free.cnlive.club/channel/n8badbb5.m3u8
-RTHK-32频斯,http://free.cnlive.club/channel/n8badbb4.m3u8
-美亚电影频斯,http://free.cnlive.club/channel/5824ef5e.m3u8
-天映频道频斯,http://free.cnlive.club/channel/n7e466c41.m3u8
-天映频道频斯,http://free.cnlive.club/channel/5150b0a1.m3u8
-天映经典频斯,http://free.cnlive.club/channel/n7e49c99a.m3u8
-龙华电影频斯,http://free.cnlive.club/channel/66c77727.m3u8
-龙祥电影频斯,http://free.cnlive.club/channel/67548a4f.m3u8
-纬来电影频斯,http://free.cnlive.club/channel/581b458b.m3u8
-Astr爱奇频斯,http://free.cnlive.club/channel/n367ccbbb.m3u8
-AstrQJ国频斯,http://free.cnlive.club/channel/n2d0f5476.m3u8
-astroaod频斯,http://free.cnlive.club/channel/fa50a06.m3u8
-Astroaec频斯,http://free.cnlive.club/channel/36f451f2.m3u8
-Astr欢喜频斯,http://free.cnlive.club/channel/n129801d1.m3u8
-闽南频斯,#genre#
-寰宇新闻频斯,http://free.cnlive.club/channel/n43c34be8.m3u8
-东森新闻频斯,http://free.cnlive.club/channel/n88aa83.m3u8
-tvbs新闻频斯,http://free.cnlive.club/channel/n69ccce92.m3u8
-年代新闻频斯,http://free.cnlive.club/channel/49184630.m3u8
-非凡新闻频斯,http://free.cnlive.club/channel/6302a884.m3u8
-民视新闻频斯,http://free.cnlive.club/channel/n4b747ee6.m3u8
-中视新闻频斯,http://free.cnlive.club/channel/428f1dfa.m3u8
-台视新闻频斯,http://free.cnlive.club/channel/452d9d57.m3u8
-公视闽南频斯,http://free.cnlive.club/channel/3b838b0c.m3u8
-民视闽南频斯,http://free.cnlive.club/channel/n4d0434cf.m3u8
-中视闽南频斯,http://free.cnlive.club/channel/dc53f4d.m3u8
-华视闽南频斯,http://free.cnlive.club/channel/560bcbee.m3u8
-台视闽南频斯,http://free.cnlive.club/channel/5ef6ab90.m3u8
-tvbs闽南频斯,http://free.cnlive.club/channel/154f9d73.m3u8
-tvbs欢乐频斯,http://free.cnlive.club/channel/n69c10b55.m3u8
-民视台湾频斯,http://free.cnlive.club/channel/n4bbbe8c9.m3u8
-中视经典频斯,http://free.cnlive.club/channel/4291e438.m3u8
-公视台语频斯,http://free.cnlive.club/channel/3ccf6783.m3u8
-台视综合频斯,http://free.cnlive.club/channel/45306b98.m3u8
-中天娱乐频斯,http://free.cnlive.club/channel/41d6f491.m3u8
-中天综合频斯,http://free.cnlive.club/channel/41db6ede.m3u8
-中天亚洲频斯,http://free.cnlive.club/channel/41d5ac2a.m3u8
-八大第一频斯,http://free.cnlive.club/channel/2733018a.m3u8
-八大综合频斯,http://free.cnlive.club/channel/27420c52.m3u8
-八大戏剧频斯,http://free.cnlive.club/channel/26d54426.m3u8
-八大娱乐频斯,http://free.cnlive.club/channel/26b73cff.m3u8
-东森综合频斯,http://free.cnlive.club/channel/n31b0a4.m3u8
-东森戏剧频斯,http://free.cnlive.club/channel/n9e78d0.m3u8
-东森洋片频斯,http://free.cnlive.club/channel/n7160b4.m3u8
-东森电影频斯,http://free.cnlive.club/channel/n5502f4.m3u8
-东森幼幼频斯,http://free.cnlive.club/channel/naa6d18.m3u8
-东森超视频斯,http://free.cnlive.club/channel/4210df69.m3u8
-东森财经频斯,http://free.cnlive.club/channel/209f9e70.m3u8
-寰宇财经频斯,http://free.cnlive.club/channel/n4332074a.m3u8
-华艺综合频斯,http://free.cnlive.club/channel/5af2eef0.m3u8
-AXN电影频斯,http://free.cnlive.club/channel/n4e27c899.m3u8
-CInemax频斯,http://free.cnlive.club/channel/7c7a1311.m3u8
-HBo高清频斯,http://free.cnlive.club/channel/2d329e1c.m3u8
-HBo家庭频斯,http://free.cnlive.club/channel/n54fc5ba0.m3u8
-好莱电影频斯,http://free.cnlive.club/channel/n2db95de5.m3u8
-龙华经典频斯,http://free.cnlive.club/channel/66c892d4.m3u8
-龙华戏剧频斯,http://free.cnlive.club/channel/66c51883.m3u8
-龙华偶像频斯,http://free.cnlive.club/channel/66c2f564.m3u8
-龙华洋片频斯,http://free.cnlive.club/channel/66c68ce7.m3u8
-纬来日本频斯,http://free.cnlive.club/channel/58197296.m3u8
-纬来体育频斯,http://free.cnlive.club/channel/5816d06e.m3u8
-纬来综合频斯,http://free.cnlive.club/channel/581c693b.m3u8
-纬来育乐频斯,http://free.cnlive.club/channel/581c988d.m3u8
-纬来精彩频斯,http://free.cnlive.club/channel/581c2f1a.m3u8
-靖天国际频斯,http://free.cnlive.club/channel/63189371.m3u8
-靖天卡通频斯,http://free.cnlive.club/channel/63181d62.m3u8
-大爱壹台频斯,http://free.cnlive.club/channel/46f9ba85.m3u8
-大爱贰台频斯,http://free.cnlive.club/channel/46f0bf6e.m3u8
-好消息贰频斯,http://free.cnlive.club/channel/n5e3decc0.m3u8
-三立闽南频斯,http://free.cnlive.club/channel/642f20a.m3u8
-三立戏剧频斯,http://free.cnlive.club/channel/6748da0.m3u8
-三立综合频斯,http://free.cnlive.club/channel/6e155cc.m3u8
-三立都会频斯,http://free.cnlive.club/channel/72452bb.m3u8
-ELta影剧频斯,http://free.cnlive.club/channel/n2109392b.m3u8
-ELta综合频斯,http://free.cnlive.club/channel/n20929de1.m3u8
-ELTA体1频斯,http://free.cnlive.club/channel/n6cd87fd.m3u8
-ELTA体2频斯,http://free.cnlive.club/channel/n6cd87de.m3u8
-ELTA体3频斯,http://free.cnlive.club/channel/n6cd87bf.m3u8
-博斯无限频斯,http://free.cnlive.club/channel/47dd89d5.m3u8
-博斯网球频斯,http://free.cnlive.club/channel/4838e3b3.m3u8
-博斯运动壹斯,http://free.cnlive.club/channel/n3a1a5ced.m3u8
-博斯运动贰斯,http://free.cnlive.club/channel/n3a1a4bf9.m3u8
-博斯高球壹斯,http://free.cnlive.club/channel/n34996e5a.m3u8
-博斯高球贰斯,http://free.cnlive.club/channel/n34995d66.m3u8
-美食星球频斯,http://free.cnlive.club/channel/5939fd4b.m3u8
-亚洲美食频斯,http://free.cnlive.club/channel/4258879f.m3u8
-亚洲旅游频斯,http://free.cnlive.club/channel/852ca6f.m3u8
-亚洲TLC频斯,http://free.cnlive.club/channel/34964cb6.m3u8
-EYE-旅游频斯,http://free.cnlive.club/channel/28efa38.m3u8
-EYE-戏剧频斯,http://free.cnlive.club/channel/27dadb3.m3u8
-MTv高清频斯,http://free.cnlive.club/channel/731620b3.m3u8
-ARIRAng频斯,http://free.cnlive.club/channel/5a358dea.m3u8
 央卫频特,#genre#
 CCTV-01频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 CCTV-02频特,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
@@ -3728,232 +3837,7 @@ CETV-01梅州,http://1b6467f415.iok.la:9931/tsfile/live/1125_1.m3u8
 揭阳综合梅州,http://1b6467f415.iok.la:9931/tsfile/live/1134_1.m3u8
 揭阳公共梅州,http://1b6467f415.iok.la:9931/tsfile/live/1135_1.m3u8
 潮州公共梅州,http://1b6467f415.iok.la:9931/tsfile/live/1136_1.m3u8
-四川电信,#genre#
-CCTV-01四川,http://171.213.220.107:8800/udp/239.93.0.184:5140
-CCTV-02四川,http://171.213.220.107:8800/udp/239.93.1.23:6000
-CCTV-03四川,http://171.213.220.107:8800/udp/239.93.1.11:2223
-CCTV-04四川,http://171.213.220.107:8800/udp/239.93.1.105:5140
-CCTV-05四川,http://171.213.220.107:8800/udp/239.93.42.37:5140
-CCTV-5+四川,http://171.213.220.107:8800/udp/239.93.1.36:8004
-CCTV-06四川,http://171.213.220.107:8800/udp/239.93.1.13:2226
-CCTV-07四川,http://171.213.220.107:8800/udp/239.93.1.67:5140
-CCTV-08四川,http://171.213.220.107:8800/udp/239.93.42.39:5140
-CCTV-09四川,http://171.213.220.107:8800/udp/239.93.1.24:5140
-CCTV-10四川,http://171.213.220.107:8800/udp/239.93.1.28:5140
-CCTV-11四川,http://171.213.220.107:8800/udp/239.93.0.102:5140
-CCTV-12四川,http://171.213.220.107:8800/udp/239.93.1.30:8124
-CCTV-13四川,http://171.213.220.107:8800/udp/239.93.0.66:5140
-CCTV-14四川,http://171.213.220.107:8800/udp/239.93.1.29:6000
-CCTV-15四川,http://171.213.220.107:8800/udp/239.93.0.103:5140
-CCTV-17四川,http://171.213.220.107:8800/udp/239.93.0.92:5140
-CGTN-英四川,http://171.213.220.107:8800/udp/239.93.0.104:5140
-凤凰中文四川,http://171.213.220.107:8800/udp/239.93.0.162:2192
-凤凰中文四川,http://171.213.220.107:8800/udp/239.93.1.9:2192
-凤凰资讯四川,http://171.213.220.107:8800/udp/239.93.0.118:2191
-凤凰资讯四川,http://171.213.220.107:8800/udp/239.93.1.4:2191
-星空卫视四川,http://171.213.220.107:8800/udp/239.93.0.156:2193
-星空卫视四川,http://171.213.220.107:8800/udp/239.93.1.10:2193
-CHANNE四川,http://171.213.220.107:8800/udp/239.93.0.157:2194
-CHANNE四川,http://171.213.220.107:8800/udp/239.93.1.7:2194
-四川卫视四川,http://171.213.220.107:8800/udp/239.93.0.20:1235
-四川卫视四川,http://171.213.220.107:8800/udp/239.93.0.169:5140
-四川卫视四川,http://171.213.220.107:8800/udp/239.93.1.188:5140
-湖南卫视四川,http://171.213.220.107:8800/udp/239.93.0.88:5140
-江苏卫视四川,http://171.213.220.107:8800/udp/239.93.0.89:5140
-浙江卫视四川,http://171.213.220.107:8800/udp/239.93.0.124:5140
-东方卫视四川,http://171.213.220.107:8800/udp/239.93.0.123:5140
-北京卫视四川,http://171.213.220.107:8800/udp/239.93.0.180:5140
-深圳卫视四川,http://171.213.220.107:8800/udp/239.93.0.182:5140
-广东卫视四川,http://171.213.220.107:8800/udp/239.93.0.181:5140
-天津卫视四川,http://171.213.220.107:8800/udp/239.93.0.167:5140
-山东卫视四川,http://171.213.220.107:8800/udp/239.93.0.168:5140
-康巴卫视四川,http://171.213.220.107:8800/udp/239.93.0.41:5140
-江西卫视四川,http://171.213.220.107:8800/udp/239.93.0.134:5140
-东南卫视四川,http://171.213.220.107:8800/udp/239.93.0.42:5140
-黑龙江视四川,http://171.213.220.107:8800/udp/239.93.0.183:5140
-重庆卫视四川,http://171.213.220.107:8800/udp/239.93.1.107:5140
-贵州卫视四川,http://171.213.220.107:8800/udp/239.93.0.131:5140
-湖北卫视四川,http://171.213.220.107:8800/udp/239.93.0.250:5140
-安徽卫视四川,http://171.213.220.107:8800/udp/239.93.1.106:5140
-河北卫视四川,http://171.213.220.107:8800/udp/239.93.0.132:5140
-辽宁卫视四川,http://171.213.220.107:8800/udp/239.93.1.108:5140
-云南卫视四川,http://171.213.220.107:8800/udp/239.93.1.174:5140
-河南卫视四川,http://171.213.220.107:8800/udp/239.93.42.45:5140
-广西卫视四川,http://171.213.220.107:8800/udp/239.93.42.46:5140
-吉林卫视四川,http://171.213.220.107:8800/udp/239.93.0.248:5140
-甘肃卫视四川,http://171.213.220.107:8800/udp/239.93.0.81:5140
-陕西卫视四川,http://171.213.220.107:8800/udp/239.93.0.176:5140
-云南卫视四川,http://171.213.220.107:8800/udp/239.93.0.174:5140
-山西卫视四川,http://171.213.220.107:8800/udp/239.93.0.6:5140
-内蒙古视四川,http://171.213.220.107:8800/udp/239.93.0.8:5140
-青海卫视四川,http://171.213.220.107:8800/udp/239.93.0.192:5140
-宁夏卫视四川,http://171.213.220.107:8800/udp/239.93.0.247:5140
-西藏卫视四川,http://171.213.220.107:8800/udp/239.93.0.175:5140
-新疆卫视四川,http://171.213.220.107:8800/udp/239.93.0.194:5140
-海南卫视四川,http://171.213.220.107:8800/udp/239.93.0.80:5140
-陕西农林四川,http://171.213.220.107:8800/udp/239.93.0.100:5140
-兵团卫视四川,http://171.213.220.107:8800/udp/239.93.42.43:5140
-厦门卫视四川,http://171.213.220.107:8800/udp/239.93.42.57:5140
-三沙卫视四川,http://171.213.220.107:8800/udp/239.93.42.58:5140
-山东教育四川,http://171.213.220.107:8800/udp/239.93.1.196:5140
-CDTV-01四川,http://171.213.220.107:8800/udp/239.93.0.16:5140
-SCTV-02四川,http://171.213.220.107:8800/udp/239.93.1.101:5140
-SCTV-03四川,http://171.213.220.107:8800/udp/239.93.1.102:5140
-SCTV-04四川,http://171.213.220.107:8800/udp/239.93.0.47:5140
-SCTV-05四川,http://171.213.220.107:8800/udp/239.93.0.166:5140
-SCTV-06四川,http://171.213.220.107:8800/udp/239.93.1.144:5140
-SCTV-07四川,http://171.213.220.107:8800/udp/239.93.0.219:5140
-SCTV-08四川,http://171.213.220.107:8800/udp/239.93.42.44:5140
-峨眉电影四川,http://171.213.220.107:8800/udp/239.93.0.252:5140
-乡村高清四川,http://171.213.220.107:8800/udp/239.93.0.52:5140
-公共乡村四川,http://171.213.220.107:8800/udp/239.93.0.52:5140
-妇女儿童四川,http://171.213.220.107:8800/udp/239.93.0.219:5140
-影视文艺四川,http://171.213.220.107:8800/udp/239.93.0.166:5140
-影视文艺四川,http://171.213.220.107:8800/udp/239.93.1.195:5140
-文化旅游四川,http://171.213.220.107:8800/udp/239.93.1.101:5140
-文化旅游四川,http://171.213.220.107:8800/udp/239.93.1.20:5140
-新闻频道四川,http://171.213.220.107:8800/udp/239.93.0.47:5140
-经济频道四川,http://171.213.220.107:8800/udp/239.93.1.102:5140
-经济频道四川,http://171.213.220.107:8800/udp/239.93.1.16:5140
-峨眉电影四川,http://171.213.220.107:8800/udp/239.93.1.54:5140
-峨眉电影四川,http://171.213.220.107:8800/udp/239.93.1.18:5140
-爱上—4K四川,http://171.213.220.107:8800/udp/239.93.0.97:5140
-爱上4K—四川,http://171.213.220.107:8800/udp/239.93.1.113:5140
-爱上4K—四川,http://171.213.220.107:8800/udp/239.93.1.251:8224
-CDTV-02四川,http://171.213.220.107:8800/udp/239.93.0.17:1239
-CDTV-03四川,http://171.213.220.107:8800/udp/239.93.0.18:1238
-CDTV-04四川,http://171.213.220.107:8800/udp/239.93.0.19:1250
-CDTV-05四川,http://171.213.220.107:8800/udp/239.93.1.231:5140
-CDTV-06四川,http://171.213.220.107:8800/udp/239.93.0.21:1251
-CDTV-08四川,http://171.213.220.107:8800/udp/239.93.0.22:1252
-上海纪实四川,http://171.213.220.107:8800/udp/239.93.1.137:5140
-金鹰纪实四川,http://171.213.220.107:8800/udp/239.93.0.130:5140
-CETV-01四川,http://171.213.220.107:8800/udp/239.93.1.111:5140
-熊猫新闻四川,http://171.213.220.107:8800/udp/239.93.1.112:5140
-熊猫体娱四川,http://171.213.220.107:8800/udp/239.93.0.94:5140
-熊猫少儿四川,http://171.213.220.107:8800/udp/239.93.1.189:5140
-熊猫影院四川,http://171.213.220.107:8800/udp/239.93.0.214:5140
-睛彩频道四川,http://171.213.220.107:8800/udp/239.93.0.126:5140
-成都体育四川,http://171.213.220.107:8800/udp/239.93.0.224:1281
-熊猫频道四川,http://171.213.220.107:8800/udp/239.93.0.211:9148
-熊猫卡通四川,http://171.213.220.107:8800/udp/239.93.1.172:5140
-炫动卡通四川,http://171.213.220.107:8800/udp/239.93.0.173:5140
-嘉佳卡通四川,http://171.213.220.107:8800/udp/239.93.0.246:5140
-收视导视四川,http://171.213.220.107:8800/udp/239.93.1.39:5140
-熊猫生活四川,http://171.213.220.107:8800/udp/239.93.1.190:5140
-大爱四川四川,http://171.213.220.107:8800/udp/239.93.1.110:5140
-大爱旅游四川,http://171.213.220.107:8800/udp/239.93.42.70:5140
-大爱生活四川,http://171.213.220.107:8800/udp/239.93.42.71:5140
-大爱时尚四川,http://171.213.220.107:8800/udp/239.93.42.72:5140
-hd看电影四川,http://171.213.220.107:8800/udp/239.93.42.47:5140
-家政频道四川,http://171.213.220.107:8800/udp/239.93.42.48:5140
-CETV-02四川,http://171.213.220.107:8800/udp/239.93.0.113:5140
-CETV-04四川,http://171.213.220.107:8800/udp/239.93.0.50:5140
-经典电影四川,http://171.213.220.107:8800/udp/239.93.0.57:9024
-华语影院四川,http://171.213.220.107:8800/udp/239.93.0.138:5140
-星光院线四川,http://171.213.220.107:8800/udp/239.93.0.139:5140
-全球大片四川,http://171.213.220.107:8800/udp/239.93.0.105:5140
-热播剧场四川,http://171.213.220.107:8800/udp/239.93.0.56:9020
-热门剧场四川,http://171.213.220.107:8800/udp/239.93.0.140:5140
-港剧风云四川,http://171.213.220.107:8800/udp/239.93.0.143:5140
-谍战剧场四川,http://171.213.220.107:8800/udp/239.93.0.95:5140
-卡酷动画四川,http://171.213.220.107:8800/udp/239.93.0.208:5140
-金鹰卡通四川,http://171.213.220.107:8800/udp/239.93.0.108:5140
-优漫卡通四川,http://171.213.220.107:8800/udp/239.93.0.251:5140
-宝宝动画四川,http://171.213.220.107:8800/udp/239.93.0.147:5140
-少儿动画四川,http://171.213.220.107:8800/udp/239.93.0.193:9000
-青春动漫四川,http://171.213.220.107:8800/udp/239.93.0.146:5140
-热门综艺四川,http://171.213.220.107:8800/udp/239.93.0.151:5140
-音乐现场四川,http://171.213.220.107:8800/udp/239.93.0.198:9044
-戏曲精选四川,http://171.213.220.107:8800/udp/239.93.0.144:5140
-戏曲频道四川,http://171.213.220.107:8800/udp/239.93.0.217:9208
-魅力时尚四川,http://171.213.220.107:8800/udp/239.93.0.190:9012
-生活时尚四川,http://171.213.220.107:8800/udp/239.93.0.106:5140
-生活频道四川,http://171.213.220.107:8800/udp/239.93.0.206:8028
-汽摩频道四川,http://171.213.220.107:8800/udp/239.93.0.62:5140
-财富天下四川,http://171.213.220.107:8800/udp/239.93.0.116:9136
-股评频道四川,http://171.213.220.107:8800/udp/239.93.0.141:5140
-爱体育频四川,http://171.213.220.107:8800/udp/239.93.0.135:9008
-电竞天堂四川,http://171.213.220.107:8800/udp/239.93.1.135:5140
-游戏风云四川,http://171.213.220.107:8800/udp/239.93.0.136:5140
-汽车频道四川,http://171.213.220.107:8800/udp/239.93.0.117:1292
-足球频道四川,http://171.213.220.107:8800/udp/239.93.0.197:9040
-高网频道四川,http://171.213.220.107:8800/udp/239.93.0.202:9068
-台球频道四川,http://171.213.220.107:8800/udp/239.93.0.203:9072
-纪实人文四川,http://171.213.220.107:8800/udp/239.93.1.154:5140
-墨宝频道四川,http://171.213.220.107:8800/udp/239.93.0.215:9132
-军事频道四川,http://171.213.220.107:8800/udp/239.93.0.204:9076
-解密频道四川,http://171.213.220.107:8800/udp/239.93.0.199:9048
-地理频道四川,http://171.213.220.107:8800/udp/239.93.0.200:9052
-传奇频道四川,http://171.213.220.107:8800/udp/239.93.0.235:1282
-导视频道四川,http://171.213.220.107:8800/udp/239.93.0.129:5140
-收视指南四川,http://171.213.220.107:8800/udp/239.93.0.195:8012
-资讯干线四川,http://171.213.220.107:8800/udp/239.93.0.236:1283
-蓉城先锋四川,http://171.213.220.107:8800/udp/239.93.0.91:2101
-星空精选四川,http://171.213.220.107:8800/udp/239.93.1.171:5140
-东方财经四川,http://171.213.220.107:8800/udp/239.93.1.165:5140
-CGTN-西四川,http://171.213.220.107:8800/udp/239.93.42.49:5140
-CGTN-法四川,http://171.213.220.107:8800/udp/239.93.42.50:5140
-百姓健康四川,http://171.213.220.107:8800/udp/239.93.42.35:5140
-爱怀旧频四川,http://171.213.220.107:8800/udp/239.93.42.21:5140
-爱喜剧频四川,http://171.213.220.107:8800/udp/239.93.42.9:5140
-爱奇谈频四川,http://171.213.220.107:8800/udp/239.93.42.22:5140
-爱科幻频四川,http://171.213.220.107:8800/udp/239.93.42.10:5140
-爱院线频四川,http://171.213.220.107:8800/udp/239.93.42.11:5140
-都市剧场四川,http://171.213.220.107:8800/udp/239.93.42.30:5140
-爱谍战频四川,http://171.213.220.107:8800/udp/239.93.42.14:5140
-爱经典频四川,http://171.213.220.107:8800/udp/239.93.42.13:5140
-爱悬疑频四川,http://171.213.220.107:8800/udp/239.93.42.12:5140
-爱青春频四川,http://171.213.220.107:8800/udp/239.93.42.16:5140
-爱都市频四川,http://171.213.220.107:8800/udp/239.93.42.15:5140
-少儿天地四川,http://171.213.220.107:8800/udp/239.93.42.34:5140
-爱幼教频四川,http://171.213.220.107:8800/udp/239.93.42.17:5140
-爱玩具频四川,http://171.213.220.107:8800/udp/239.93.42.18:5140
-爱动漫频四川,http://171.213.220.107:8800/udp/239.93.42.23:5140
-求索频道四川,http://171.213.220.107:8800/udp/239.93.42.24:5140
-爱电竞频四川,http://171.213.220.107:8800/udp/239.93.42.19:5140
-爱赛车频四川,http://171.213.220.107:8800/udp/239.93.42.20:5140
-爱宠宠物四川,http://171.213.220.107:8800/udp/239.93.42.32:5140
-生活时尚四川,http://171.213.220.107:8800/udp/239.93.42.29:5140
-环球旅游四川,http://171.213.220.107:8800/udp/239.93.42.31:5140
-来钓鱼吧四川,http://171.213.220.107:8800/udp/239.93.42.8:5140
-麻辣体育四川,http://171.213.220.107:8800/udp/239.93.42.2:5140
-绚影4k频四川,http://171.213.220.107:8800/udp/239.93.42.33:5140
-先锋乒羽四川,http://171.213.220.107:8800/udp/239.93.42.56:5140
-天元围棋四川,http://171.213.220.107:8800/udp/239.93.42.55:5140
-快乐垂钓四川,http://171.213.220.107:8800/udp/239.93.1.151:5140
-茶频道频四川,http://171.213.220.107:8800/udp/239.93.0.114:5140
-热血剧场四川,http://171.213.220.107:8800/udp/239.93.1.198:5140
-乐龄学堂四川,http://171.213.220.107:8800/udp/239.93.1.179:5140
-亲子趣学四川,http://171.213.220.107:8800/udp/239.93.1.191:5140
-津津悦读四川,http://171.213.220.107:8800/udp/239.93.1.197:5140
-动画番剧四川,http://171.213.220.107:8800/udp/239.93.1.177:5140
-中录动漫四川,http://171.213.220.107:8800/udp/239.93.1.188:5140
-熊猫直播四川,http://171.213.220.107:8800/udp/239.93.1.178:5140
-综艺咖秀四川,http://171.213.220.107:8800/udp/239.93.1.175:5140
-红色经典四川,http://171.213.220.107:8800/udp/239.93.1.176:5140
-4K超高清四川,http://171.213.220.107:8800/udp/239.93.1.156:5140
-4K乐享超四川,http://171.213.220.107:8800/udp/239.93.0.43:5140
-i成都频道四川,http://171.213.220.107:8800/udp/239.93.1.104:1234
-中国体_1四川,http://171.213.220.107:8800/udp/239.93.42.25:5140
-中国体_2四川,http://171.213.220.107:8800/udp/239.93.42.26:5140
-中国体_3四川,http://171.213.220.107:8800/udp/239.93.42.27:5140
-精彩推荐四川,http://171.213.220.107:8800/udp/239.93.1.5:5140
-直播室_1四川,http://171.213.220.107:8800/udp/239.93.1.180:5140
-直播室_2四川,http://171.213.220.107:8800/udp/239.93.1.181:5140
-直播室_3四川,http://171.213.220.107:8800/udp/239.93.1.182:5140
-直播室_4四川,http://171.213.220.107:8800/udp/239.93.1.183:5140
-直播室_5四川,http://171.213.220.107:8800/udp/239.93.1.184:5140
-直播室_6四川,http://171.213.220.107:8800/udp/239.93.1.185:5140
-直播室_7四川,http://171.213.220.107:8800/udp/239.93.1.186:5140
-直播室_8四川,http://171.213.220.107:8800/udp/239.93.1.187:5140
-红日干乔四川,http://171.213.220.107:8800/udp/239.93.0.178:5140
-红月亮湾四川,http://171.213.220.107:8800/udp/239.93.0.209:5140
-电信导视四川,http://171.213.220.107:8800/udp/239.93.0.110:5140
-雅克音乐直播,http://171.213.220.107:8800/udp/239.93.42.69:5140
-雅克音乐宣传,http://171.213.220.107:8800/udp/239.93.42.68:5140
-演艺宣传四川,http://171.213.220.107:8800/udp/239.93.42.60:5140
-创新及文化节,http://171.213.220.107:8800/udp/239.93.42.59:5140
+足球粤评,#genre#
 05-18⚽📡,http://lxajh.top/tv/douyu.php?id=11531165
 ⚽暂无🆚直播⚽,http://dd.rihou.cc:555/mp4
 篮球粤评,#genre#
@@ -4148,6 +4032,84 @@ Q版-三国粤39,https://vip.dytt-cine.com/20250715/39351_b8e8d48c/index.m3u8
 还珠格格贰46,https://yzzy.play-cdn8.com/20220710/3602_bd1ccb00/index.m3u8
 还珠格格贰47,https://yzzy.play-cdn8.com/20220710/3601_071cd762/index.m3u8
 还珠格格贰48,https://yzzy.play-cdn8.com/20220710/3600_ea939ce8/index.m3u8
+甄嬛传国,#genre#
+⬇️甄嬛传⬇️,http://dd.rihou.cc:555/mp4
+甄嬛传第01集,https://vip.dytt-love.com/20250701/2664_daaaf136/index.m3u8
+甄嬛传第02集,https://vip.dytt-love.com/20250701/2665_e727fa59/index.m3u8
+甄嬛传第03集,https://vip.dytt-love.com/20250701/2666_1102a326/index.m3u8
+甄嬛传第04集,https://vip.dytt-love.com/20250701/2667_7edccc66/index.m3u8
+甄嬛传第05集,https://vip.dytt-love.com/20250701/2668_5ac8bb8a/index.m3u8
+甄嬛传第06集,https://vip.dytt-love.com/20250701/2669_0bed45bd/index.m3u8
+甄嬛传第07集,https://vip.dytt-love.com/20250701/2670_028ee724/index.m3u8
+甄嬛传第08集,https://vip.dytt-love.com/20250701/2671_f8da71e5/index.m3u8
+甄嬛传第09集,https://vip.dytt-love.com/20250701/2672_0e900ad8/index.m3u8
+甄嬛传第10集,https://vip.dytt-love.com/20250701/2673_88fee042/index.m3u8
+甄嬛传第11集,https://vip.dytt-love.com/20250701/2674_a8345c3b/index.m3u8
+甄嬛传第12集,https://vip.dytt-love.com/20250701/2675_a8aa681a/index.m3u8
+甄嬛传第13集,https://vip.dytt-love.com/20250701/2676_d89a66c7/index.m3u8
+甄嬛传第14集,https://vip.dytt-love.com/20250701/2677_e97c864e/index.m3u8
+甄嬛传第15集,https://vip.dytt-love.com/20250701/2678_94aef384/index.m3u8
+甄嬛传第16集,https://vip.dytt-love.com/20250701/2679_9813b270/index.m3u8
+甄嬛传第17集,https://vip.dytt-love.com/20250701/2680_220a7f49/index.m3u8
+甄嬛传第18集,https://vip.dytt-love.com/20250701/2681_dcda54e2/index.m3u8
+甄嬛传第19集,https://vip.dytt-love.com/20250701/2682_f15eda31/index.m3u8
+甄嬛传第20集,https://vip.dytt-love.com/20250701/2683_8420d359/index.m3u8
+甄嬛传第21集,https://vip.dytt-love.com/20250701/2684_7c4bf50b/index.m3u8
+甄嬛传第22集,https://vip.dytt-love.com/20250701/2685_41ab1b1d/index.m3u8
+甄嬛传第23集,https://vip.dytt-love.com/20250701/2686_3a0844ce/index.m3u8
+甄嬛传第24集,https://vip.dytt-love.com/20250701/2687_573eec40/index.m3u8
+甄嬛传第25集,https://vip.dytt-love.com/20250701/2688_b38e5ff5/index.m3u8
+甄嬛传第26集,https://vip.dytt-love.com/20250701/2689_577fd602/index.m3u8
+甄嬛传第27集,https://vip.dytt-love.com/20250701/2690_f6185f0e/index.m3u8
+甄嬛传第28集,https://vip.dytt-love.com/20250701/2691_110eec23/index.m3u8
+甄嬛传第29集,https://vip.dytt-love.com/20250701/2692_d790c9e6/index.m3u8
+甄嬛传第30集,https://vip.dytt-love.com/20250701/2693_3bd40173/index.m3u8
+甄嬛传第31集,https://vip.dytt-love.com/20250701/2694_cf9b2d04/index.m3u8
+甄嬛传第32集,https://vip.dytt-love.com/20250701/2695_dbbf603f/index.m3u8
+甄嬛传第33集,https://vip.dytt-love.com/20250701/2696_dc2b6905/index.m3u8
+甄嬛传第34集,https://vip.dytt-love.com/20250701/2697_ab452534/index.m3u8
+甄嬛传第35集,https://vip.dytt-love.com/20250701/2698_fb4ab556/index.m3u8
+甄嬛传第36集,https://vip.dytt-love.com/20250701/2699_0415740e/index.m3u8
+甄嬛传第37集,https://vip.dytt-love.com/20250701/2700_f1b07759/index.m3u8
+甄嬛传第38集,https://vip.dytt-love.com/20250701/2701_df0e09d6/index.m3u8
+甄嬛传第39集,https://vip.dytt-love.com/20250701/2702_2e7ceec8/index.m3u8
+甄嬛传第40集,https://vip.dytt-love.com/20250701/2703_220c77af/index.m3u8
+甄嬛传第41集,https://vip.dytt-love.com/20250701/2704_81c2f886/index.m3u8
+甄嬛传第42集,https://vip.dytt-love.com/20250701/2705_825f9cd5/index.m3u8
+甄嬛传第43集,https://vip.dytt-love.com/20250701/2706_2e74c2cf/index.m3u8
+甄嬛传第44集,https://vip.dytt-love.com/20250701/2707_65f2a94c/index.m3u8
+甄嬛传第45集,https://vip.dytt-love.com/20250701/2708_03fa2f75/index.m3u8
+甄嬛传第46集,https://vip.dytt-love.com/20250701/2709_5a99158e/index.m3u8
+甄嬛传第47集,https://vip.dytt-love.com/20250701/2710_de594ef5/index.m3u8
+甄嬛传第48集,https://vip.dytt-love.com/20250701/2711_65fc9fb4/index.m3u8
+甄嬛传第49集,https://vip.dytt-love.com/20250701/2712_bbeb0c1b/index.m3u8
+甄嬛传第50集,https://vip.dytt-love.com/20250701/2713_403ea2e8/index.m3u8
+甄嬛传第51集,https://vip.dytt-love.com/20250701/2714_b628386c/index.m3u8
+甄嬛传第52集,https://vip.dytt-love.com/20250701/2715_ff2cc3b8/index.m3u8
+甄嬛传第53集,https://vip.dytt-love.com/20250701/2716_cdd96eed/index.m3u8
+甄嬛传第54集,https://vip.dytt-love.com/20250701/2717_058d6f2f/index.m3u8
+甄嬛传第55集,https://vip.dytt-love.com/20250701/2718_ad47a008/index.m3u8
+甄嬛传第56集,https://vip.dytt-love.com/20250701/2719_7aee26c3/index.m3u8
+甄嬛传第57集,https://vip.dytt-love.com/20250701/2720_fa2e8c43/index.m3u8
+甄嬛传第58集,https://vip.dytt-love.com/20250701/2721_36238749/index.m3u8
+甄嬛传第59集,https://vip.dytt-love.com/20250701/2722_33267e5d/index.m3u8
+甄嬛传第60集,https://vip.dytt-love.com/20250701/2723_c315f032/index.m3u8
+甄嬛传第61集,https://vip.dytt-love.com/20250701/2724_64a08e5f/index.m3u8
+甄嬛传第62集,https://vip.dytt-love.com/20250701/2725_4bbdcc0e/index.m3u8
+甄嬛传第63集,https://vip.dytt-love.com/20250701/2726_b1c00bcd/index.m3u8
+甄嬛传第64集,https://vip.dytt-love.com/20250701/2727_23fc4cba/index.m3u8
+甄嬛传第65集,https://vip.dytt-love.com/20250701/2728_5e751896/index.m3u8
+甄嬛传第66集,https://vip.dytt-love.com/20250701/2729_b7f1f29d/index.m3u8
+甄嬛传第67集,https://vip.dytt-love.com/20250701/2730_421b3ac5/index.m3u8
+甄嬛传第68集,https://vip.dytt-love.com/20250701/2731_08f38e04/index.m3u8
+甄嬛传第69集,https://vip.dytt-love.com/20250701/2732_36144052/index.m3u8
+甄嬛传第70集,https://vip.dytt-love.com/20250701/2733_ec1f850d/index.m3u8
+甄嬛传第71集,https://vip.dytt-love.com/20250701/2734_7f7c351e/index.m3u8
+甄嬛传第72集,https://vip.dytt-love.com/20250701/2735_1d497805/index.m3u8
+甄嬛传第73集,https://vip.dytt-love.com/20250701/2736_47fd3c87/index.m3u8
+甄嬛传第74集,https://vip.dytt-love.com/20250701/2737_9ff7c9eb/index.m3u8
+甄嬛传第75集,https://vip.dytt-love.com/20250701/2738_a4613e8d/index.m3u8
+甄嬛传第76集,https://vip.dytt-love.com/20250701/2739_56584778/index.m3u8
 大地恩情,#genre#
 ⬇️80大地恩情⬇️,http://dd.rihou.cc:555/mp4
 家在珠江粤01,https://vip.ffzy-play.com/20221209/31605_0706f9df/index.m3u8
@@ -5088,431 +5050,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8
 密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8
 羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/index.m3u8
-体育频斯,#genre#
-Astro Premier League 1,http://free.cnlive.club/channel/6b9a7458.m3u8
-Astro EPL 1 backup,http://free.cnlive.club/channel/5bdf2334.m3u8
-Astro Premier League 2,http://free.cnlive.club/channel/6b9a7459.m3u8
-Astro Grandstand,http://free.cnlive.club/channel/n19794632.m3u8
-Astro Football,http://free.cnlive.club/channel/29962bf1.m3u8
-Astro Sports Plus,http://free.cnlive.club/channel/17502b7.m3u8
-Astro Badminton 1,http://free.cnlive.club/channel/1de1e193.m3u8
-Astro Badminton 2,http://free.cnlive.club/channel/1de1e194.m3u8
-Astro W-Sports,http://free.cnlive.club/channel/3c34fa39.m3u8
-Supersports 1,http://free.cnlive.club/channel/64ef1648.m3u8
-Supersports 2,http://free.cnlive.club/channel/64ef1649.m3u8
-Supersports 3,http://free.cnlive.club/channel/64ef164a.m3u8
-Supersports 4,http://free.cnlive.club/channel/64ef164b.m3u8
-WWE,http://free.cnlive.club/channel/n52e4e43e.m3u8
-Fight Sports,http://free.cnlive.club/channel/n5a7ddbee.m3u8
-NBA TV,http://free.cnlive.club/channel/751e5af8.m3u8
-Astro Cricket,http://free.cnlive.club/channel/n670c7d13.m3u8
-Astro Golf,http://free.cnlive.club/channel/n7fc29d1a.m3u8
-Tnt Sports 1,http://free.cnlive.club/channel/1fe0e79.m3u8
-TNT Sports 2,http://free.cnlive.club/channel/n23c66d86.m3u8
-TNT Sports 3,http://free.cnlive.club/channel/n23c66d85.m3u8
-TNT Sports 4,http://free.cnlive.club/channel/n23c66d84.m3u8
-Sony Ten 1,http://free.cnlive.club/channel/n248a5048.m3u8
-Sony Ten 2,http://free.cnlive.club/channel/n248a5047.m3u8
-Sony Ten 3,http://free.cnlive.club/channel/n248a5046.m3u8
-SPOTV 1 HD,http://free.cnlive.club/channel/6d1675a.m3u8
-SPO TV 2,http://free.cnlive.club/channel/n552b885b.m3u8
-Skysports F1,http://free.cnlive.club/channel/n57ed90b2.m3u8
-Skysports Cricket,http://free.cnlive.club/channel/5863830e.m3u8
-Skysports EPL,http://free.cnlive.club/channel/5a3b7abe.m3u8
-Skysports Main Event,http://free.cnlive.club/channel/5acb9d16.m3u8
-Skysports News,http://free.cnlive.club/channel/n12c7b72a.m3u8
-Skysports Mix,http://free.cnlive.club/channel/5a3b9bf9.m3u8
-CCTV-5 体育频道,http://free.cnlive.club/channel/n5d959a6c.m3u8
-CCTV-5+ 体育赛事 HD,http://free.cnlive.club/channel/n4fd60eb5.m3u8
-爱尔达体育2台,http://free.cnlive.club/channel/723ab075.m3u8
-爱尔达体育3台,http://free.cnlive.club/channel/723ab094.m3u8
-Rugby Pass TV,http://free.cnlive.club/channel/8c42189.m3u8
-RTM Sports HD,http://free.cnlive.club/channel/n1624505b.m3u8
-Arena,http://free.cnlive.club/channel/n2e6605fc.m3u8
-Arena 2,http://free.cnlive.club/channel/n2cfc72ea.m3u8
-BolaArena 1,http://free.cnlive.club/channel/n30b4b24d.m3u8
-BolaArena 2,http://free.cnlive.club/channel/n30b4b24c.m3u8
-Astro Beinsports 1,http://free.cnlive.club/channel/n44210d04.m3u8
-Astro Beinsports 2,http://free.cnlive.club/channel/n44210d03.m3u8
-Astro Beinsports 3,http://free.cnlive.club/channel/n44210d02.m3u8
-影视频斯,#genre#
-CCTV-6,http://free.cnlive.club/channel/63f18811.m3u8
-AXN Taiwan,http://free.cnlive.club/channel/6f2c3c37.m3u8
-HBO_HD,http://free.cnlive.club/channel/6c698aec.m3u8
-HBO_HITS,http://free.cnlive.club/channel/n7cd62d0.m3u8
-CINEMAX,http://free.cnlive.club/channel/2420c041.m3u8
-好萊塢電影台,http://free.cnlive.club/channel/117d8eeb.m3u8
-东森电影,http://free.cnlive.club/channel/7cb9a434.m3u8
-东森洋片,http://free.cnlive.club/channel/7cb8b9f4.m3u8
-龙华电影,http://free.cnlive.club/channel/n5e8ca809.m3u8
-龙华洋片,http://free.cnlive.club/channel/n5e8d9249.m3u8
-龙祥时代,http://free.cnlive.club/channel/n5dff94e1.m3u8
-美亚电影,http://free.cnlive.club/channel/n6d2f2fd2.m3u8
-卫视电影台,http://free.cnlive.club/channel/74380c33.m3u8
-天映频道,http://free.cnlive.club/channel/n7e466c41.m3u8
-天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8
-Animax,http://free.cnlive.club/channel/62efb22e.m3u8
-Movies Now HD,http://free.cnlive.club/channel/n1bf890c3.m3u8
-Star Movies HD,http://free.cnlive.club/channel/n6773674f.m3u8
-Hits,http://free.cnlive.club/channel/57c1d4e6.m3u8
-Warner TV,http://free.cnlive.club/channel/n56dab1d7.m3u8
-HBO HD,http://free.cnlive.club/channel/6c689e6d.m3u8
-HBO Signature,http://free.cnlive.club/channel/n1075adf9.m3u8
-HBO Family,http://free.cnlive.club/channel/n50b4438b.m3u8
-HBO Hits,http://free.cnlive.club/channel/nb44af6f.m3u8
-Cinemax,http://free.cnlive.club/channel/5c8dcc41.m3u8
-Dreamworks,http://free.cnlive.club/channel/4a8dbe85.m3u8
-SCM,http://free.cnlive.club/channel/n2eb78a49.m3u8
-Thrill,http://free.cnlive.club/channel/n7cf4bd6f.m3u8
-Hits Movie,http://free.cnlive.club/channel/2df87356.m3u8
-One,http://free.cnlive.club/channel/n2eb79400.m3u8
-tvN Movie,http://free.cnlive.club/channel/391ee36.m3u8
-Axn HD,http://free.cnlive.club/channel/637dbecb.m3u8
-Paramount Network,http://free.cnlive.club/channel/69b17141.m3u8
-Astrol Kplus,http://free.cnlive.club/channel/n7a5371c8.m3u8
-Rock Actions,http://free.cnlive.club/channel/ne6f4938.m3u8
-Rock Entertainment,http://free.cnlive.club/channel/nd96d6ed.m3u8
-纪录频斯,#genre#
-Natgeo_HD,http://free.cnlive.club/channel/n3f497a4c.m3u8
-NatGeo_Wild HD,http://free.cnlive.club/channel/2ae73b1a.m3u8
-Animal_Planet,http://free.cnlive.club/channel/nb957a7c.m3u8
-Discovery Asia,http://free.cnlive.club/channel/n3efbe5af.m3u8
-CI,http://free.cnlive.club/channel/1404dfbd.m3u8
-Asia Travel,http://free.cnlive.club/channel/n3287f647.m3u8
-Discovery HD,http://free.cnlive.club/channel/n2517f7dd.m3u8
-亚洲美食,http://free.cnlive.club/channel/4b914480.m3u8
-美食星球,http://free.cnlive.club/channel/6272ba2c.m3u8
-亚洲旅游,http://free.cnlive.club/channel/2631a9ae.m3u8
-亚洲TLC,http://free.cnlive.club/channel/24a7393c.m3u8
-NatGeo HD,http://free.cnlive.club/channel/n75e57aab.m3u8
-Fashion TV,http://free.cnlive.club/channel/n7852a99f.m3u8
-History,http://free.cnlive.club/channel/n20a85c83.m3u8
-BBC Earth HD,http://free.cnlive.club/channel/356e7ac6.m3u8
-BBC Earth Lifestyle,http://free.cnlive.club/channel/359a630b.m3u8
-MTV Live,http://free.cnlive.club/channel/n7a0c7aec.m3u8
-NatGeo Wild HD,http://free.cnlive.club/channel/n6582cfc7.m3u8
-Animal Planet (Eng),http://free.cnlive.club/channel/n18e58008.m3u8
-TLC,http://free.cnlive.club/channel/6c975854.m3u8
-Foodnetwork Hd,http://free.cnlive.club/channel/n28af27dd.m3u8
-HGTV,http://free.cnlive.club/channel/264e2d58.m3u8
-新闻频斯,#genre#
-Skynews,http://free.cnlive.club/channel/n38043943.m3u8
-ABC News,http://free.cnlive.club/channel/104cd9c8.m3u8
-东森财经新闻,http://free.cnlive.club/channel/n5392563f.m3u8
-CBS HD,http://free.cnlive.club/channel/n2ff473c1.m3u8
-CBSN HD,http://free.cnlive.club/channel/317a4f4b.m3u8
-France 24,http://free.cnlive.club/channel/12188570.m3u8
-DW (Deutsch),http://free.cnlive.club/channel/7f39bd23.m3u8
-NHK World,http://free.cnlive.club/channel/n683bca74.m3u8
-Fox News,http://free.cnlive.club/channel/n41640285.m3u8
-CGTN,http://free.cnlive.club/channel/n337674eb.m3u8
-CNN International,http://free.cnlive.club/channel/n4d8e2986.m3u8
-CNN backup,http://free.cnlive.club/channel/n5b2e0cca.m3u8
-CNBC,http://free.cnlive.club/channel/n33765cdd.m3u8
-CNA,http://free.cnlive.club/channel/n43b97ee1.m3u8
-BBC World News,http://free.cnlive.club/channel/n66a1746b.m3u8
-Bloomberg News,http://free.cnlive.club/channel/72e3ee4f.m3u8
-Al-Jazeera,http://free.cnlive.club/channel/65af47c7.m3u8
-儿童频斯,#genre#
-Baby TV Eng,http://free.cnlive.club/channel/n59903092.m3u8
-CBeebies,http://free.cnlive.club/channel/33dc4490.m3u8
-Kids TV,http://free.cnlive.club/channel/n149d9627.m3u8
-Momo TV,http://free.cnlive.club/channel/5fe8f622.m3u8
-Animax,http://free.cnlive.club/channel/7af110c4.m3u8
-Baby TV,http://free.cnlive.club/channel/18a1ad0.m3u8
-MiaoMi,http://free.cnlive.club/channel/n70dedb3e.m3u8
-靖天卡通,http://free.cnlive.club/channel/n6567f5b8.m3u8
-东森幼幼,http://free.cnlive.club/channel/798aeeee.m3u8
-Cartoon Network,http://free.cnlive.club/channel/n38060fe0.m3u8
-Nickelodeon,http://free.cnlive.club/channel/n6a165737.m3u8
-Nick Jr,http://free.cnlive.club/channel/n75fc9ff7.m3u8
-新坡频斯,#genre#
-Channel 5,http://free.cnlive.club/channel/2f64b875.m3u8
-Channel 8,http://free.cnlive.club/channel/2f64b878.m3u8
-Suria,http://free.cnlive.club/channel/1a7c7a05.m3u8
-Channel U,http://free.cnlive.club/channel/2f64b895.m3u8
-Vasantham,http://free.cnlive.club/channel/n4a74f6e.m3u8
-CNA,http://free.cnlive.club/channel/4e9c8333.m3u8
-CNA backup,http://free.cnlive.club/channel/7f3deb4f.m3u8
-MeWatch Ch 5,http://free.cnlive.club/channel/n4b711d7a.m3u8
-MeWatch Ch 8,http://free.cnlive.club/channel/n4b711d77.m3u8
-MeWatch Ch U,http://free.cnlive.club/channel/n4b711d5a.m3u8
-MeWatch Suria,http://free.cnlive.club/channel/n21c9f664.m3u8
-MeWatch Vasantham,http://free.cnlive.club/channel/22029ca9.m3u8
-MeWatch CNA,http://free.cnlive.club/channel/5d30c8a.m3u8
-马来频斯,#genre#
-TV1,http://free.cnlive.club/channel/fa5521f.m3u8
-TV1 backup,http://free.cnlive.club/channel/n519451d.m3u8
-TV2,http://free.cnlive.club/channel/fa55220.m3u8
-TV3,http://free.cnlive.club/channel/fa55221.m3u8
-TV3 SD,http://free.cnlive.club/channel/n486f0f50.m3u8
-NTV7,http://free.cnlive.club/channel/n1afdcb49.m3u8
-TV8,http://free.cnlive.club/channel/fa55226.m3u8
-TV9,http://free.cnlive.club/channel/fa55227.m3u8
-Ria,http://free.cnlive.club/channel/fa54d1a.m3u8
-Ria-3,http://free.cnlive.club/channel/n44798bc0.m3u8
-Al-Hijrah,http://free.cnlive.club/channel/n3fbbd7fe.m3u8
-Al-Hijrah backup,http://free.cnlive.club/channel/73890fa0.m3u8
-Awani,http://free.cnlive.club/channel/n4562b60a.m3u8
-Bernama,http://free.cnlive.club/channel/n606edc5a.m3u8
-Prima,http://free.cnlive.club/channel/n44917d75.m3u8
-Prima backup,http://free.cnlive.club/channel/366678f7.m3u8
-Prima backup 2,http://free.cnlive.club/channel/36ac1b49.m3u8
-Ceria,http://free.cnlive.club/channel/n454e7688.m3u8
-Astro MTV,http://free.cnlive.club/channel/n74db47c2.m3u8
-Mecca Live HD,http://free.cnlive.club/channel/n1e7b0117.m3u8
-Madinah HD,http://free.cnlive.club/channel/n782c73d0.m3u8
-Oasis,http://free.cnlive.club/channel/n44a72a25.m3u8
-HBO HD,http://free.cnlive.club/channel/n5df653c9.m3u8
-HBO Signature,http://free.cnlive.club/channel/n4641f303.m3u8
-HBO Hits,http://free.cnlive.club/channel/465013db.m3u8
-NatGeo Wild HD,http://free.cnlive.club/channel/n6598e6ce.m3u8
-Cartoon Network,http://free.cnlive.club/channel/607a1b6c.m3u8
-Nickelodeon,http://free.cnlive.club/channel/1c7b5a15.m3u8
-Nick Jr,http://free.cnlive.club/channel/20599755.m3u8
-Dreamworks,http://free.cnlive.club/channel/n760128b1.m3u8
-Siar,http://free.cnlive.club/channel/n1afb3509.m3u8
-Citra,http://free.cnlive.club/channel/n454c9c73.m3u8
-Citra backup,http://free.cnlive.club/channel/n52b2e4b.m3u8
-Sensasi,http://free.cnlive.club/channel/22a4fb90.m3u8
-Aura,http://free.cnlive.club/channel/n1b0334ad.m3u8
-Rania,http://free.cnlive.club/channel/n447cf679.m3u8
-KBS World,http://free.cnlive.club/channel/14eeb45e.m3u8
-Boo,http://free.cnlive.club/channel/fa511d2.m3u8
-Awesome TV,http://free.cnlive.club/channel/4d7fdd4f.m3u8
-Astro Sonypix,http://free.cnlive.club/channel/n158a73d9.m3u8
-Sony HD,http://free.cnlive.club/channel/33b732a5.m3u8
-TvN,http://free.cnlive.club/channel/fa5561c.m3u8
-AEC,http://free.cnlive.club/channel/fa508cf.m3u8
-华丽台 HD （Wah Lai Toi）,http://free.cnlive.club/channel/n177a7044.m3u8
-欢喜台 HD （Hua Hee Tai）,http://free.cnlive.club/channel/n129801d1.m3u8
-Astro QJ,http://free.cnlive.club/channel/n2d0f5476.m3u8
-TVB Jade,http://free.cnlive.club/channel/30ac9808.m3u8
-TVB Asia,http://free.cnlive.club/channel/30a8c4da.m3u8
-TVB Entertainment,http://free.cnlive.club/channel/nac85e88.m3u8
-TVB Classic,http://free.cnlive.club/channel/n1ab8717e.m3u8
-AOD,http://free.cnlive.club/channel/fa50a06.m3u8
-One,http://free.cnlive.club/channel/fa54276.m3u8
-TVB 星河台 Xing He,http://free.cnlive.club/channel/6dd7925f.m3u8
-爱奇艺 iQiyi,http://free.cnlive.club/channel/n367ccbbb.m3u8
-Animal Planet (Eng),http://free.cnlive.club/channel/n1f7b561.m3u8
-tvN Movie,http://free.cnlive.club/channel/n1b6a6bd4.m3u8
-CNN backup,http://free.cnlive.club/channel/n1b9b2af1.m3u8
-Celestial Classic,http://free.cnlive.club/channel/n7b0fbbc6.m3u8
-CNBC,http://free.cnlive.club/channel/n1b02e444.m3u8
-TLC,http://free.cnlive.club/channel/fa550fb.m3u8
-CNA,http://free.cnlive.club/channel/fa51166.m3u8
-BBC World News,http://free.cnlive.club/channel/2e8ad8ee.m3u8
-Foodnetwork Hd,http://free.cnlive.club/channel/n28c53ee4.m3u8
-HGTV,http://free.cnlive.club/channel/n1b00b66f.m3u8
-Goshop,http://free.cnlive.club/channel/n5d1f9a32.m3u8
-Celestial Movies HD,http://free.cnlive.club/channel/5150b0a1.m3u8
-Axn HD,http://free.cnlive.club/channel/n66e1336b.m3u8
-Paramount Network,http://free.cnlive.club/channel/2d02c137.m3u8
-Astrol Kplus,http://free.cnlive.club/channel/n52c5637e.m3u8
-AFC 亚洲旅游台,http://free.cnlive.club/channel/1d3786b3.m3u8
-Rock Actions,http://free.cnlive.club/channel/191ec512.m3u8
-Bloomberg News,http://free.cnlive.club/channel/8103ba8.m3u8
-Al-Jazeera,http://free.cnlive.club/channel/n5abdd660.m3u8
-Rock Entertainment,http://free.cnlive.club/channel/n66be2823.m3u8
-RTM Sports HD,http://free.cnlive.club/channel/ne37fa48.m3u8
-Arena,http://free.cnlive.club/channel/n4564ece9.m3u8
-Arena 2,http://free.cnlive.club/channel/n7fdd5297.m3u8
-BolaArena 1,http://free.cnlive.club/channel/n6393f37a.m3u8
-BolaArena 2,http://free.cnlive.club/channel/n6393f379.m3u8
-Astro LOL,http://free.cnlive.club/channel/n74db4c28.m3u8
-Astro Rusi,http://free.cnlive.club/channel/n268aead6.m3u8
-WION,http://free.cnlive.club/channel/n1af9ddff.m3u8
-RTM Asean,http://free.cnlive.club/channel/32091bdb.m3u8
-印尼频斯,#genre#
-TVRI National,http://free.cnlive.club/channel/n1d75779a.m3u8
-RCTI,http://free.cnlive.club/channel/71ca5f39.m3u8
-Kompass TV,http://free.cnlive.club/channel/576b21fb.m3u8
-Berita Satu,http://free.cnlive.club/channel/n58dcb60b.m3u8
-Indosiar HD,http://free.cnlive.club/channel/7fe3c1f2.m3u8
-AnTV,http://free.cnlive.club/channel/71c34662.m3u8
-MNC TV,http://free.cnlive.club/channel/20b9f2b3.m3u8
-Trans 7,http://free.cnlive.club/channel/n57f6e314.m3u8
-Transtv,http://free.cnlive.club/channel/n57f6d8a9.m3u8
-JTV,http://free.cnlive.club/channel/2cf5e719.m3u8
-Metro TV,http://free.cnlive.club/channel/nd1c17a4.m3u8
-Cinemax,http://free.cnlive.club/channel/16169bd4.m3u8
-SCTV,http://free.cnlive.club/channel/71cad3a5.m3u8
-Tvone,http://free.cnlive.club/channel/n384aafef.m3u8
-TVMU,http://free.cnlive.club/channel/71cb8e7d.m3u8
-GTV,http://free.cnlive.club/channel/2cf5dbd6.m3u8
-RTV,http://free.cnlive.club/channel/2cf60521.m3u8
-Jak TV,http://free.cnlive.club/channel/1cb95641.m3u8
-iNews TV,http://free.cnlive.club/channel/75851399.m3u8
-Daai TV,http://free.cnlive.club/channel/3c9f8f4a.m3u8
-Net TV,http://free.cnlive.club/channel/23c92e18.m3u8
-Animax,http://free.cnlive.club/channel/e15243b.m3u8
-EWTN,http://free.cnlive.club/channel/71c4c17f.m3u8
-AlQuran AlKareem,http://free.cnlive.club/channel/1e75531f.m3u8
-Tawaf TV,http://free.cnlive.club/channel/n561e79a.m3u8
-Vision Prime,http://free.cnlive.club/channel/n38d477e6.m3u8
-Muslim TV,http://free.cnlive.club/channel/n57a9ad76.m3u8
-Music TV,http://free.cnlive.club/channel/3f0e7bd0.m3u8
-Lifestyle&amp;Fashion,http://free.cnlive.club/channel/n1e454f03.m3u8
-Entertain,http://free.cnlive.club/channel/5881e817.m3u8
-Hits,http://free.cnlive.club/channel/71c66633.m3u8
-Warner TV,http://free.cnlive.club/channel/23b884fc.m3u8
-SCM,http://free.cnlive.club/channel/2cf606ca.m3u8
-Thrill,http://free.cnlive.club/channel/2e30b49e.m3u8
-Fight Sports,http://free.cnlive.club/channel/n799bda5e.m3u8
-Hits Movie,http://free.cnlive.club/channel/5cc16e3.m3u8
-One,http://free.cnlive.club/channel/2cf5fd13.m3u8
-tvN Movie,http://free.cnlive.club/channel/7e252509.m3u8
-Celestial Movies HD,http://free.cnlive.club/channel/n4de56ec2.m3u8
-Rock Actions,http://free.cnlive.club/channel/2309ab15.m3u8
-Rock Entertainment,http://free.cnlive.club/channel/n7c651060.m3u8
-泰国频斯,#genre#
-Channel 3 Thailand,http://free.cnlive.club/channel/69a11aa8.m3u8
-Channel 5 Thailand,http://free.cnlive.club/channel/5233fce6.m3u8
-Channel 7 Thailand,http://free.cnlive.club/channel/3ac6df24.m3u8
-MCOT HD Thailand-1,http://free.cnlive.club/channel/26714221.m3u8
-PPTV Thailand1,http://free.cnlive.club/channel/35c61523.m3u8
-Thai Thai,http://free.cnlive.club/channel/n5f021c97.m3u8
-Amarin,http://free.cnlive.club/channel/3efe9239.m3u8
-Ch 8,http://free.cnlive.club/channel/7d4587f4.m3u8
-GmmOne,http://free.cnlive.club/channel/49409796.m3u8
-Mono,http://free.cnlive.club/channel/7d4a379a.m3u8
-Thairath,http://free.cnlive.club/channel/265f35b6.m3u8
-tpbs,http://free.cnlive.club/channel/7d5bf464.m3u8
-Workpoint,http://free.cnlive.club/channel/n3fe55138.m3u8
-Gmm Channel,http://free.cnlive.club/channel/4022a173.m3u8
-Nation,http://free.cnlive.club/channel/548cfa3e.m3u8
-Tnn24,http://free.cnlive.club/channel/2c5ee49f.m3u8
-Nbt,http://free.cnlive.club/channel/c4cb9a9.m3u8
-New,http://free.cnlive.club/channel/c4cba09.m3u8
-TPTV,http://free.cnlive.club/channel/7d4cee95.m3u8
-印度频斯,#genre#
-Sun TV HD,http://free.cnlive.club/channel/n1cf717e8.m3u8
-Star Vijay,http://free.cnlive.club/channel/3c8511cf.m3u8
-Colors Tamil,http://free.cnlive.club/channel/54bdc121.m3u8
-Sun Music,http://free.cnlive.club/channel/n1d4a693d.m3u8
-Astro Sunlife,http://free.cnlive.club/channel/60d272d9.m3u8
-Astro Vaanavil,http://free.cnlive.club/channel/n46f36941.m3u8
-Zee Tamil,http://free.cnlive.club/channel/n693cccd1.m3u8
-Zee Business,http://free.cnlive.club/channel/440849d4.m3u8
-News 18 Tamil,http://free.cnlive.club/channel/n3d378157.m3u8
-Adithya,http://free.cnlive.club/channel/15b7234.m3u8
-Makkal TV,http://free.cnlive.club/channel/2de0c4b5.m3u8
-Zee Action,http://free.cnlive.club/channel/21567d4a.m3u8
-Astro KTV,http://free.cnlive.club/channel/712e183e.m3u8
-Zee TV HD,http://free.cnlive.club/channel/n6942f21a.m3u8
-Zee Cinema HD,http://free.cnlive.club/channel/n1cac6b09.m3u8
-Color HD,http://free.cnlive.club/channel/44950907.m3u8
-Starplus HD,http://free.cnlive.club/channel/24681c2.m3u8
-Picture HD,http://free.cnlive.club/channel/n3325a1f4.m3u8
-Zee News,http://free.cnlive.club/channel/78773ee7.m3u8
-Asianet,http://free.cnlive.club/channel/1aeb94a5.m3u8
-Asianet News,http://free.cnlive.club/channel/n57578672.m3u8
-Discovery World Tamil,http://free.cnlive.club/channel/258de497.m3u8
-History Tamil,http://free.cnlive.club/channel/7af344a9.m3u8
-NatGeo Tamil,http://free.cnlive.club/channel/n1d8feddf.m3u8
-Natgeo Wild Tamil,http://free.cnlive.club/channel/n1f6f15f1.m3u8
-Astro Sonypix,http://free.cnlive.club/channel/569b62a9.m3u8
-Discovery Kids Tamil,http://free.cnlive.club/channel/c27feee.m3u8
-Discovery Tamil,http://free.cnlive.club/channel/57e04445.m3u8
-Sony Yay Tamil,http://free.cnlive.club/channel/612b7209.m3u8
-Sun TV India,http://free.cnlive.club/channel/499bb47b.m3u8
-Starmaa HD,http://free.cnlive.club/channel/n3f7f7fd1.m3u8
-Starmaa Movies HD,http://free.cnlive.club/channel/n348057ba.m3u8
-Bollyone,http://free.cnlive.club/channel/n23720e78.m3u8
-Astro Sunmusic,http://free.cnlive.club/channel/n46705a18.m3u8
-Vijay Super,http://free.cnlive.club/channel/n15349664.m3u8
-Vellithirai,http://free.cnlive.club/channel/n50eaf0f.m3u8
-英国频斯,#genre#
-BBC 1,http://free.cnlive.club/channel/n12f70f84.m3u8
-BBC 2,http://free.cnlive.club/channel/n12f70f83.m3u8
-CBBC,http://free.cnlive.club/channel/7b42ceb8.m3u8
-More4,http://free.cnlive.club/channel/n1246df79.m3u8
-Freesports,http://free.cnlive.club/channel/7994d0e3.m3u8
-Skynews,http://free.cnlive.club/channel/n65136184.m3u8
-Pick TV,http://free.cnlive.club/channel/n8682e17.m3u8
-itv 1,http://free.cnlive.club/channel/n10ba00dc.m3u8
-itv 2,http://free.cnlive.club/channel/n10ba00db.m3u8
-Euronews,http://free.cnlive.club/channel/19750d38.m3u8
-Channel 4,http://free.cnlive.club/channel/2135795f.m3u8
-NatGeo HD,http://free.cnlive.club/channel/530c09b4.m3u8
-CBeebies,http://free.cnlive.club/channel/n56ec6d34.m3u8
-History,http://free.cnlive.club/channel/514cb39c.m3u8
-Kids TV,http://free.cnlive.club/channel/n10d59be3.m3u8
-France 24,http://free.cnlive.club/channel/n13cd9691.m3u8
-DW (Deutsch),http://free.cnlive.club/channel/2a24e4c4.m3u8
-BBC Earth HD,http://free.cnlive.club/channel/3709a607.m3u8
-BBC Earth Lifestyle,http://free.cnlive.club/channel/72553caa.m3u8
-MTV Live,http://free.cnlive.club/channel/52a078d5.m3u8
-Star Movies HD,http://free.cnlive.club/channel/1c63b283.m3u8
-NHK World,http://free.cnlive.club/channel/71de198b.m3u8
-Warner TV,http://free.cnlive.club/channel/6235d917.m3u8
-HBO HD,http://free.cnlive.club/channel/n41a855c1.m3u8
-NatGeo Wild HD,http://free.cnlive.club/channel/n5e0570c6.m3u8
-Nickelodeon,http://free.cnlive.club/channel/24e2e10d.m3u8
-Nick Jr,http://free.cnlive.club/channel/n7234a5b3.m3u8
-Thrill,http://free.cnlive.club/channel/n2b05b19d.m3u8
-CGTN,http://free.cnlive.club/channel/7b42e3b6.m3u8
-Hits Movie,http://free.cnlive.club/channel/n6906b9d8.m3u8
-Animal Planet (Eng),http://free.cnlive.club/channel/23d55997.m3u8
-CNBC,http://free.cnlive.club/channel/7b42fbc4.m3u8
-TLC,http://free.cnlive.club/channel/n6760b00d.m3u8
-BBC World News,http://free.cnlive.club/channel/361e4ef6.m3u8
-HGTV,http://free.cnlive.club/channel/7b452999.m3u8
-Axn HD,http://free.cnlive.club/channel/n4a933563.m3u8
-Skysports F1,http://free.cnlive.club/channel/n7c6d1d1d.m3u8
-Skysports Cricket,http://free.cnlive.club/channel/n178afb67.m3u8
-Bloomberg News,http://free.cnlive.club/channel/fa3b1b0.m3u8
-Skysports EPL,http://free.cnlive.club/channel/n11368637.m3u8
-Skysports Main Event,http://free.cnlive.club/channel/n40025455.m3u8
-Skysports News,http://free.cnlive.club/channel/n1595d4d5.m3u8
-Al-Jazeera,http://free.cnlive.club/channel/n312e1c58.m3u8
-越南频斯,#genre#
-ANTV,http://free.cnlive.club/channel/n22a24afa.m3u8
-VTV 1,http://free.cnlive.club/channel/n307c6b4e.m3u8
-VTV 7,http://free.cnlive.club/channel/n307c6b48.m3u8
-HTV 7,http://free.cnlive.club/channel/n3141b456.m3u8
-HTV 9,http://free.cnlive.club/channel/n3141b454.m3u8
-BPTV 2,http://free.cnlive.club/channel/n16a68c7.m3u8
-BRT HD,http://free.cnlive.club/channel/n14eff91.m3u8
-Ca Mau TV,http://free.cnlive.club/channel/ne2b5b94.m3u8
-Danang TV1 HD,http://free.cnlive.club/channel/3002d84d.m3u8
-Danang TV2 HD,http://free.cnlive.club/channel/30034cac.m3u8
-HBTV HD,http://free.cnlive.club/channel/n6612257.m3u8
-PTTH 1,http://free.cnlive.club/channel/16b19960.m3u8
-韩国频斯,#genre#
-Arirang HD,http://free.cnlive.club/channel/2ff36b8c.m3u8
-Yonhap News,http://free.cnlive.club/channel/n42d097fc.m3u8
-CBS,http://free.cnlive.club/channel/60bd5504.m3u8
-EBS 1,http://free.cnlive.club/channel/26d85717.m3u8
-EBS2,http://free.cnlive.club/channel/n4911cb94.m3u8
-EBS Plus2,http://free.cnlive.club/channel/n37ff5662.m3u8
-SBS Plus,http://free.cnlive.club/channel/201eed46.m3u8
-YTN,http://free.cnlive.club/channel/60bda9c3.m3u8
-KBS World 24,http://free.cnlive.club/channel/23b56044.m3u8
-YTN Science,http://free.cnlive.club/channel/42d704e7.m3u8
-YTN Korean,http://free.cnlive.club/channel/n552431df.m3u8
-YTN DMB,http://free.cnlive.club/channel/128ca4fc.m3u8
-Apps TV,http://free.cnlive.club/channel/4ec31c00.m3u8
-All the Kpop,http://free.cnlive.club/channel/57449d04.m3u8
-J the Kpop,http://free.cnlive.club/channel/n4f37dba5.m3u8
-EBS Kids,http://free.cnlive.club/channel/71cc25e7.m3u8
-CGNTV,http://free.cnlive.club/channel/26be619c.m3u8
-日本频斯,#genre#
-NHK-総合-2,http://free.cnlive.club/channel/na79f989.m3u8
-NHK-E,http://free.cnlive.club/channel/n58f58814.m3u8
-テレビ朝日 Asahi TV,http://free.cnlive.club/channel/n1772cc46.m3u8
-JET 綜合,http://free.cnlive.club/channel/335a44b0.m3u8
-テレビ東京 Tokyo TV,http://free.cnlive.club/channel/n45cbf64f.m3u8
-TOKYOMX,http://free.cnlive.club/channel/57b7ac54.m3u8
-NHKBS1,http://free.cnlive.club/channel/3a44d64c.m3u8
-NHKBSプレミア Premium,http://free.cnlive.club/channel/32735274.m3u8
-BSジャパン 181,http://free.cnlive.club/channel/n7e70a07b.m3u8
-BSフジ BS Fuji,http://free.cnlive.club/channel/n533d3eb2.m3u8
-CNA Japan,http://free.cnlive.club/channel/n6a6e2861.m3u8
-BS-TBS,http://free.cnlive.club/channel/26584fe6.m3u8
-NHK Oaska,http://free.cnlive.club/channel/n697f9e15.m3u8
-NHK World,http://free.cnlive.club/channel/n6908887a.m3u8
 体育频特,#genre#
 Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
 Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
@@ -6273,8 +5810,8 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 地方频道,#genre#
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 厦门卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
-广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
@@ -6288,6 +5825,7 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 中华特产,http://120.76.248.139/live/bfgd/4200000158.m3u8
+中华美食,http://nas.hssvm.com:8888/udp/225.1.1.218:5002
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -6318,7 +5856,7 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 兰考新闻,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
-兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd
+兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 兵团八师石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -6326,11 +5864,10 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
-北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
-北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
@@ -6352,7 +5889,7 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 唐河一套,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
@@ -6363,7 +5900,10 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 固始综合,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
-太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0
+天津文艺,http://nas.hssvm.com:8888/udp/225.1.1.131:5002
+天津新闻,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
+天津都市,http://nas.hssvm.com:8888/udp/225.1.1.128:5002
+太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
@@ -6375,7 +5915,6 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宾阳综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
 屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
-山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8
@@ -6399,10 +5938,10 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
-开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend,
+开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
-德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -6415,16 +5954,18 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+新安新闻综合,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
+方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 施甸综合,http://live.ynurl.com/video/s10048-SDTV/index.m3u8
-无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=156143371706166361#http://stream.thmz.com/wxtv1/sd/live.m3u8?_upt=4ba3ab191698644028#http://stream.thmz.com/wxtv1/playlist.m3u8
 无锡生活,https://stream.thmz.com/wxtv4/playlist.m3u8
 无锡经济,https://stream.thmz.com/wxtv5/playlist.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
@@ -6444,6 +5985,7 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
@@ -6454,6 +5996,7 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
+沁阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 河北农民,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 河北都市,http://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8
@@ -6470,22 +6013,25 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 洛阳综合,https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-济宁综合,http://111.14.181.15:9901/tsfile/live/1007_1.m3u8
+济宁综合,http://111.14.181.15:9901/tsfile/live/1007_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 海南新闻,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 涡阳新闻综合,http://220.180.124.18:888/live/ch0.m3u8
@@ -6501,14 +6047,15 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 湖北生活,http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 湖南爱晚,http://p2.vzan.com/527645544/149039617847513156/live.m3u8
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&amp;amp;fbl=
-湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;amp;fbl=
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
+湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 滑县新闻,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
+灵宝新闻综合,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?zhend
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
@@ -6582,9 +6129,9 @@ BBC,https://stream1.freetv.fun/bbc-news-5.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
+鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 酒泉综合,https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8
 金平综合,http://live.ynurl.com/video/s10041-JPTV/index.m3u8
-钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
@@ -7038,6 +6585,7 @@ TVBPlus,https://stream1.freetv.fun/tvb-plus-9.m3u8
 电影频道,#genre#
 CHC动作电影,http://atcq62.3950.cn:35455/mgtv/644368714.m3u8
 CHC影迷电影,http://atcq62.3950.cn:35455/mgtv/952383261.m3u8
+CHC电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 电视剧,#genre#
 西游记后传,http://jiaojirentv.top/2020/yy.php?id=1353392400
 西游记续集,http://jiaojirentv.top/2020/dy.php?id=3113309
