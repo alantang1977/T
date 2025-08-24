@@ -1,5 +1,5 @@
 注意事项,#genre#
-20250823030425仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
+20250824032059仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 MY,#genre#
 南充综合,http://ncrmpull.cnncw.cn/live/8f7b908601931000dd6ee79a00000000/playlist.m3u8?wsSecret=371a8108a7826e6dd8a0d9fe5f90272c&wsTime=2019657600
 南充科教,http://ncrmpull.cnncw.cn/live/8f7f8d3101931000ffbe3ba700000000/playlist.m3u8?wsSecret=0148edb88bca6b49e86cc6ef96fb3ac3&wsTime=2019657600
@@ -1481,13 +1481,21 @@ http://s1.an94tv.cfd/taiwan/cinemaworld/AKTV.m3u8
 http://s1.an94tv.cfd/taiwan/hits/AKTV.m3u8
 #EXTINF:39 aktv-group="taiwan" tvg-id="taiwan/magellantv" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",MagellanTV頻道
 http://s1.an94tv.cfd/taiwan/magellantv/AKTV.m3u8
-#EXTINF:40 aktv-group="zhongtian" tvg-id="zhongtian/live" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",三立LIVE
+#EXTINF:40 aktv-group="zhongtian" tvg-id="zhongtian/tvbs55" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",Tvbs 55頻道
+http://s1.an94tv.cfd/zhongtian/tvbs55/AKTV.m3u8
+#EXTINF:41 aktv-group="zhongtian" tvg-id="zhongtian/tvbs56" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",Tvbs 56頻道
+http://s1.an94tv.cfd/zhongtian/tvbs56/AKTV.m3u8
+#EXTINF:42 aktv-group="zhongtian" tvg-id="zhongtian/live" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",三立LIVE
 http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
-#EXTINF:41 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
+#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:42 aktv-group="zhongtian" tvg-id="zhongtian/nasa" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",国际空间站 (NASA)
-http://s1.an94tv.cfd/zhongtian/nasa/AKTV.m3u8
-#EXTINF:43 aktv-group="zhongtian" tvg-id="zhongtian/CH-2" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",寰宇新聞台
+#EXTINF:44 aktv-group="zhongtian" tvg-id="zhongtian/CH-3" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中視新聞
+http://s1.an94tv.cfd/zhongtian/CH-3/AKTV.m3u8
+#EXTINF:45 aktv-group="zhongtian" tvg-id="zhongtian/CH-4" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",台視新聞
+http://s1.an94tv.cfd/zhongtian/CH-4/AKTV.m3u8
+#EXTINF:46 aktv-group="zhongtian" tvg-id="zhongtian/CH-2" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",寰宇新聞台
 http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
-#EXTINF:44 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
+#EXTINF:47 aktv-group="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
 http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:48 aktv-group="zhongtian" tvg-id="zhongtian/CH-5" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",民視新聞
+http://s1.an94tv.cfd/zhongtian/CH-5/AKTV.m3u8
